@@ -1,0 +1,16 @@
+[build-system]
+requires = ["setuptools",  "setuptools-scm"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "bensira_xml"
+authors = [
+    {name = "Sophie Robert", email = "sophie.robert@univ-lorraine.fr"},
+]
+description = "New transcription of Ben Sira manuscript by F. Rey."
+readme = "README.md"
+requires-python = ">=3.9"
+dependencies = [
+
+]
+version="0.0.1"
