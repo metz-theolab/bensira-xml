@@ -1,57 +1,107 @@
-<?xml version="1.0" encoding="UTF-8" standalone="yes"?> 
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <Root>
     <Article>
         <ms>Manuscript F</ms>
         <chap>Siracide 31</chap>
-        <text>	<verse_nb>	</verse_nb><line>[1–4]</line></text>
         <folio>TS AS 213.17 recto</folio>
-        <text>	<verse_nb>24	</verse_nb><line>5</line>[                          ]ב̊שער̊[∙]	[                                  ]	</text>
-        <text>	<verse_nb>25	</verse_nb><line>6</line>[          אל תתג]ב̇ר∙	[  ]ר̊ב̇ים [                    ]</text>
-        <text>	<verse_nb>26	</verse_nb><line>7</line>[             ]מעשה̊ לוטש∙	כן היין למצ[ות                ]</text>
-        <text>	<verse_nb>27	</verse_nb><line>8</line>[         ] חיים לא̊נ̊וש∙	אם ישתנו [                  ]</text>
-        <text>	<verse_nb>	</verse_nb><line>9</line>[מה חיי]ם̊ ח̊ס̊ר̇ היין∙	שה[וא] מרא[שית נוצרו:]</text>
-        <text>	<verse_nb>28	</verse_nb><line>10</line>[שמ]ח̊ת̊ ל̇ב̇ וששון ועדוי∙	יין נש̇א̊ר̊ ב̊[                   ]</text>
-        <text>	<verse_nb>	</verse_nb><line>11</line>חיים למה יחסר תירוש∙	והוא לגיל [                 ]</text>
-        <text>	<verse_nb>29	</verse_nb><line>12</line>כאב ראש לענה ורוש∙	יין נשתה בחר̊י̊[             ]</text>
-        <text>	<verse_nb>30	</verse_nb><line>13</line>מרבה חמד לכסיל נוקש∙	מחסר כח ומספיק [        ]</text>
-        <text>	<verse_nb>31	</verse_nb><line>14</line>במשתה יין א‍ל תוכח רֵעַ∙	וא‍ל תוגַהו בחדותו׃</text>
-        <text>	<verse_nb>	</verse_nb><line>15</line>דבר חרפה א‍ל תאמר לו∙	וא‍ל תקמיעהו בנגשה וא‍ל תריב עמו לעיני כל אדם׃</text>
+        <text>
+            <verse_nb>24 </verse_nb><line>5</line>[ ]ב̊שער̊[∙] [ ] </text>
+        <text>
+            <verse_nb>25 </verse_nb><line>6</line>[ אל תתג]ב̇ר∙ [ ]ר̊ב̇ים [ ]</text>
+        <text>
+            <verse_nb>26 </verse_nb><line>7</line>[ ]מעשה̊ לוטש∙ כן היין למצ[ות ]</text>
+        <text>
+            <verse_nb>27 </verse_nb><line>8</line>[ ] חיים לא̊נ̊וש∙ אם ישתנו [ ]</text>
+        <text>
+            <verse_nb> </verse_nb><line>9</line>[מה חיי]ם̊ ח̊ס̊ר̇ היין∙ שה[וא] מרא[שית נוצרו:]</text>
+        <text>
+            <verse_nb>28 </verse_nb><line>10</line>[שמ]ח̊ת̊ ל̇ב̇ וששון ועדוי∙ יין נש̇א̊ר̊ ב̊[ ]</text>
+        <text>
+            <verse_nb> </verse_nb><line>11</line>חיים למה יחסר תירוש∙ והוא לגיל [ ]</text>
+        <text>
+            <verse_nb>29 </verse_nb><line>12</line>כאב ראש לענה ורוש∙ יין נשתה בחר̊י̊[ ]</text>
+        <text>
+            <verse_nb>30 </verse_nb><line>13</line>מרבה חמד לכסיל נוקש∙ מחסר כח ומספיק [ ]</text>
+        <text>
+            <verse_nb>31 </verse_nb><line>14</line>במשתה יין א‍ל תוכח רֵעַ∙ וא‍ל תוגַהו בחדותו׃</text>
+        <text>
+            <verse_nb> </verse_nb><line>15</line>דבר חרפה א‍ל תאמר לו∙ וא‍ל תקמיעהו בנגשה וא‍ל תריב
+            עמו לעיני כל אדם׃</text>
         <chap>chapter 32</chap>
-        <text>	<verse_nb>1	</verse_nb><line>16</line>ראש סמוך א‍ל תותר׃	ובראש עשירים א‍ל תסתורה והיה לך כאחד מהם׃</text>
-        <text>	<verse_nb>2	</verse_nb><line>17</line>ד̇אג להם ואחר תסוב∙	הבו צרכם ובכן תרבץ׃</text>
-        <text>	<verse_nb>	</verse_nb><line>18</line>למען תשמח בכבודם∙	ועל מוסר תשא שכל׃</text>
-        <text>	<verse_nb>3	</verse_nb><line>19</line>מלל שבט הוא לך∙	והצנע שכל וא‍ל תמנע שיר׃</text>
-        <text>	<verse_nb>4	</verse_nb><line>20</line>במקום שכל א‍ל תשפך שיח∙	ובלא מזמור א‍ל שיח תשפך׃</text>
-        <text>	<verse_nb>5ab	</verse_nb><line>21</line>כחותם על כיס זהב∙	שירת א‍ל על משתה היין׃</text>
-        <text>	<verse_nb>5cd	</verse_nb><line>22</line>כומז אדם על טס זהוב∙	משפט שיר על משתה היין׃</text>
-        <text>	<verse_nb>5ef	</verse_nb><line>23</line>כדביר זהב בו נופך וספיר∙	נואי דברים על מש׳ היין׃</text>
-        <text>	<verse_nb>6	</verse_nb><line>24</line>כל מלא פז וחותם ברקת∙	קול מזמור על נועם תירוש׃</text>
-        <text>	<verse_nb>	</verse_nb><line>25</line></text>
-        <text>	<verse_nb>7	</verse_nb><line>26</line>[דב]ר̊ נער צורך אותך∙	פעמים ושלש אם ישא‍לך׃</text>
+        <text>
+            <verse_nb>1 </verse_nb><line>16</line>ראש סמוך א‍ל תותר׃ ובראש עשירים א‍ל תסתורה והיה לך
+            כאחד מהם׃</text>
+        <text>
+            <verse_nb>2 </verse_nb><line>17</line>ד̇אג להם ואחר תסוב∙ הבו צרכם ובכן תרבץ׃</text>
+        <text>
+            <verse_nb> </verse_nb><line>18</line>למען תשמח בכבודם∙ ועל מוסר תשא שכל׃</text>
+        <text>
+            <verse_nb>3 </verse_nb><line>19</line>מלל שבט הוא לך∙ והצנע שכל וא‍ל תמנע שיר׃</text>
+        <text>
+            <verse_nb>4 </verse_nb><line>20</line>במקום שכל א‍ל תשפך שיח∙ ובלא מזמור א‍ל שיח תשפך׃</text>
+        <text>
+            <verse_nb>5ab </verse_nb><line>21</line>כחותם על כיס זהב∙ שירת א‍ל על משתה היין׃</text>
+        <text>
+            <verse_nb>5cd </verse_nb><line>22</line>כומז אדם על טס זהוב∙ משפט שיר על משתה היין׃</text>
+        <text>
+            <verse_nb>5ef </verse_nb><line>23</line>כדביר זהב בו נופך וספיר∙ נואי דברים על מש׳ היין׃</text>
+        <text>
+            <verse_nb>6 </verse_nb><line>24</line>כל מלא פז וחותם ברקת∙ קול מזמור על נועם תירוש׃</text>
+        <text>
+            <verse_nb> </verse_nb>
+            <line>25</line>
+        </text>
+        <text>
+            <verse_nb>7 </verse_nb><line>26</line>[דב]ר̊ נער צורך אותך∙ פעמים ושלש אם ישא‍לך׃</text>
         <folio>TS AS 213.17 verso</folio>
-        <text>	<verse_nb>[8–11]	</verse_nb><line>1–5</line>[	                                     ]	</text>
-        <text>	<verse_nb>11cd	</verse_nb><line>6</line>[            ]ן[               ]י̊ם̊	[                                   ]</text>
-        <text>	<verse_nb>12	</verse_nb><line>7</line>[        ]ב̊יתך ושל̊ם̊[ ר]צ̊ו̇ן∙	ביר̊א̊[ת                        ]</text>
-        <text>	<verse_nb>13	</verse_nb><line>8</line>[       א]לה ברך עושך∙	המרוך מטו̊[בתו:]</text>
-        <text>	<verse_nb>14ab	</verse_nb><line>9</line>[       א]ל̇ חי וקוה רצון∙	וגם מ̊תלהלה י̊[              ]</text>
-        <text>	<verse_nb>14ef	</verse_nb><line>10</line>[דורש ח]פצי̊[ אל י]מצא לקח∙	ויענהו בכל ק̊̊צ̊[י עד׃]</text>
-        <text>	<verse_nb>16	</verse_nb><line>11</line>[ירא ייי י]ב̊ין משפט∙	ות{ת}חבולות מנ̇ש̊ף̊[ יוציא׃]</text>
-        <text>	<verse_nb>	</verse_nb><line>12</line>[יראי] ייי י̊בינו משפטו∙	וחכמות יוציאו מלבם̇:</text>
-        <text>	<verse_nb>17	</verse_nb><line>13</line>איש חמס יטה תוכחות∙	ויאחר צרכו למשך תורה׃</text>
-        <text>	<verse_nb>18ab	</verse_nb><line>14</line>איש לא י̇כסה חכמה∙	ולץ לא ישמור לשונו׃</text>
-        <text>	<verse_nb>18cd	</verse_nb><line>15</line>איש חמס לא יקח שכל∙	זד ולץ לא יקח מצוה׃</text>
-        <text>	<verse_nb>19	</verse_nb><line>16</line>בלא עצה א‍ל תפעל דבר∙	ואחר מעשיך א‍ל תתקפץ׃</text>
-        <text>	<verse_nb>20	</verse_nb><line>17</line>בדרך מוקשת א‍ל תלך∙	וא‍ל תתקל בדרך נגף׃</text>
-        <text>	<verse_nb>21b/22b	</verse_nb><line>18</line>אל תתחר בדרך רשעים∙	ובאחריתך היה זהיר׃</text>
-        <text>	<verse_nb>33:1	</verse_nb><line>19</line>ירא ייי לא יפגע רע∙	כי אם בניסוי ישוב ונמלט׃</text>
-        <text>	<verse_nb>24	</verse_nb><line>20</line>נוצר תורה נוצר נפשו∙	ובוטח בייי לא יבוש׃</text>
+        <text>
+            <verse_nb>[8–11] </verse_nb><line>1–5</line>[ ] </text>
+        <text>
+            <verse_nb>11cd </verse_nb><line>6</line>[ ]ן[ ]י̊ם̊ [ ]</text>
+        <text>
+            <verse_nb>12 </verse_nb><line>7</line>[ ]ב̊יתך ושל̊ם̊[ ר]צ̊ו̇ן∙ ביר̊א̊[ת ]</text>
+        <text>
+            <verse_nb>13 </verse_nb><line>8</line>[ א]לה ברך עושך∙ המרוך מטו̊[בתו:]</text>
+        <text>
+            <verse_nb>14ab </verse_nb><line>9</line>[ א]ל̇ חי וקוה רצון∙ וגם מ̊תלהלה י̊[ ]</text>
+        <text>
+            <verse_nb>14ef </verse_nb><line>10</line>[דורש ח]פצי̊[ אל י]מצא לקח∙ ויענהו בכל ק̊̊צ̊[י
+            עד׃]</text>
+        <text>
+            <verse_nb>16 </verse_nb><line>11</line>[ירא ייי י]ב̊ין משפט∙ ות{ת}חבולות מנ̇ש̊ף̊[
+            יוציא׃]</text>
+        <text>
+            <verse_nb> </verse_nb><line>12</line>[יראי] ייי י̊בינו משפטו∙ וחכמות יוציאו מלבם̇:</text>
+        <text>
+            <verse_nb>17 </verse_nb><line>13</line>איש חמס יטה תוכחות∙ ויאחר צרכו למשך תורה׃</text>
+        <text>
+            <verse_nb>18ab </verse_nb><line>14</line>איש לא י̇כסה חכמה∙ ולץ לא ישמור לשונו׃</text>
+        <text>
+            <verse_nb>18cd </verse_nb><line>15</line>איש חמס לא יקח שכל∙ זד ולץ לא יקח מצוה׃</text>
+        <text>
+            <verse_nb>19 </verse_nb><line>16</line>בלא עצה א‍ל תפעל דבר∙ ואחר מעשיך א‍ל תתקפץ׃</text>
+        <text>
+            <verse_nb>20 </verse_nb><line>17</line>בדרך מוקשת א‍ל תלך∙ וא‍ל תתקל בדרך נגף׃</text>
+        <text>
+            <verse_nb>21b/22b </verse_nb><line>18</line>אל תתחר בדרך רשעים∙ ובאחריתך היה זהיר׃</text>
+        <text>
+            <verse_nb>33:1 </verse_nb><line>19</line>ירא ייי לא יפגע רע∙ כי אם בניסוי ישוב ונמלט׃</text>
+        <text>
+            <verse_nb>24 </verse_nb><line>20</line>נוצר תורה נוצר נפשו∙ ובוטח בייי לא יבוש׃</text>
         <chap>Chapter 33</chap>
-        <text>	<verse_nb>2	</verse_nb><line>21</line>לא יחכם שונא תורה∙	ומתמוטט כמסערה <supralinear>אזנו</supralinear>׃</text>
-        <text>	<verse_nb>4	</verse_nb><line>22</line>הכין אומר ואחר תעשה∙	ובית מנוח ואחר תגיה׃</text>
-        <text>	<verse_nb>5	</verse_nb><line>23</line>גלגל קל לב נבל∙	ואופן חוזר מחש̇בותי̇ו׃</text>
-        <text>	<verse_nb>6	</verse_nb><line>24</line>כסוס מוכן אוהב שונא∙	תחת כל אוהב יצהל׃</text>
-        <text>	<verse_nb>7	</verse_nb><line>25</line>מה על יום יום כי כלו∙	אור שונה על שמש׃</text>
-        <text>	<verse_nb>8	</verse_nb><line>26</line>אבל בחכמת ייי נשפטו∙	ויש מהם מוע[ד     ]</text>
-                
+        <text>
+            <verse_nb>2 </verse_nb><line>21</line>לא יחכם שונא תורה∙ ומתמוטט כמסערה <supralinear>
+            אזנו</supralinear>׃</text>
+        <text>
+            <verse_nb>4 </verse_nb><line>22</line>הכין אומר ואחר תעשה∙ ובית מנוח ואחר תגיה׃</text>
+        <text>
+            <verse_nb>5 </verse_nb><line>23</line>גלגל קל לב נבל∙ ואופן חוזר מחש̇בותי̇ו׃</text>
+        <text>
+            <verse_nb>6 </verse_nb><line>24</line>כסוס מוכן אוהב שונא∙ תחת כל אוהב יצהל׃</text>
+        <text>
+            <verse_nb>7 </verse_nb><line>25</line>מה על יום יום כי כלו∙ אור שונה על שמש׃</text>
+        <text>
+            <verse_nb>8 </verse_nb><line>26</line>אבל בחכמת ייי נשפטו∙ ויש מהם מוע[ד ]</text>
+
     </Article>
 </Root>

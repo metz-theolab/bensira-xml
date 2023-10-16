@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Root>
+    <Article>
+        <ms>Manuscript F</ms>
+        <chap>chapter 32</chap>
+        <folio>TS AS 213.17 recto</folio>
+        <text>
+            <verse_nb>1 </verse_nb><line>16</line>ראש סמוך א‍ל תותר׃ ובראש עשירים א‍ל תסתורה והיה לך
+            כאחד מהם׃</text>
+        <folio>TS AS 213.17 verso</folio>
+        <text>
+            <verse_nb>16 </verse_nb><line>11</line>[ירא ייי י]ב̊ין משפט∙ ות{ת}חבולות מנ̇ש̊ף̊[
+            יוציא׃]</text>
+        <chap>Chapter 33</chap>
+        <text>
+            <verse_nb>2 </verse_nb><line>21</line>לא יחכם שונא תורה∙ ומתמוטט כמסערה ׃</text>
+    </Article>
+</Root>

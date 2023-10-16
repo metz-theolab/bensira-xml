@@ -1,0 +1,16 @@
+<root>
+    <ms>Manuscript F<div type="chap" n="31">
+            <div type="folio" n="TS AS 213.17 recto" />
+            <div type="verse" n="24">
+                <line n="5" />
+                <w reconstructed="0">
+                    <blank orient='horizontal' span='28' />
+                </w>
+                <w reconstructed="1">ב̊שער̊<g type='reconstructed'>∙</g></w>
+                <stych />
+                <w reconstructed="0">
+                    <blank orient='horizontal' span='36' />
+                </w>
+            </div>
+        </div></ms>
+</root>
