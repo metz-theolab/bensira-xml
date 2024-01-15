@@ -1,27 +1,16 @@
 <root>
-    <ms>Manuscript 2Q18<div type="chap" n="2Q18 frag. 1">
+    <ms name="Manuscript 2Q18">
+        <div type="chap" n="2Q18 frag. 1">
             <line n="1">
-                <w reconstructed="0">
-                    <blank orient='horizontal' span='26' />
-                </w>
                 <w reconstructed="1">ת<g type='reconstructed'></g></w>
-                <w reconstructed="0">
-                    <blank orient='horizontal' span='2' />
-                </w>
             </line>
             <line n="2">
-                <w reconstructed="0">
-                    <blank orient='horizontal' span='21' />
-                </w>
                 <w reconstructed="0">]ה̇</w>
                 <w reconstructed="1">א◦◦<g type='reconstructed'></g></w>
-                <w reconstructed="0">
-                    <blank orient='horizontal' span='2' />
-                </w>
             </line>
-        </div><div
-            type="chap" n="2Q18 frag. 1 – Reconstruction of Sir 6:14-15 according HA" /><div
-            type="chap" n="6">
+        </div>
+        <div type="chap" n="2Q18 frag. 1 – Reconstruction of Sir 6:14-15 according HA" />
+        <div type="chap" n="6">
             <div type="verse" n="14">
                 <line n="1" />
                 <w reconstructed="1">
@@ -33,10 +22,7 @@
                 <w reconstructed="1">
                     <g type='reconstructed'>אוהב</g>
                 </w>
-                <w reconstructed="1">ת<g type='reconstructed'>קוף‏</g></w>
-                <w reconstructed="0">
-                    <blank orient='horizontal' span='5' />
-                </w>
+                <w reconstructed="1">ת<g type='reconstructed'>קוף</g></w>
                 <w reconstructed="1">
                     <g type='reconstructed'>ומוצאו</g>
                 </w>
@@ -47,23 +33,17 @@
                     <g type='reconstructed'>הון</g>
                 </w>
             </div>
-        </div><div
-            type="chap" n="6">
+        </div>
+        <div type="chap" n="6">
             <div type="verse" n="15">
                 <line n="2" />
                 <w reconstructed="1">
-                    <g type='reconstructed'>לאוהב‏</g>
-                </w>
-                <w reconstructed="0">
-                    <blank orient='horizontal' span='6' />
+                    <g type='reconstructed'>לאוהב</g>
                 </w>
                 <w reconstructed="1"><g type='reconstructed'>אמונ</g>ה̇</w>
-                <w reconstructed="1">אי֯ן֯<g type='reconstructed'></g></w>
+                <w reconstructed="1">אי̊ן̊<g type='reconstructed'></g></w>
                 <w reconstructed="1">
-                    <g type='reconstructed'>מחיר‏</g>
-                </w>
-                <w reconstructed="0">
-                    <blank orient='horizontal' span='4' />
+                    <g type='reconstructed'>מחיר</g>
                 </w>
                 <w reconstructed="1">
                     <g type='reconstructed'>ואין</g>
@@ -75,9 +55,9 @@
                     <g type='reconstructed'>לטובתו</g>
                 </w>
             </div>
-        </div><div
-            type="chap" n="2Q18 frag. 1 – Reconstruction of Sir 6:14-15 according to HC" /><div
-            type="chap" n="6">
+        </div>
+        <div type="chap" n="2Q18 frag. 1 – Reconstruction of Sir 6:14-15 according to HC" />
+        <div type="chap" n="6">
             <div type="verse" n="14">
                 <line n="1" />
                 <w reconstructed="1">
@@ -89,10 +69,7 @@
                 <w reconstructed="1">
                     <g type='reconstructed'>מגן</g>
                 </w>
-                <w reconstructed="1">ת<g type='reconstructed'>קיף‏</g></w>
-                <w reconstructed="0">
-                    <blank orient='horizontal' span='5' />
-                </w>
+                <w reconstructed="1">ת<g type='reconstructed'>קיף</g></w>
                 <w reconstructed="1">
                     <g type='reconstructed'>ומוצאו</g>
                 </w>
@@ -106,23 +83,17 @@
                     <g type='reconstructed'>הון</g>
                 </w>
             </div>
-        </div><div
-            type="chap" n="6">
+        </div>
+        <div type="chap" n="6">
             <div type="verse" n="15">
                 <line n="2" />
                 <w reconstructed="1">
                     <g type='reconstructed'>אוהב</g>
                 </w>
-                <w reconstructed="0">
-                    <blank orient='horizontal' span='5' />
-                </w>
                 <w reconstructed="1"><g type='reconstructed'>אמונ</g>ה̇</w>
                 <w reconstructed="1">אי̊ן̊<g type='reconstructed'></g></w>
                 <w reconstructed="1">
-                    <g type='reconstructed'>מחיר‏</g>
-                </w>
-                <w reconstructed="0">
-                    <blank orient='horizontal' span='4' />
+                    <g type='reconstructed'>מחיר</g>
                 </w>
                 <w reconstructed="1">
                     <g type='reconstructed'>ואין</g>
@@ -134,8 +105,9 @@
                     <g type='reconstructed'>לטובתו</g>
                 </w>
             </div>
-        </div><div
-            type="chap" n="2Q18 frag. 1 – Reconstruction of Sir 1:19-20" /><div type="chap" n="1">
+        </div>
+        <div type="chap" n="2Q18 frag. 1 – Reconstruction of Sir 1:19-20" />
+        <div type="chap" n="1">
             <div type="verse" n="19">
                 <line n="1" />
                 <w reconstructed="1">
@@ -147,9 +119,6 @@
                 <w reconstructed="1">
                     <g type='reconstructed'>תביע</g>
                 </w>
-                <w reconstructed="0">
-                    <blank orient='horizontal' span='9' />
-                </w>
                 <w reconstructed="1">
                     <g type='reconstructed'>וכבוד</g>
                 </w>
@@ -158,8 +127,8 @@
                 </w>
                 <w reconstructed="1"><g type='reconstructed'></g>ת<g type='reconstructed'>רים</g></w>
             </div>
-        </div><div
-            type="chap" n="1">
+        </div>
+        <div type="chap" n="1">
             <div type="verse" n="20">
                 <line n="2" />
                 <w reconstructed="1">
@@ -174,17 +143,15 @@
                 <w reconstructed="1">
                     <g type='reconstructed'>יהוה</g>
                 </w>
-                <w reconstructed="0">
-                    <blank orient='horizontal' span='7' />
-                </w>
                 <w reconstructed="1"><g type='reconstructed'>וענפי</g>ה̇</w>
                 <w reconstructed="1">אר̊ך̊<g type='reconstructed'></g></w>
                 <w reconstructed="1">
                     <g type='reconstructed'>ימים</g>
                 </w>
             </div>
-        </div><div
-            type="chap" n="2Q18 frag. 2" /><div type="chap" n="6">
+        </div>
+        <div type="chap" n="2Q18 frag. 2" />
+        <div type="chap" n="6">
             <div type="verse" n="20">
                 <line n="1" />
                 <w reconstructed="1">
@@ -194,10 +161,7 @@
                     <g type='reconstructed'>היא</g>
                 </w>
                 <w reconstructed="1">
-                    <g type='reconstructed'>לאויל‏</g>
-                </w>
-                <w reconstructed="0">
-                    <blank orient='horizontal' span='16' />
+                    <g type='reconstructed'>לאויל</g>
                 </w>
                 <w reconstructed="1">
                     <g type='reconstructed'>ולא</g>
@@ -210,8 +174,8 @@
                 </w>
                 <w reconstructed="1"><g type='reconstructed'>ל</g>ב̇</w>
             </div>
-        </div><div
-            type="chap" n="6">
+        </div>
+        <div type="chap" n="6">
             <div type="verse" n="21">
                 <line n="2" />
                 <w reconstructed="1">
@@ -224,10 +188,7 @@
                     <g type='reconstructed'>תהיה</g>
                 </w>
                 <w reconstructed="1">
-                    <g type='reconstructed'>עליו‏</g>
-                </w>
-                <w reconstructed="0">
-                    <blank orient='horizontal' span='6' />
+                    <g type='reconstructed'>עליו</g>
                 </w>
                 <w reconstructed="1">
                     <g type='reconstructed'>ולא</g>
@@ -239,8 +200,8 @@
                     <g type='reconstructed'>להשליכה</g>
                 </w>
             </div>
-        </div><div
-            type="chap" n="6">
+        </div>
+        <div type="chap" n="6">
             <div type="verse" n="22">
                 <line n="3" />
                 <w reconstructed="1">
@@ -256,10 +217,7 @@
                     <g type='reconstructed'>כן</g>
                 </w>
                 <w reconstructed="1">
-                    <g type='reconstructed'>הוא‏</g>
-                </w>
-                <w reconstructed="0">
-                    <blank orient='horizontal' span='6' />
+                    <g type='reconstructed'>הוא</g>
                 </w>
                 <w reconstructed="1">
                     <g type='reconstructed'>ולא</g>
@@ -272,24 +230,18 @@
                 </w>
                 <w reconstructed="1"><g type='reconstructed'>נ</g>כ̊ח̇</w>
             </div>
-        </div><div
-            type="chap" n="6">
+        </div>
+        <div type="chap" n="6">
             <div type="verse" n="23">
                 <line n="4" />
-                <w reconstructed="0">
-                    <blank orient='horizontal' span='13' />
-                </w>
             </div>
-        </div><div
-            type="chap" n="6">
+        </div>
+        <div type="chap" n="6">
             <div type="verse" n="24">
                 <line n="5" />
-                <w reconstructed="0">
-                    <blank orient='horizontal' span='58' />
-                </w>
             </div>
-        </div><div
-            type="chap" n="6">
+        </div>
+        <div type="chap" n="6">
             <div type="verse" n="25">
                 <line n="6" />
                 <w reconstructed="1">
@@ -299,10 +251,7 @@
                     <g type='reconstructed'>שכמך</g>
                 </w>
                 <w reconstructed="1">
-                    <g type='reconstructed'>ושאה‏</g>
-                </w>
-                <w reconstructed="0">
-                    <blank orient='horizontal' span='8' />
+                    <g type='reconstructed'>ושאה</g>
                 </w>
                 <w reconstructed="1">
                     <g type='reconstructed'>ואל</g>
@@ -314,8 +263,8 @@
                     <g type='reconstructed'>בתחבולתיה</g>
                 </w>
             </div>
-        </div><div
-            type="chap" n="6">
+        </div>
+        <div type="chap" n="6">
             <div type="verse" n="26">
                 <line n="7" />
                 <w reconstructed="1">
@@ -328,10 +277,7 @@
                     <g type='reconstructed'>קרב</g>
                 </w>
                 <w reconstructed="1">
-                    <g type='reconstructed'>אליה‏</g>
-                </w>
-                <w reconstructed="0">
-                    <blank orient='horizontal' span='4' />
+                    <g type='reconstructed'>אליה</g>
                 </w>
                 <w reconstructed="1">
                     <g type='reconstructed'>ובכל</g>
@@ -342,140 +288,8 @@
                 <w reconstructed="1">
                     <g type='reconstructed'>שמר</g>
                 </w>
-                <w reconstructed="1"><g type='reconstructed'>דר</g>כ̊<g type='reconstructed'>י‏</g>ה</w>
+                <w reconstructed="1"><g type='reconstructed'>דר</g>כ̊<g type='reconstructed'>י</g>ה</w>
             </div>
-        </div><div
-            type="chap" n="6">
-            <div type="verse" n="27">
-                <line n="8" />
-                <w reconstructed="1">
-                    <g type='reconstructed'>דרש</g>
-                </w>
-                <w reconstructed="1">
-                    <g type='reconstructed'>וחקר</g>
-                </w>
-                <w reconstructed="1">
-                    <g type='reconstructed'>בקש</g>
-                </w>
-                <w reconstructed="1">
-                    <g type='reconstructed'>ומצא‏</g>
-                </w>
-                <w reconstructed="0">
-                    <blank orient='horizontal' span='2' />
-                </w>
-                <w reconstructed="1">
-                    <g type='reconstructed'>והתחזקתה</g>
-                </w>
-                <w reconstructed="1">
-                    <g type='reconstructed'>ואל</g>
-                </w>
-                <w reconstructed="1"><g type='reconstructed'>תר</g>פ̊ה</w>
-            </div>
-        </div><div
-            type="chap" n="6">
-            <div type="verse" n="28">
-                <line n="9" />
-                <w reconstructed="1">
-                    <g type='reconstructed'>כי</g>
-                </w>
-                <w reconstructed="1">
-                    <g type='reconstructed'>לאחור</g>
-                </w>
-                <w reconstructed="1">
-                    <g type='reconstructed'>תמצא</g>
-                </w>
-                <w reconstructed="1">
-                    <g type='reconstructed'>מנוחתה‏</g>
-                </w>
-                <w reconstructed="0">
-                    <blank orient='horizontal' span='5' />
-                </w>
-                <w reconstructed="1">
-                    <g type='reconstructed'>ותהפך</g>
-                </w>
-                <w reconstructed="1">
-                    <g type='reconstructed'>לך</g>
-                </w>
-                <w reconstructed="1"><g type='reconstructed'>לת</g>ע̊נג</w>
-            </div>
-        </div><div
-            type="chap" n="6">
-            <div type="verse" n="29">
-                <line n="10" />
-                <w reconstructed="1">
-                    <g type='reconstructed'>והיתה</g>
-                </w>
-                <w reconstructed="1">
-                    <g type='reconstructed'>לך</g>
-                </w>
-                <w reconstructed="1">
-                    <g type='reconstructed'>רשתה</g>
-                </w>
-                <w reconstructed="1">
-                    <g type='reconstructed'>מכון</g>
-                </w>
-                <w reconstructed="1">
-                    <g type='reconstructed'>עז‏</g>
-                </w>
-                <w reconstructed="0">
-                    <blank orient='horizontal' span='4' />
-                </w>
-                <w reconstructed="1">
-                    <g type='reconstructed'>וחבלתה‏</g>
-                </w>
-                <w reconstructed="1"><g type='reconstructed'></g>ב̊ג̇ד̇י</w>
-                <w reconstructed="0">כתם</w>
-            </div>
-        </div><div type="chap" n="6">
-            <div type="verse" n="30">
-                <line n="11" />
-                <w reconstructed="1">
-                    <g type='reconstructed'>עלי</g>
-                </w>
-                <w reconstructed="1">
-                    <g type='reconstructed'>זהב</g>
-                </w>
-                <w reconstructed="1">
-                    <g type='reconstructed'>עולה‏</g>
-                </w>
-                <w reconstructed="0">
-                    <blank orient='horizontal' span='3' />
-                </w>
-                <w reconstructed="1">
-                    <g type='reconstructed'>ומוסרתיה</g>
-                </w>
-                <w reconstructed="1">
-                    <g type='reconstructed'>פתיל</g>
-                </w>
-                <w reconstructed="1"><g type='reconstructed'>תכ</g>לת</w>
-            </div>
-        </div><div
-            type="chap" n="6">
-            <div type="verse" n="31">
-                <line n="12" />
-                <w reconstructed="1">
-                    <g type='reconstructed'>בגדי</g>
-                </w>
-                <w reconstructed="1">
-                    <g type='reconstructed'>כבוד</g>
-                </w>
-                <w reconstructed="1">
-                    <g type='reconstructed'>תלבשנה‏</g>
-                </w>
-                <w reconstructed="0">
-                    <blank orient='horizontal' span='9' />
-                </w>
-                <w reconstructed="1"><g type='reconstructed'>ועטר</g>ת</w>
-                <w reconstructed="0">תפארת</w>
-                <w reconstructed="0">תעטרנה</w>
-            </div>
-        </div><div type="chap"
-            n="6">
-            <div type="verse" n="32">
-                <line n="13" />
-                <w reconstructed="0">
-                    <blank orient='horizontal' span='9' />
-                </w>
-            </div>
-        </div></ms>
+        </div>
+    </ms>
 </root>
