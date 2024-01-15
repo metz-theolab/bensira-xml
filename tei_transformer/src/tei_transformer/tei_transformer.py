@@ -153,7 +153,7 @@ class TEITransformer:
                 if txt:
                     if elem.tag == "ms":
                         ms_child = self.add_XML_child(
-                            parent=self.clean_manuscript, tag=elem.tag, text=txt
+                            parent=self.clean_manuscript, tag=elem.tag, attrib={"name": txt}
                         )
 
                     elif elem.tag == "folio":
