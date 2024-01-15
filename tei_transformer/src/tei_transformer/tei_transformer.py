@@ -38,6 +38,9 @@ class TEITransformer:
         Verses are sometimes labelled as "chapter:verse", which should not be the case.
         """
         verse_to_normalize = verse_to_normalize.strip()
+        if bool(re.compile(r'[A-Z]').search(verse_to_normalize)):
+            verse_to_normalize = "".join(re.compile(r'[^A-Z]').findall(verse_to_normalize))
+            verse_to_normalize = str(verse_to_normalize.encode('ascii',"strict")).replace("?", "").strip().lstrip("b'").rstrip("'").strip()
         if ":" in verse_to_normalize:
             return verse_to_normalize.split(":")
         return [verse_to_normalize]

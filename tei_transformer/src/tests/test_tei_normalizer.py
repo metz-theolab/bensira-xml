@@ -24,15 +24,15 @@ class TestNormalizeTEIParser(unittest.TestCase):
         """
         text = "[    ]ב̊שער̊"
         self.assertEqual(self.tei_transformer.extract_blank_space(text),
-                        "<blank orient='horizontal' span='4'/>ב̊שער̊")
+                        "[<blank orient='horizontal' span='4'/>]ב̊שער̊")
 
     def test_extract_reconstructed_text(self):
         """Given a text with blank spaces, tests that the blank spaces are properly extracted.
         """
         text = "[    ב̊שער̊]"
-        print(self.tei_transformer.extract_blank_space(text))
+        self.maxDiff = None
         self.assertEqual(self.tei_transformer.extract_blank_space(text),
-                        "<blank orient='horizontal' span='4'/>ב̊שער̊")
+                        "[<blank orient='horizontal' span='4'/>ב̊שער̊]")
 
     def test_reconstruct_word(self):
         """Given that there is no bracket, tests that the word is wrapped correctly.
@@ -111,6 +111,15 @@ class TestNormalizeTEIParser(unittest.TestCase):
         self.assertEqual(
             self.tei_transformer.chap_verse_normalizer(verse_to_normalize),
             expected_normalized_verse)
+
+    def test_verse_normalizer_verse_parallel(self):
+        """Given a verse number, tests that removing the parallel sign behaves as expected.
+        """
+        verse_to_normalize = "1 A"
+        expected_normalized_verse = ['1']
+        self.assertEqual(
+            self.tei_transformer.chap_verse_normalizer(verse_to_normalize),
+            expected_normalized_verse)
         
     # def test_verse_normalizer_verse_letter(self):
     #     """Given a verse in the format number_letter (such as 1a), tests that the verse normalizer
@@ -146,7 +155,7 @@ class TestNormalizeTEIParser(unittest.TestCase):
     def test_create_body_standard_verse(self):
         """Given a poorly formatted XML file, tests it is properly cleaned up.
         """
-        expected_body = """<root><ms>Manuscript 11QPs<div type="chap" n="11Q5, col. XXI"><div type="verse" n="13"><line n="11" /><w reconstructed="0">אני</w><w reconstructed="0">נער</w><w reconstructed="0">בטרם</w><w reconstructed="0">תעיתי</w><w reconstructed="0">ובקשתיה</w></div></div></ms></root>"""
+        expected_body = """<root><ms>Manuscript 11QPs<div type="chap" n="11Q5, col. XXI"><div type="verse" n="13"><line n="11" col="xxi" /><w reconstructed="0">אני</w><w reconstructed="0">נער</w><w reconstructed="0">בטרם</w><w reconstructed="0">תעיתי</w><w reconstructed="0">ובקשתיה</w></div></div></ms></root>"""
         manuscript = TEITransformer(TEST_FOLDER_DATA / "ms_to_clean_standard_verse.xml")
         created_body = manuscript.create_body()
         self.assertEqual(
@@ -158,7 +167,7 @@ class TestNormalizeTEIParser(unittest.TestCase):
         """Tests that creating the body of the manuscript behaves as expected when chapters and verses
         are specified within the same XML tag.
         """
-        expected_body = """<root><ms>Manuscript C<div type="folio" n="TS 12.867 recto"><div type="chap" n="3"><div type="verse" n="14"><line n="1" /><w reconstructed="0">צדקת</w><w reconstructed="0">אב</w><w reconstructed="0">אל</w><w reconstructed="0">תשכח</w><stych /><w reconstructed="0">ו̇תחת</w><line n="2" /><w reconstructed="0">ענו̇תו</w><w reconstructed="1">תתנצ̇<g type='reconstructed'>ב:</g></w></div></div></div></ms></root>"""
+        expected_body = """<root><ms>Manuscript C<div type="chap" n="3"><div type="verse" n="14"><line n="1" folio="TS 12.867 recto" /><w reconstructed="0">צדקת</w><w reconstructed="0">אב</w><w reconstructed="0">אל</w><w reconstructed="0">תשכח</w><stych /><w reconstructed="0">ו̇תחת</w><line n="2" folio="TS 12.867 recto" /><w reconstructed="0">ענו̇תו</w><w reconstructed="1">תתנצ̇<g type='reconstructed'>ב:</g></w></div></div></ms></root>"""
         manuscript = TEITransformer(TEST_FOLDER_DATA / "ms_to_clean_combined_chapter_verse.xml")
         created_body = manuscript.create_body()
         self.assertEqual(
@@ -190,10 +199,11 @@ class TestNormalizeTEIParser(unittest.TestCase):
     def test_create_body_nested_folios(self):
         """Given a manuscript with complex nested folios, tests that the body is properly created.
         """
-        expected_body = """<root><ms>Manuscript F<div type="chap" n="32"><div type="verse" n="1"><line n="16" folio="TS AS 213.17 recto" /><w reconstructed="0">ראש</w><w reconstructed="0">סמוך</w><w reconstructed="0">א‍ל</w><w reconstructed="0">תותר׃</w><w reconstructed="0">ובראש</w><w reconstructed="0">עשירים</w><w reconstructed="0">א‍ל</w><w reconstructed="0">תסתורה</w><w reconstructed="0">והיה</w><w reconstructed="0">לך</w><w reconstructed="0" /><w reconstructed="0">כאחד</w><w reconstructed="0">מהם׃</w></div><div type="verse" n="16"><line n="11" folio="TS AS 213.17 verso" /><w reconstructed="1"><g type='reconstructed'>ירא</g></w><w reconstructed="1"><g type='reconstructed'>ייי</g></w><w reconstructed="1"><g type='reconstructed'>י</g>ב̊ין</w><w reconstructed="0">משפט∙</w><w reconstructed="0">ות{ת}חבולות</w><w reconstructed="1">מנ̇ש̊ף̊<g type='reconstructed'></g></w><w reconstructed="1"><g type='reconstructed'>
-</g></w><w reconstructed="1"><g type='reconstructed'>יוציא׃</g></w></div></div><div type="chap" n="33"><div type="verse" n="2"><line n="21" folio="TS AS 213.17 verso" /><w reconstructed="0">לא</w><w reconstructed="0">יחכם</w><w reconstructed="0">שונא</w><w reconstructed="0">תורה∙</w><w reconstructed="0">ומתמוטט</w><w reconstructed="0">כמסערה</w><w reconstructed="0">׃</w></div></div></ms></root>"""
+        expected_body = """<root><ms>Manuscript F<div type="chap" n="32"><div type="verse" n="1"><line n="16" folio="TS AS 213.17 recto" /><w reconstructed="0">ראש</w><w reconstructed="0">סמוך</w><w reconstructed="0">א‍ל</w><w reconstructed="0">תותר׃</w><w reconstructed="0">ובראש</w><w reconstructed="0">עשירים</w><w reconstructed="0">א‍ל</w><w reconstructed="0">תסתורה</w><w reconstructed="0">והיה</w><w reconstructed="0">לך</w><w reconstructed="0">כאחד</w><w reconstructed="0">מהם׃</w></div><div type="verse" n="16"><line n="11" folio="TS AS 213.17 verso" /><w reconstructed="1"><g type='reconstructed'>ירא</g></w><w reconstructed="1"><g type='reconstructed'>ייי</g></w><w reconstructed="1"><g type='reconstructed'>י</g>ב̊ין</w><w reconstructed="0">משפט∙</w><w reconstructed="0">ות{ת}חבולות</w><w reconstructed="1">מנ̇ש̊ף̊<g type='reconstructed'>יוציא׃</g></w></div></div><div type="chap" n="33"><div type="verse" n="2"><line n="21" folio="TS AS 213.17 verso" /><w reconstructed="0">לא</w><w reconstructed="0">יחכם</w><w reconstructed="0">שונא</w><w reconstructed="0">תורה∙</w><w reconstructed="0">ומתמוטט</w><w reconstructed="0">כמסערה</w><w reconstructed="0">׃</w></div></div></ms></root>"""
         manuscript = TEITransformer(TEST_FOLDER_DATA / "ms_to_clean_several_folio.xml")
         created_body = manuscript.create_body()
+        with open("test_output.xml", 'w') as f:
+            f.write(created_body)
         self.assertEqual(expected_body, created_body)
 
 
