@@ -212,6 +212,7 @@ class TEITransformer:
                                 attrib=line_attrib,
                             )
                     elif elem.tag in ["margin",
+                                      "margin_car",
                                       "margin_reconstructed",
                                       "margin_supralinear",
                                       "margin_infralinear"]:
