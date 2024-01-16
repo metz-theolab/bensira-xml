@@ -103,7 +103,9 @@
                 <w reconstructed="0">לע̇ד̇</w>
                 <w reconstructed="0">ת̊כ̇ן</w>
             </div>
-            <margin type="margin_supralinear" line="7">ד־</margin>
+            <margin type="margin_supralinear" line="7">
+                <w reconstructed="0">ד־</w>
+            </margin>
             <div type="verse" n="18">
                 <line n="8" col="Col. II" />
                 <w reconstructed="0">חיי</w>
@@ -207,7 +209,9 @@
                 <w reconstructed="0">כאש</w>
                 <w reconstructed="0">תבער</w>
             </div>
-            <margin type="margin_supralinear" line="23">ד־</margin>
+            <margin type="margin_supralinear" line="23">
+                <w reconstructed="0">ד־</w>
+            </margin>
             <div type="verse" n="1ab">
                 <line n="24" col="Col. II" />
                 <w reconstructed="1">הו̇<g type='reconstructed'>י</g></w>
@@ -833,11 +837,21 @@
                 <w reconstructed="0">ואשננה</w>
             </div>
             <div type="verse" n="15a" />
-            <margin type="margin_car" line="1">אזכרה נא</margin>
-            <margin type="margin_car" line="1">מע̊[ש]ו̊</margin>
+            <margin type="margin_car" line="1">
+                <w reconstructed="0">אזכרה</w>
+                <w reconstructed="0">נא</w>
+            </margin>
+            <margin type="margin_car" line="1">
+                <w reconstructed="1">מע̊<g type='reconstructed'>ש</g>ו̊</w>
+            </margin>
             <div type="verse" n="15b" />
-            <margin type="margin_car" line="1">וזה</margin>
-            <margin type="margin_car" line="1">חז̇יתי ואשננה</margin>
+            <margin type="margin_car" line="1">
+                <w reconstructed="0">וזה</w>
+            </margin>
+            <margin type="margin_car" line="1">
+                <w reconstructed="0">חז̇יתי</w>
+                <w reconstructed="0">ואשננה</w>
+            </margin>
             <div type="verse" n="15cd">
                 <line n="2" col="Col. V" />
                 <w reconstructed="0">באמר</w>
@@ -1241,7 +1255,9 @@
                 <w reconstructed="0">אזנינו</w>
                 <w reconstructed="0">נשמת</w>
             </div>
-            <margin type="margin_infralinear" line="19">ם</margin>
+            <margin type="margin_infralinear" line="19">
+                <w reconstructed="0">ם</w>
+            </margin>
             <div type="verse" n="25">
                 <line n="20" col="Col. VI" />
                 <w reconstructed="0">מ̊י̊ן</w>

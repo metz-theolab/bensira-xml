@@ -417,7 +417,9 @@
                 </w>
                 <w reconstructed="1"><g type='reconstructed'>ל</g>פ̊נ̊י̊ך</w>
             </div>
-            <margin type="margin_car" line="12">כמא̊בד̇</margin>
+            <margin type="margin_car" line="12">
+                <w reconstructed="0">כמא̊בד̇</w>
+            </margin>
             <div type="verse" n="12">
                 <w reconstructed="1">א̊<g type='reconstructed'>ל</g></w>
                 <w reconstructed="1">ת̊<g type='reconstructed'>לוה</g></w>
@@ -882,7 +884,17 @@
                 <w reconstructed="0">אין</w>
                 <w reconstructed="0">מספר̊׃</w>
             </div>
-            <margin type="margin" line="12">גויתהן מספר יש̊ ימים וגוית שם י̊מ̊י̊ אין מספר</margin>
+            <margin type="margin" line="12">
+                <w reconstructed="0">גויתהן</w>
+                <w reconstructed="0">מספר</w>
+                <w reconstructed="0">יש̊</w>
+                <w reconstructed="0">ימים</w>
+                <w reconstructed="0">וגוית</w>
+                <w reconstructed="0">שם</w>
+                <w reconstructed="0">י̊מ̊י̊</w>
+                <w reconstructed="0">אין</w>
+                <w reconstructed="0">מספר</w>
+            </margin>
             <div type="verse" n="24">
                 <w reconstructed="0">חכם</w>
                 <w reconstructed="0">לנפשו</w>

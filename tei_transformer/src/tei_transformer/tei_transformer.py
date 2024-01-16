@@ -219,13 +219,22 @@ class TEITransformer:
                         margin_attrib = {"type": elem.tag}
                         if current_line:
                             margin_attrib["line"] = current_line
-                        self.add_XML_child(
+                        margin_child = self.add_XML_child(
                             parent=chapter_child,
                             tag="margin",
                             attrib=margin_attrib,
-                            text=txt.strip()
                         )
-
+                        (
+                        word_content_list,
+                        reconstructed_list,
+                        ) = self.compute_reconstructed_words(txt)
+                        for word, reconstruct in zip(word_content_list, reconstructed_list):
+                            self.add_XML_child(
+                                parent=margin_child,
+                                tag="w",
+                                attrib={"reconstructed": str(reconstruct)},
+                                text=word,
+                            )
                     
             if elem.tail:
                 txt = elem.tail.strip()
