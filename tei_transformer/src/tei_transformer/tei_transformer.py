@@ -217,6 +217,8 @@ class TEITransformer:
                                       "margin_supralinear",
                                       "margin_infralinear"]:
                         margin_attrib = {"type": elem.tag}
+                        if current_folio:
+                            margin_attrib["folio"] = current_folio
                         if current_line:
                             margin_attrib["line"] = current_line
                         margin_child = self.add_XML_child(
