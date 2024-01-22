@@ -57,8 +57,9 @@
                 <w reconstructed="0">נכבדו</w>
                 <w reconstructed="1">וא̇<g type='reconstructed'>ין</g></w>
                 <w reconstructed="1"><g type='reconstructed'></g>ג̊̊ד̇<g type='reconstructed'>ול</g></w>
-                <w reconstructed="0">מירא</w>
-                <w reconstructed="0">אלהים׃]</w>
+	    <w reconstructed="1"><g type='reconstructed'>מירא</g>
+	<w reconstructed="1"><g type='reconstructed'>אלהים׃</g>
+               
             </div>
             <div type="verse" n="25">
                 <line n="6" />
@@ -66,6 +67,7 @@
                 <w reconstructed="0">משכיל</w>
                 <w reconstructed="0">חביב</w>
                 <w reconstructed="0">כנפש</w>
+                <w reconsctructed="1"><blank orient='horizontal' span='8' /></w>
                 <line n="6a" />
                 <line n="7" />
                 <w reconstructed="0">עבד</w>
@@ -156,8 +158,8 @@
                 <w reconstructed="0">איש</w>
                 <w reconstructed="0">עשיר</w>
                 <w reconstructed="0">נכבד</w>
-                <w reconstructed="1">ב̇ג̇ל̇ל̊̊<g type='reconstructed'></g></w>
-                <w reconstructed="1">
+	    <w reconstructed="0">ב̇ג̇ל̇ל̊̊</w>
+                           <w reconstructed="1">
                     <g type='reconstructed'>עשרו׃</g>
                 </w>
             </div>
@@ -215,7 +217,7 @@
                 <w reconstructed="0">ב̇מ̊̊ר̊̊א̊̊ה̇ו̇׃</w>
             </div>
             <margin type="margin_car" line="18">
-                <w reconstructed="0">א‍ל</w>
+                <w reconstructed="0">אל</w>
                 <w reconstructed="0">תתעב̊</w>
                 <w reconstructed="0">א̇ד̇ם̊</w>
                 <w reconstructed="1">ב̊מ̊<g type='reconstructed'>׳</g></w>
@@ -263,7 +265,7 @@
                     <g type='reconstructed'>פלאות</g>
                 </w>
                 <w reconstructed="1"><g type='reconstructed'>מע</g>ש̊̊<g type='reconstructed'>י</g></w>
-                <w reconstructed="0">י]יי</w>
+                <w reconstructed="0">יי</w>
                 <w reconstructed="0">ונעלם</w>
                 <w reconstructed="0">מאנוש</w>
                 <w reconstructed="0">פעלו׃</w>
@@ -287,7 +289,7 @@
                 <w reconstructed="0">עטו</w>
                 <w reconstructed="0">צניף׃</w>
                 <line n="7" folio="t-s 12.871 verso" />
-                <w reconstructed="0">על]</w>
+                <w reconstructed="1"><g type='reconstructed'>ע̊̊ל</g></w>
                 <w reconstructed="0">כסא</w>
                 <w reconstructed="0">ושפלי</w>
                 <w reconstructed="0">לב</w>
@@ -296,16 +298,16 @@
             </div>
             <div type="verse" n="6ab">
                 <line n="8" folio="t-s 12.871 verso" />
-                <w reconstructed="0">מ]א̊̊ד̊̊</w>
-                <w reconstructed="0">ונכבדים</w>
+	<w reconstructed="1"><g type='reconstructed'>מ</g>א̊̊ד̊̊</w>
+                 <w reconstructed="0">ונכבדים</w>
                 <w reconstructed="0">נתנו</w>
                 <w reconstructed="0">ביד</w>
                 <w reconstructed="0">זעירים׃</w>
             </div>
             <div type="verse" n="6cd">
                 <line n="9" folio="t-s 12.871 verso" />
-                <w reconstructed="0">נק]לו</w>
-                <w reconstructed="0">מאד</w>
+<w reconstructed="1"><g type='reconstructed'>נק</g>לו</w>
+                 <w reconstructed="0">מאד</w>
                 <w reconstructed="0">והושפלו̇</w>
                 <w reconstructed="0">י̊̊חד</w>
                 <w reconstructed="0">ונכבדים</w>
@@ -313,25 +315,25 @@
                 <w reconstructed="0">ביד</w>
                 <w reconstructed="0">׃</w>
             </div>
-            <div type="verse" n="6e">
-                <w reconstructed="0">מא</w>
-            </div>
-            <margin type="margin_car" folio="t-s 12.871 verso" line="9" />
-            <margin type="margin_car" folio="t-s 12.871 verso" line="9">
-                <w reconstructed="0">]ד̇</w>
-                <w reconstructed="0">והשפלו</w>
-                <w reconstructed="0">יחד</w>
-            </margin>
-            <div type="verse" n="6f" />
-            <margin type="margin_car" folio="t-s 12.871 verso" line="9">
-                <w reconstructed="0">]ב̇יד׃</w>
+
+
+            <margin type="margin_car">
+                <div type="verse" n="6e" folio="t-s 12.871 verso" line="9">
+                    <w reconstructed="1"><g type='reconstructed'>מא</g>ד̇</w>
+                    <w reconstructed="0">והשפלו</w>
+                    <w reconstructed="0">יחד</w>
+                </div>
+                
+                <div type="verse" n="6f" folio="t-s 12.871 verso" line="9">
+	<w reconstructed="0">ב̇יד׃</w>
+                 </div>
             </margin>
             <margin type="margin_car" folio="t-s 12.871 verso" line="9">
                 <w reconstructed="0">וגם̇</w>
             </margin>
             <div type="verse" n="8ab">
                 <line n="10" folio="t-s 12.871 verso" />
-                <w reconstructed="0">]ש̊̊אול</w>
+                <w reconstructed="0">ש̊̊אול</w>
                 <w reconstructed="0">ובקהל</w>
                 <w reconstructed="0">טע̇ם</w>
                 <w reconstructed="0">שפוט׃</w>
@@ -372,7 +374,7 @@
                 <w reconstructed="1">
                     <g type='reconstructed'>אל</g>
                 </w>
-                <w reconstructed="1"><g type='reconstructed'></g>תשיב</w>
+	  <w reconstructed="0">תשיב</w>
                 <w reconstructed="0">דבר</w>
                 <w reconstructed="0">בטרם̊̊</w>
                 <w reconstructed="0">תשמע</w>
@@ -408,16 +410,17 @@
             <margin type="margin_reconstructed" folio="t-s 12.871 verso" line="15">
                 <w reconstructed="0">באי</w>
             </margin>
-            <margin type="margin_car" folio="t-s 12.871 verso" line="15">
-                <w reconstructed="0">]ן̊</w>
+            <margin type="margin_car" line="15"  folio="t-s 12.871 verso">
+                <w reconstructed="0">ן̊</w>
                 <w reconstructed="0">ע̇צ̇ב̊ה̊</w>
             </margin>
             <margin type="margin_car" folio="t-s 12.871 verso" line="15" />
             <margin type="margin_reconstructed" folio="t-s 12.871 verso" line="15">
                 <w reconstructed="0">וב</w>
             </margin>
-            <margin type="margin_car" folio="t-s 12.871 verso" line="15">
-                <w reconstructed="0">]ריב</w>
+
+            <margin type="margin_car" line="15" folio="t-s 12.871 verso">
+                <w reconstructed="0">ריב</w>
                 <w reconstructed="1">זד̊<g type='reconstructed'></g></w>
             </margin>
             <margin type="margin_car" folio="t-s 12.871 verso" line="16">
@@ -661,8 +664,9 @@
             <margin type="margin_reconstructed" folio="t-s ns 38a recto" line="14">
                 <w reconstructed="0">הי</w>
             </margin>
-            <margin type="margin_car" folio="t-s ns 38a recto" line="14">
-                <w reconstructed="0">]ם</w>
+
+            <margin type="margin_car" line="14" folio="t-s ns 38a recto">
+                <w reconstructed="0">ם</w>
                 <w reconstructed="0">מבראשית</w>
             </margin>
             <div type="verse" n="14">
@@ -820,7 +824,7 @@
             </div>
             <div type="verse" n="2">
                 <line n="8" folio="t-s ns 38a verso" />
-                <w reconstructed="0">א]ל̊̊</w>
+                <w reconstructed="0">אל̊̊</w>
                 <w reconstructed="0">ת̊̊ש֟מח</w>
                 <w reconstructed="0">ב̇ם</w>
                 <w reconstructed="0">כי</w>
@@ -925,7 +929,8 @@
                 <w reconstructed="0">אזני׃</w>
                 <line n="16" folio="t-s ns 38a verso" />
             </div>
-            <margin type="margin_car" folio="t-s ns 38a verso" line="16">
+            <margin type="margin_car"  line="16">
+            <margin type="margin_car" line="17" folio="t-s ns 38a verso">
                 <w reconstructed="0">יוקדת</w>
                 <w reconstructed="0">אש</w>
             </margin>
@@ -1132,8 +1137,8 @@
             <margin type="margin_reconstructed" folio="t-s 16.312 recto" line="11">
                 <w reconstructed="0">י</w>
             </margin>
-            <margin type="margin_car" folio="t-s 16.312 recto" line="11">
-                <w reconstructed="0">]לו̊</w>
+            <margin type="margin_car" line="11" folio="t-s 16.312 recto">
+                <w reconstructed="0">לו̊</w>
                 <w reconstructed="0">פ̊סילי</w>
                 <w reconstructed="0">הגוים</w>
                 <w reconstructed="0">אשר</w>
@@ -1153,8 +1158,8 @@
             <margin type="margin_reconstructed" folio="t-s 16.312 recto" line="11">
                 <w reconstructed="0">שי</w>
             </margin>
-            <margin type="margin_car" folio="t-s 16.312 recto" line="11">
-                <w reconstructed="0">]ש̊</w>
+            <margin type="margin_car" line="11" folio="t-s 16.312 recto">
+                <w reconstructed="0">ש̊</w>
                 <w reconstructed="0">לו</w>
                 <w reconstructed="0">עושר</w>
                 <w reconstructed="0">ואין</w>
@@ -1206,8 +1211,8 @@
                 <w reconstructed="0">תכשל</w>
                 <w reconstructed="0">ב֟עו֟נך׃</w>
             </div>
-            <margin type="margin_car" folio="t-s 16.312 recto" line="14">
-                <w reconstructed="0">וא‍ל</w>
+            <margin type="margin_car" line="14" folio="t-s 16.312 recto">
+                <w reconstructed="0">ואל</w>
                 <w reconstructed="0">תכשילך</w>
                 <w reconstructed="0">עצתך׃</w>
             </margin>
@@ -1603,7 +1608,7 @@
                 <w reconstructed="0">רע</w>
                 <w reconstructed="0">מ׳</w>
                 <w reconstructed="0">חלק</w>
-                <w reconstructed="0">א‍ל</w>
+                <w reconstructed="0">אל</w>
             </margin>
             <div type="verse" n="13fg">
                 <line n="6" folio="Or. 5518.1 (British Museum) recto" />
@@ -1677,8 +1682,8 @@
                 <w reconstructed="0">נכח</w>
             </margin>
             <div type="verse" n="16d" />
-            <margin type="margin_car" folio="Or. 5518.1 (British Museum) recto" line="9">
-                <w reconstructed="0">וא‍ל</w>
+            <margin type="margin_car" line="9" folio="Or. 5518.1 (British Museum) recto">
+                <w reconstructed="0">ואל</w>
                 <w reconstructed="0">תעט</w>
                 <w reconstructed="0">פן</w>
                 <w reconstructed="0">תגלה</w>
@@ -2187,7 +2192,7 @@
                 <w reconstructed="0">נועם</w>
                 <w reconstructed="0">תירוש׃</w>
             </div>
-            <margin type="margin_car" folio="t-s 16.313 recto" line="8">
+            <margin type="margin_car" line="9" folio="t-s 16.313 recto">
                 <w reconstructed="0">אתך</w>
             </margin>
             <div type="verse" n="7">
@@ -2333,7 +2338,7 @@
                 <w reconstructed="0">ישיג</w>
                 <w reconstructed="0">מענה׃</w>
             </div>
-            <margin type="margin_car" folio="t-s 16.313 verso" line="1">
+            <margin type="margin_car" line="2" folio="t-s 16.313 verso">
                 <w reconstructed="0">ישא</w>
             </margin>
             <div type="verse" n="14ef">
@@ -2377,7 +2382,7 @@
             <margin type="margin_car" folio="t-s 16.313 verso" line="5">
                 <w reconstructed="0">וחכמות</w>
             </margin>
-            <margin type="margin_car" folio="t-s 16.313 verso" line="5">
+            <margin type="margin_car" line="6" folio="t-s 16.313 verso">
                 <w reconstructed="0">חמס</w>
             </margin>
             <div type="verse" n="17">
@@ -2585,7 +2590,7 @@
                 <w reconstructed="0">מע֟ש֟ר</w>
                 <w reconstructed="0">:</w>
             </div>
-            <margin type="margin" folio="t-s 16.313 verso" line="18">
+            <margin type="margin" line="13" folio="t-s 16.313 verso">
                 <w reconstructed="0">מלוה</w>
                 <w reconstructed="0">ייי</w>
                 <w reconstructed="0">נותן</w>
@@ -2619,8 +2624,8 @@
                 <w reconstructed="0">ובה֟ש֟גת</w>
                 <w reconstructed="0">יד׃</w>
             </div>
-            <margin type="margin_infralinear" folio="t-s 16.313 recto" line="2">
-                <w reconstructed="0">לאֵ‍ל</w>
+            <margin type="margin_infralinear" line="2" folio="t-s 16.313 recto">
+                <w reconstructed="0">לאֵל</w>
             </margin>
             <margin type="margin_car" folio="t-s 16.313 recto" line="2">
                 <w reconstructed="0">וב</w>
@@ -2917,7 +2922,7 @@
                 <w reconstructed="0">הכב̇ד</w>
                 <w reconstructed="0">בנ̇ו̊̊׃</w>
             </div>
-            <margin type="margin" folio="t-s 16.313 verso" line="2">
+            <margin type="margin" line="3" folio="t-s 16.313 verso">
                 <w reconstructed="0">כאשר</w>
                 <w reconstructed="0">לעיניהם</w>
                 <w reconstructed="0">נקדשתה</w>
@@ -2954,6 +2959,7 @@
                 <w reconstructed="0">זרוע</w>
                 <w reconstructed="0">וימין׃</w>
             </div>
+             <margin type="margin" line="5">
             <div type="verse" n="6/7">
                 <w reconstructed="0">חַדֵש</w>
                 <w reconstructed="0">אֵל</w>
@@ -2963,6 +2969,7 @@
                 <w reconstructed="0">יד</w>
                 <w reconstructed="0">וזריז</w>
                 <w reconstructed="0">ימים</w>
+            </margin>
             </div>
             <div type="verse" n="8/9">
                 <line n="6" folio="t-s 16.313 verso" />
@@ -3027,7 +3034,7 @@
                 <w reconstructed="0">עם</w>
                 <w reconstructed="0">נקרא</w>
                 <w reconstructed="0">בשמך</w>
-                <w reconstructed="0">ישרא‍ל</w>
+                <w reconstructed="0">ישראל</w>
                 <w reconstructed="0">בכ̇ו̇ר</w>
                 <w reconstructed="0">כיניתה׃</w>
             </div>
@@ -3041,7 +3048,7 @@
                 <w reconstructed="0">מכון</w>
                 <w reconstructed="0">שבתיך׃</w>
             </div>
-            <margin type="margin_car" folio="t-s 16.313 verso" line="11">
+            <margin type="margin_car" line="12" folio="t-s 16.313 verso" >
                 <w reconstructed="0">מהדריך</w>
             </margin>
             <div type="verse" n="19">
@@ -3074,7 +3081,7 @@
                 <w reconstructed="0">ונביאיך</w>
                 <w reconstructed="0">יאמינו׃</w>
             </div>
-            <margin type="margin_car" folio="t-s 16.313 verso" line="14">
+            <margin type="margin_car" line="15" folio="t-s 16.313 verso">
                 <w reconstructed="0">עבדך</w>
             </margin>
             <div type="verse" n="22">
@@ -3098,7 +3105,7 @@
             <margin type="margin_car" folio="t-s 16.313 verso" line="15">
                 <w reconstructed="0">ברצונך</w>
             </margin>
-            <margin type="margin_car" folio="t-s 16.313 verso" line="15">
+            <margin type="margin_car" line="16" folio="t-s 16.313 verso">
                 <w reconstructed="0">ויראו</w>
             </margin>
             <margin type="margin_car" folio="t-s 16.313 verso" line="16">
@@ -3130,8 +3137,8 @@
             <margin type="margin_reconstructed" folio="t-s 16.313 verso" line="17">
                 <w reconstructed="0">כ</w>
             </margin>
-            <margin type="margin_car" folio="t-s 16.313 verso" line="17">
-                <w reconstructed="0">]ל̊ת</w>
+            <margin type="margin_car" line="17" folio="t-s 16.313 verso">
+                <w reconstructed="0">ל̊ת</w>
                 <w reconstructed="0">סוגרת</w>
             </margin>
             <margin type="margin_car" folio="t-s 16.313 verso" line="17">
@@ -3209,7 +3216,7 @@
                 <w reconstructed="0">ממכה</w>
                 <w reconstructed="0">תנעם׃</w>
             </div>
-            <margin type="margin_car" folio="Or. 5518.1 recto" line="3">
+            <margin type="margin_car" line="4" folio="Or. 5518.1 recto">
                 <w reconstructed="0">יהלל</w>
             </margin>
             <div type="verse" n="27">
@@ -3224,7 +3231,7 @@
                 <w reconstructed="0">עין</w>
                 <w reconstructed="0">יגבר׃</w>
             </div>
-            <margin type="margin_car" folio="Or. 5518.1 recto" line="4">
+            <margin type="margin_car" line="5" folio="Or. 5518.1 recto">
                 <w reconstructed="0">ב̊̊ה̊̊</w>
             </margin>
             <div type="verse" n="28">
@@ -3239,7 +3246,7 @@
                 <w reconstructed="0">מבני</w>
                 <w reconstructed="0">אדם׃</w>
             </div>
-            <margin type="margin_car" folio="Or. 5518.1 recto" line="5">
+            <margin type="margin_car" line="6" folio="Or. 5518.1 recto">
                 <w reconstructed="0">קונה</w>
             </margin>
             <div type="verse" n="29">
@@ -3291,7 +3298,7 @@
                 <w reconstructed="0">באשר</w>
                 <w reconstructed="0">יערב׃</w>
             </div>
-            <margin type="margin_car" folio="Or. 5518.1 recto" line="8">
+            <margin type="margin_car" line="9" folio="Or. 5518.1 recto">
                 <w reconstructed="0">א̊̊ש̊̊ר</w>
                 <w reconstructed="0">אין</w>
                 <w reconstructed="0">לו</w>
@@ -3423,8 +3430,8 @@
                 <w reconstructed="0">תעזבהו</w>
                 <w reconstructed="0">ב̇שללך׃</w>
             </div>
-            <margin type="margin_car" folio="Or. 5518.1 recto" line="13">
-                <w reconstructed="0">א‍ל</w>
+            <margin type="margin_car" line="13" folio="Or. 5518.1 recto">
+                <w reconstructed="0">אל</w>
                 <w reconstructed="0">תכחש</w>
                 <w reconstructed="0">חבר</w>
                 <w reconstructed="0">בקרב</w>
@@ -3485,10 +3492,10 @@
                 <w reconstructed="0">אליו</w>
                 <w reconstructed="0">יפול׃</w>
             </div>
-            <margin type="margin_car" folio="Or. 5518.1 recto" line="15">
+            <margin type="margin_car" line="16" folio="Or. 5518.1 recto">
                 <w reconstructed="0">נפשו</w>
             </margin>
-            <margin type="margin_car" folio="Or. 5518.1 recto" line="16">
+            <margin type="margin_car" line="17" folio="Or. 5518.1 recto">
                 <w reconstructed="0">להביט</w>
             </margin>
             <div type="verse" n="9">
@@ -3516,10 +3523,7 @@
             <margin type="margin_car" folio="Or. 5518.1 recto" line="18">
                 <w reconstructed="0">א</w>
             </margin>
-            <margin type="margin_car" folio="Or. 5518.1 recto" line="18">
-                <w reconstructed="0">אל</w>
-            </margin>
-            <div type="verse" n="11ab">
+            <div type="verse" n="11ab" folio="Or. 5518.1 recto">
                 <line n="1" folio="Or. 5518.1 verso" />
                 <w reconstructed="0">עם</w>
                 <w reconstructed="0">אשה</w>
@@ -3529,7 +3533,10 @@
                 <w reconstructed="0">אל</w>
                 <w reconstructed="0">מלחמתו׃</w>
             </div>
-            <margin type="margin_car" folio="Or. 5518.1 verso" line="1">
+            <margin type="margin_car" line="1" folio="Or. 5518.1 verso">
+                <w reconstructed="0">אל</w>
+            </margin>
+            <margin type="margin_car" line="1">
                 <w reconstructed="0">ומלוכד</w>
                 <w reconstructed="0">ע׳</w>
                 <w reconstructed="0">מל̇ח̇מ̊̊ה̊̊</w>
@@ -3549,7 +3556,7 @@
                 <w reconstructed="0">ע׳</w>
                 <w reconstructed="0">ממכרו̇</w>
             </margin>
-            <margin type="margin_car" folio="Or. 5518.1 verso" line="2">
+            <margin type="margin_car" line="3" folio="Or. 5518.1 verso">
                 <w reconstructed="0">על</w>
                 <w reconstructed="0">גמילות</w>
             </margin>
@@ -3670,10 +3677,10 @@
                 <w reconstructed="0">צפים</w>
                 <w reconstructed="0">ע׳</w>
             </margin>
-            <margin type="margin_car" folio="Or. 5518.1 verso" line="8">
+            <margin type="margin_car" line="9" folio="Or. 5518.1 verso">
                 <w reconstructed="0">שן׃</w>
             </margin>
-            <margin type="margin_car" folio="Or. 5518.1 verso" line="8">
+            <margin type="margin_car" line="9" folio="Or. 5518.1 verso">
                 <w reconstructed="0">העתר</w>
             </margin>
             <div type="verse" n="15">
@@ -3701,20 +3708,20 @@
                 <w reconstructed="0">היא</w>
                 <w reconstructed="0">מחשבת</w>
             </div>
-            <margin type="margin_car" folio="Or. 5518.1 verso" line="9">
+            <margin type="margin_car" line="10" folio="Or. 5518.1 verso">
                 <w reconstructed="0">ראש</w>
                 <w reconstructed="0">כל</w>
                 <w reconstructed="0">מעשה</w>
                 <w reconstructed="0">מאמר</w>
             </margin>
-            <margin type="margin_car" folio="Or. 5518.1 verso" line="9">
+            <margin type="margin_car" line="10" folio="Or. 5518.1 verso">
                 <w reconstructed="0">לפני</w>
                 <w reconstructed="0">כל</w>
                 <w reconstructed="0">פועל</w>
                 <w reconstructed="0">היא</w>
                 <w reconstructed="0">מחשבת׃</w>
             </margin>
-            <margin type="margin_car" folio="Or. 5518.1 verso" line="10">
+            <margin type="margin_car" line="11" folio="Or. 5518.1 verso">
                 <w reconstructed="0">עקר</w>
             </margin>
             <div type="verse" n="17/18">
@@ -3741,7 +3748,7 @@
             <margin type="margin_car" folio="Or. 5518.1 verso" line="11">
                 <w reconstructed="0">שרביטים</w>
             </margin>
-            <margin type="margin_car" folio="Or. 5518.1 verso" line="11">
+            <margin type="margin_car" line="12" folio="Or. 5518.1 verso">
                 <w reconstructed="0">ורע</w>
             </margin>
             <margin type="margin_car" folio="Or. 5518.1 verso" line="12">
@@ -3846,6 +3853,9 @@
                 <w reconstructed="0">תתן</w>
                 <w reconstructed="0">לה׃</w>
             </div>
+              <margin type="margin_car" line="1">
+                <w reconstructed="0">בחמר</w>
+            </margin>
             <div type="verse" n="28">
                 <line n="2" folio="t-s 16.312 recto" />
                 <w reconstructed="0">כי</w>
@@ -3871,7 +3881,7 @@
             </margin>
             <margin type="margin_car" folio="t-s 16.312 recto" line="2">
                 <w reconstructed="0">תזר</w>
-                <w reconstructed="0">א‍ל</w>
+                <w reconstructed="0">אל</w>
             </margin>
             <div type="verse" n="29">
                 <line n="3" folio="t-s 16.312 recto" />
@@ -3885,16 +3895,17 @@
                 <w reconstructed="0">כל</w>
                 <w reconstructed="0">מטעמים׃</w>
             </div>
-            <margin type="margin_car" folio="t-s 16.312 recto" line="3">
-                <w reconstructed="0">א‍ל</w>
+            <margin type="margin_car" line="3" folio="t-s 16.312 recto">
+                <w reconstructed="0">אל</w>
                 <w reconstructed="0">תזרו/ך</w>
-                <w reconstructed="0">א‍ל</w>
+                <w reconstructed="0">אל</w>
                 <w reconstructed="0">תענוג</w>
             </margin>
-            <margin type="margin_car" folio="t-s 16.312 recto" line="3">
-                <w reconstructed="0">וא‍ל</w>
+
+            <margin type="margin_car" line="3" folio="t-s 16.312 recto">
+                <w reconstructed="0">ואל</w>
                 <w reconstructed="0">תתחנג</w>
-                <w reconstructed="0">א‍ל</w>
+                <w reconstructed="0">אל</w>
                 <w reconstructed="0">מטמים׃</w>
             </margin>
             <margin type="margin_car" folio="t-s 16.312 recto" line="3">
@@ -4133,6 +4144,11 @@
             <margin type="margin_car" folio="t-s 16.312 recto" line="17">
                 <w reconstructed="0">הונך</w>
             </margin>
+             <margin type="margin_car" line="17">
+                <w reconstructed="0">ואל</w>
+                <w reconstructed="0">ישמש</w>
+                <w reconstructed="0">מאח</w>
+            </margin>
             <div type="verse" n="12">
                 <line n="18" folio="t-s 16.312 recto" />
                 <w reconstructed="0">ו̇ג̇ם̊̊</w>
@@ -4147,11 +4163,7 @@
                 <w reconstructed="0">צ̇ו̊̊רך</w>
                 <w reconstructed="0">פ֒</w>
             </div>
-            <margin type="margin_car" folio="t-s 16.312 recto" line="18">
-                <w reconstructed="0">וא‍ל</w>
-                <w reconstructed="0">ישמש</w>
-                <w reconstructed="0">מאח</w>
-            </margin>
+
             <margin type="margin_car" folio="t-s 16.312 recto" line="18">
                 <w reconstructed="0">כ׳</w>
                 <w reconstructed="0">ג׳</w>
@@ -4182,8 +4194,8 @@
             <margin type="margin" folio="t-s 16.312 recto" line="18">
                 <w reconstructed="0">כי</w>
                 <w reconstructed="0">הוא</w>
-                <w reconstructed="0">א‍ל</w>
-                <w reconstructed="0">א‍ל</w>
+                <w reconstructed="0">אל</w>
+                <w reconstructed="0">אל</w>
                 <w reconstructed="0">יעתיר</w>
             </margin>
             <margin type="margin_car" folio="t-s 16.312 verso" line="1">
@@ -4240,7 +4252,7 @@
                 <w reconstructed="0">התמרמר</w>
                 <w reconstructed="0">ונהי̊̊</w>
             </margin>
-            <margin type="margin_car" folio="t-s 16.312 verso" line="4">
+            <margin type="margin_car" line="5" folio="t-s 16.312 verso">
                 <w reconstructed="0">כמשפטא׳</w>
                 <w reconstructed="0">שארם</w>
             </margin>
@@ -4284,7 +4296,7 @@
                 <w reconstructed="0">יבנה</w>
                 <w reconstructed="0">עצבה׃</w>
             </div>
-            <margin type="margin_car" folio="t-s 16.312 verso" line="8">
+            <margin type="margin_car" line="9" folio="t-s 16.312 verso">
                 <w reconstructed="0">תשית</w>
                 <w reconstructed="0">עליו</w>
             </margin>
@@ -4303,7 +4315,7 @@
             <margin type="margin_car" folio="t-s 16.312 verso" line="9">
                 <w reconstructed="0">והכר</w>
             </margin>
-            <margin type="margin_car" folio="t-s 16.312 verso" line="9">
+            <margin type="margin_car" line="10" folio="t-s 16.312 verso">
                 <w reconstructed="0">כן</w>
             </margin>
             <div type="verse" n="22">
@@ -4342,11 +4354,15 @@
                 <w reconstructed="0">נפשו׃</w>
                 <line n="13" folio="t-s 16.312 verso" />
             </div>
-            <margin type="margin_car" folio="t-s 16.312 verso" line="11">
+            <margin type="margin_car" folio="t-s 16.312 verso" line="12">
                 <w reconstructed="0">כשבות</w>
                 <w reconstructed="0">מת</w>
             </margin>
-            <margin type="margin_car" folio="t-s 16.312 verso" line="11">
+            <margin type="margin_car" folio="t-s 16.312 verso" line="12">
+                <w reconstructed="0">כשבות</w>
+                <w reconstructed="0">מת</w>
+            </margin>
+            <margin type="margin_car" line="12">
                 <w reconstructed="0">ישבות</w>
                 <w reconstructed="0">ז׳</w>
             </margin>
@@ -4380,7 +4396,7 @@
                 <w reconstructed="0">בנ̇י̊̊</w>
                 <w reconstructed="0">ב̇ק̇ר̊̊׃</w>
             </div>
-            <margin type="margin_car" folio="t-s 16.312 verso" line="15">
+            <margin type="margin_car" line="16" folio="t-s 16.312 verso">
                 <w reconstructed="0">וישובב</w>
                 <w reconstructed="0">בשיר</w>
             </margin>
@@ -4423,7 +4439,8 @@
                 <w reconstructed="0">תאמר</w>
                 <w reconstructed="0">בתרועה׃</w>
             </div>
-            <margin type="margin_car" folio="Or. 1102 recto" line="1">
+
+            <margin type="margin_car" line="2" folio="Or. 1102 recto">
                 <w reconstructed="1">
                     <g type='reconstructed'>הכל</g>
                 </w>
@@ -4529,9 +4546,9 @@
                 <w reconstructed="0">בעתו</w>
                 <w reconstructed="0">יגבר</w>
             </margin>
-            <margin type="margin_car" folio="Or. 1102 recto" line="9">
+            <margin type="margin_car" line="10" folio="Or. 1102 recto">
                 <w reconstructed="1">
-                    <g type='reconstructed'>תו?</g>
+                    <g type='reconstructed'>?תו</g>
                 </w>
             </margin>
             <div type="verse" n="22">
@@ -4558,12 +4575,12 @@
                 <w reconstructed="0">למלח</w>
                 <w reconstructed="0">משקה׃</w>
             </div>
-            <margin type="margin_car" folio="Or. 1102 recto" line="11" />
-            <margin type="margin_reconstructed" folio="Or. 1102 recto" line="11">
+            <margin type="margin_car" line="12" folio="Or. 1102 recto"/>
+            <margin type="margin_reconstructed" line="11">
                 <w reconstructed="0">א</w>
             </margin>
-            <margin type="margin_car" folio="Or. 1102 recto" line="11">
-                <w reconstructed="0">]רחותי̊̊ו̊̊</w>
+            <margin type="margin_car" line="11" folio="Or. 1102 recto">
+                <w reconstructed="0">רחותי̊̊ו̊̊</w>
             </margin>
             <div type="verse" n="24">
                 <line n="12" folio="Or. 1102 recto" />
@@ -4635,8 +4652,8 @@
             <margin type="margin_car" folio="Or. 1102 recto" line="16">
                 <w reconstructed="0">לזרא</w>
             </margin>
-            <margin type="margin_car" folio="Or. 1102 recto" line="16">
-                <w reconstructed="0">נ̊̊ע̊̊ש̊̊?</w>
+            <margin type="margin_car" line="16"  folio="Or. 1102 recto">
+                <w reconstructed="0">?נ̊̊ע̊̊ש̊̊</w>
             </margin>
             <div type="verse" n="28">
                 <line n="17" folio="Or. 1102 recto" />
@@ -4644,7 +4661,7 @@
                 <w reconstructed="1">ר̇<g type='reconstructed'>וחות</g></w>
                 <w reconstructed="1"><g type='reconstructed'>לנ</g>ק̊̊ם̊̊</w>
                 <w reconstructed="0">י̊̊ו̊̊צ̇ר֟ו</w>
-                <w reconstructed="0">]ה̊̊ר̊̊ים</w>
+                <w reconstructed="0">ה̊̊ר̊̊ים</w>
                 <w reconstructed="0">יעתיקו׃</w>
                 <line n="18" folio="Or. 1102 recto" />
             </div>
@@ -4679,14 +4696,15 @@
                 <w reconstructed="0">֟ולעת</w>
                 <w reconstructed="0">יפקדו׃</w>
             </div>
-            <margin type="margin_car" folio="Or. 1102 verso" line="2">
+            <margin type="margin_car" line="1" folio="Or. 1102 verso">
                 <w reconstructed="0">להרים</w>
             </margin>
             <margin type="margin_car" folio="Or. 1102 verso" line="2">
                 <w reconstructed="1">חר<g type='reconstructed'>ב</g></w>
                 <w reconstructed="1"><g type='reconstructed'>נ</g>ק̇מת</w>
             </margin>
-            <margin type="margin_car" folio="Or. 1102 verso" line="2">
+
+            <margin type="margin_car" line="3" folio="Or. 1102 verso">
                 <w reconstructed="1">ל◦◦<g type='reconstructed'></g></w>
                 <w reconstructed="1"><g type='reconstructed'></g>◦בם</w>
             </margin>
@@ -4722,7 +4740,7 @@
                 <w reconstructed="0">ובכתב</w>
                 <w reconstructed="0">הנחתי׃</w>
             </div>
-            <margin type="margin_car" folio="Or. 1102 verso" line="5">
+            <margin type="margin_car" line="6" folio="Or. 1102 verso" >
                 <w reconstructed="0">הכל</w>
             </margin>
             <div type="verse" n="33">
@@ -4780,7 +4798,7 @@
             </margin>
         </div>
         <div type="chap" n="40">
-            <margin type="margin_car" folio="Or. 1102 verso" line="8">
+            <margin type="margin_car" line="9" folio="Or. 1102 verso">
                 <w reconstructed="0">עליון</w>
             </margin>
             <div type="verse" n="1">
@@ -4886,8 +4904,9 @@
             <margin type="margin_car" folio="Or. 1102 verso" line="14">
                 <w reconstructed="0">ר̊̊עת̇ו̊̊</w>
             </margin>
-            <margin type="margin_car" folio="Or. 1102 verso" line="14">
-                <w reconstructed="0">]ק̊̊ם̊̊</w>
+
+            <margin type="margin_car" folio="Or. 1102 verso" line="15">
+                <w reconstructed="0">ק̊̊ם̊̊</w>
             </margin>
             <div type="verse" n="6">
                 <line n="15" folio="Or. 1102 verso" />
@@ -5107,7 +5126,7 @@
                 <w reconstructed="0" />
                 <w reconstructed="0">סלע׃</w>
             </div>
-            <margin type="margin_car" folio="MS.Heb.e.62 X recto" line="5">
+            <margin type="margin_car" line="6" folio="MS.Heb.e.62 X recto">
                 <w reconstructed="0">נצר</w>
                 <w reconstructed="0" />
                 <w reconstructed="0">חמס</w>
@@ -5163,7 +5182,7 @@
                 <w reconstructed="0" />
                 <w reconstructed="0">תכון׃</w>
             </div>
-            <margin type="margin_car" folio="MS.Heb.e.62 X recto" line="8">
+            <margin type="margin_car" line="9" folio="MS.Heb.e.62 X recto">
                 <w reconstructed="0">יותר</w>
                 <w reconstructed="0">שֵכל</w>
             </margin>
@@ -5463,11 +5482,12 @@
                 <w reconstructed="0" />
                 <w reconstructed="0">מעים׃</w>
             </div>
-            <margin type="margin_car" folio="MS.Heb.e.62 X verso" line="4">
+
+            <margin type="margin_car" line="5" folio="MS.Heb.e.62 X verso">
                 <w reconstructed="0">מעגל</w>
                 <w reconstructed="0">נפשו</w>
             </margin>
-            <margin type="margin_car" folio="MS.Heb.e.62 X verso" line="4">
+            <margin type="margin_car" line="5" folio="MS.Heb.e.62 X verso">
                 <w reconstructed="0">מטעמי</w>
                 <w reconstructed="0" />
                 <w reconstructed="0">זבד</w>
@@ -5506,7 +5526,7 @@
             </margin>
         </div>
         <div type="chap" n="41">
-            <margin type="margin_car" folio="MS.Heb.e.62 X verso" line="6">
+            <margin type="margin_car" line="7" folio="MS.Heb.e.62 X verso">
                 <w reconstructed="0">הוי</w>
             </margin>
             <div type="verse" n="1ab">
@@ -5563,13 +5583,14 @@
                 <w reconstructed="0">וחסר</w>
                 <w reconstructed="0">עצמה׃</w>
             </div>
-            <margin type="margin_car" folio="MS.Heb.e.62 X verso" line="8">
+
+            <margin type="margin_car" line="9" folio="MS.Heb.e.62 X verso">
                 <w reconstructed="0">חוק</w>
             </margin>
-            <margin type="margin_car" folio="MS.Heb.e.62 X verso" line="8">
+            <margin type="margin_car" line="9" folio="MS.Heb.e.62 X verso">
                 <w reconstructed="0">חזק</w>
             </margin>
-            <margin type="margin_car" folio="MS.Heb.e.62 X verso" line="8">
+            <margin type="margin_car" line="9" folio="MS.Heb.e.62 X verso">
                 <w reconstructed="0">חוקו</w>
             </margin>
             <div type="verse" n="2cd">
@@ -5590,6 +5611,7 @@
             <margin type="margin_car" folio="MS.Heb.e.62 X verso" line="10">
                 <w reconstructed="0">ונוקש</w>
             </margin>
+	<margin type="margin_car" line="10">
             <div type="verse" n="2cd">
                 <w reconstructed="0">איש</w>
                 <w reconstructed="0" />
@@ -5605,6 +5627,8 @@
                 <w reconstructed="0" />
                 <w reconstructed="0">תקוה׃</w>
             </div>
+	</margin>
+	<margin type="margin_car" line="10">
             <div type="verse" n="2cd">
                 <w reconstructed="0">איש</w>
                 <w reconstructed="0" />
@@ -5619,6 +5643,7 @@
                 <w reconstructed="0">ואבד</w>
                 <w reconstructed="0">תקוה׃</w>
             </div>
+	</margin>
             <div type="verse" n="3">
                 <line n="11" folio="MS.Heb.e.62 X verso" />
                 <w reconstructed="0">אל</w>
@@ -5717,7 +5742,7 @@
                 <w reconstructed="0">ע̊̊ם̊̊̊̊</w>
                 <w reconstructed="1">זרע̇<g type='reconstructed'>ו</g></w>
                 <w reconstructed="1"><g type='reconstructed'>ת</g>מ̊̊י̊̊ד̊̊<g type='reconstructed'></g></w>
-                <w reconstructed="0">חרפ]ה̇׃</w>
+                <w reconstructed="0">חרפה̇׃</w>
             </div>
             <div type="verse" n="7">
                 <line n="16" folio="MS.Heb.e.62 X verso" />
@@ -5748,7 +5773,7 @@
                 <w reconstructed="0">
                     <blank orient='horizontal' span='18' />
                 </w>
-                <w reconstructed="0">ע]ל̊̊יון׃</w>
+                <w reconstructed="0">על̊̊יון׃</w>
             </div>
             <margin type="margin_car" folio="MS.Heb.e.62 X verso" line="17">
                 <w reconstructed="0">תפרו</w>
@@ -5770,7 +5795,8 @@
                 <w reconstructed="0" />
                 <w reconstructed="0">לאנחה׃</w>
             </div>
-            <margin type="margin" folio="MS.Heb.e.62 X verso" line="18">
+
+            <margin type="margin" line="1" folio="MS.Heb.e.62 X verso">
                 <w reconstructed="0">אם</w>
                 <w reconstructed="0" />
                 <w reconstructed="0">תפרו</w>
@@ -5781,7 +5807,7 @@
                 <w reconstructed="0" />
                 <w reconstructed="0">אסון</w>
             </margin>
-            <margin type="margin" folio="MS.Heb.e.62 X verso" line="18">
+            <margin type="margin" line="1" folio="MS.Heb.e.62 X verso">
                 <w reconstructed="0">ואם</w>
                 <w reconstructed="0" />
                 <w reconstructed="0">מולידו</w>
@@ -5843,7 +5869,7 @@
                 <w reconstructed="0" />
                 <w reconstructed="0">מאונים</w>
                 <w reconstructed="0" />
-                <w reconstructed="0">א‍ל</w>
+                <w reconstructed="0">אל</w>
                 <w reconstructed="0" />
                 <w reconstructed="0">אונים</w>
             </margin>
@@ -5905,12 +5931,12 @@
                 <w reconstructed="0" />
                 <w reconstructed="0">מספר׃</w>
             </div>
-            <margin type="margin" folio="MS.Heb.e.62 XI recto" line="4">
+            <margin type="margin" line="5" folio="MS.Heb.e.62 XI recto">
                 <w reconstructed="0">ט̇וב</w>
                 <w reconstructed="0" />
                 <w reconstructed="0">חי</w>
             </margin>
-            <margin type="margin" folio="MS.Heb.e.62 XI recto" line="4">
+            <margin type="margin" line="5" folio="MS.Heb.e.62 XI recto">
                 <w reconstructed="0">מ̇ספר</w>
                 <w reconstructed="0" />
                 <w reconstructed="0">ימים</w>
@@ -5935,10 +5961,10 @@
                 <w reconstructed="0" />
                 <w reconstructed="0">בשתיהם׃</w>
             </div>
-            <margin type="margin" folio="MS.Heb.e.62 XI recto" line="5">
+            <margin type="margin" line="6" folio="MS.Heb.e.62 XI recto">
                 <w reconstructed="0">וסימה</w>
             </margin>
-            <margin type="margin" folio="MS.Heb.e.62 XI recto" line="5">
+            <margin type="margin" line="6" folio="MS.Heb.e.62 XI recto">
                 <w reconstructed="0">מסותרת</w>
             </margin>
             <margin type="margin_car" folio="MS.Heb.e.62 XI recto" line="6">
@@ -6009,7 +6035,7 @@
                 <w reconstructed="0" />
                 <w reconstructed="0">נבחר׃</w>
             </div>
-            <margin type="margin_car" folio="MS.Heb.e.62 XI recto" line="10">
+            <margin type="margin_car" line="11" folio="MS.Heb.e.62 XI recto">
                 <w reconstructed="0">על</w>
                 <w reconstructed="0" />
                 <w reconstructed="0">פחז</w>
@@ -6071,10 +6097,10 @@
                 <w reconstructed="0" />
                 <w reconstructed="0">ז֟ר׃</w>
             </div>
-            <margin type="margin" folio="MS.Heb.e.62 XI recto" line="12">
+            <margin type="margin" line="13" folio="MS.Heb.e.62 XI recto">
                 <w reconstructed="0">משותף</w>
             </margin>
-            <margin type="margin" folio="MS.Heb.e.62 XI recto" line="12">
+            <margin type="margin" line="13" folio="MS.Heb.e.62 XI recto">
                 <w reconstructed="0">ממקום</w>
             </margin>
             <margin type="margin_car" folio="MS.Heb.e.62 XI recto" line="13">
@@ -6139,10 +6165,13 @@
             <margin type="margin" folio="MS.Heb.e.62 XI recto" line="15">
                 <w reconstructed="0">מנה</w>
             </margin>
+		<margin type="margin" line="17">
             <div type="verse" n="20a">
                 <w reconstructed="0">מ̊שאול</w>
                 <w reconstructed="0" />
                 <w reconstructed="0">שלום</w>
+		<w reconstructed="0">המחריש:׃</w>
+	    	</margin>
                 <line n="16" folio="MS.Heb.e.62 XI recto" />
                 <w reconstructed="1">מהש◦<g type='reconstructed'></g></w>
                 <w reconstructed="0">
@@ -6158,10 +6187,8 @@
                 <w reconstructed="0">מ</w>
                 <w reconstructed="0">חריש׃</w>
             </div>
-            <margin type="margin" folio="MS.Heb.e.62 XI recto" line="15">
-                <w reconstructed="0">המחריש׃</w>
-            </margin>
-            <margin type="margin_car" folio="MS.Heb.e.62 XI recto" line="16">
+            
+            <margin type="margin_car" line="16" folio="MS.Heb.e.62 XI recto">
                 <w reconstructed="0">משואל</w>
             </margin>
             <margin type="margin_car" folio="MS.Heb.e.62 XI recto" line="16">
@@ -6180,10 +6207,10 @@
                 <w reconstructed="0">ע̊̊ל̇</w>
                 <w reconstructed="0">ש̊̊פ̊̊ח̊̊֟ת̊̊ך̊̊</w>
             </div>
-            <margin type="margin_car" folio="MS.Heb.e.62 XI recto" line="17">
-                <w reconstructed="0">ז]רה:</w>
+            <margin type="margin_car" line="17" folio="MS.Heb.e.62 XI recto">
+                <w reconstructed="0">:זרה</w>
             </margin>
-            <margin type="margin_car" folio="MS.Heb.e.62 XI recto" line="17">
+            <margin type="margin_car" line="18" folio="MS.Heb.e.62 XI recto">
                 <w reconstructed="0">דבִר</w>
                 <w reconstructed="0">חסד</w>
             </margin>
@@ -6264,10 +6291,10 @@
                 <w reconstructed="0" />
                 <w reconstructed="0">סוד</w>
             </margin>
-            <margin type="margin_car" folio="MS.Heb.e.62 XI verso" line="2">
+            <margin type="margin_car" line="3" folio="MS.Heb.e.62 XI verso">
                 <w reconstructed="0">אל</w>
             </margin>
-            <margin type="margin_car" folio="MS.Heb.e.62 XI verso" line="3">
+            <margin type="margin_car" line="4">
                 <w reconstructed="0">אל</w>
             </margin>
             <div type="verse" n="2">
@@ -6289,7 +6316,7 @@
             <margin type="margin_car" folio="MS.Heb.e.62 XI verso" line="4">
                 <w reconstructed="0">משפט</w>
             </margin>
-            <margin type="margin_car" folio="MS.Heb.e.62 XI verso" line="4">
+            <margin type="margin_car" line="5" folio="MS.Heb.e.62 XI verso">
                 <w reconstructed="0">שותף</w>
             </margin>
             <div type="verse" n="3">
@@ -6465,8 +6492,8 @@
                 <w reconstructed="0">חי׃</w>
                 <line n="12" folio="MS.Heb.e.62 XI verso" />
             </div>
-            <margin type="margin_infralinear" folio="MS.Heb.e.62 XI verso" line="10">
-                <w reconstructed="0">ושואַ‍ל</w>
+            <margin type="margin_infralinear" line="11" folio="MS.Heb.e.62 XI verso">
+                <w reconstructed="0">ושואַל</w>
             </margin>
             <margin type="margin_car" folio="MS.Heb.e.62 XI verso" line="10">
                 <w reconstructed="0">ושב</w>
@@ -6500,7 +6527,8 @@
                 <w reconstructed="0">פן</w>
                 <w reconstructed="1">ת̊̊פ̊̊ת̊̊<g type='reconstructed'>ה׃</g></w>
             </div>
-            <margin type="margin_car" folio="MS.Heb.e.62 XI verso" line="14">
+
+            <margin type="margin_car" line="15" folio="MS.Heb.e.62 XI verso">
                 <w reconstructed="0">תתפתה</w>
             </margin>
             <div type="verse" n="10ac">
@@ -6515,7 +6543,7 @@
                 <w reconstructed="0">ל֟א̊̊</w>
                 <w reconstructed="0">ת̊̊נ̊̊ש̊̊ה̇׃</w>
             </div>
-            <margin type="margin_car" folio="MS.Heb.e.62 XI verso" line="15">
+            <margin type="margin_car" line="16" folio="MS.Heb.e.62 XI verso">
                 <w reconstructed="0">א׳</w>
                 <w reconstructed="0" />
                 <w reconstructed="0">פחזה</w>
@@ -6619,7 +6647,7 @@
                 <w reconstructed="0">
                     <blank orient='horizontal' span='2' />
                 </w>
-                <w reconstructed="0">]ך̊̊</w>
+                <w reconstructed="0">ך̊̊</w>
                 <w reconstructed="0" />
                 <w reconstructed="0">ח̊̊ז̇ק̇</w>
                 <w reconstructed="0" />
@@ -6737,22 +6765,22 @@
                 <w reconstructed="0" />
                 <w reconstructed="0">איש̇</w>
             </margin>
-            <margin type="margin_car" folio="MS.Heb.e.62 XII recto" line="3">
+
+    
+            <margin type="margin_car" line="4" folio="MS.Heb.e.62 XII recto">
                 <w reconstructed="0">מטוב</w>
                 <w reconstructed="0" />
                 <w reconstructed="0">אשה</w>
             </margin>
-            <margin type="margin_car" folio="MS.Heb.e.62 XII recto" line="3">
-                <w reconstructed="0">מחפרת</w>
+
+            <margin type="margin_car" line="4" folio="MS.Heb.e.62 XII recto">
                 <w reconstructed="0">ובת</w>
-                <w reconstructed="0" />
-                <w reconstructed="0">מח֟רפת</w>
-            </margin>
-            <margin type="margin_car" folio="MS.Heb.e.62 XII recto" line="3">
-                <w reconstructed="0">תביע</w>
+		<w reconstructed="0">מחפרת</w>
+                 <w reconstructed="0">תביע</w>
                 <w reconstructed="0" />
                 <w reconstructed="0">חרפה׃</w>
             </margin>
+           
             <div type="verse" n="15ab">
                 <line n="6" folio="MS.Heb.e.62 XII recto" />
                 <w reconstructed="0">אזכר</w>
@@ -6881,7 +6909,7 @@
                 <w reconstructed="0" />
                 <w reconstructed="0">דבר׃</w>
             </margin>
-            <margin type="margin_car" folio="MS.Heb.e.62 XII recto" line="13">
+            <margin type="margin_car" line="14" folio="MS.Heb.e.62 XII recto">
                 <w reconstructed="0">גבורות</w>
             </margin>
             <div type="verse" n="21ab">
@@ -6915,7 +6943,7 @@
             <margin type="margin_car" folio="MS.Heb.e.62 XII recto" line="15">
                 <w reconstructed="0">צרך</w>
             </margin>
-            <margin type="margin_car" folio="MS.Heb.e.62 XII recto" line="15">
+            <margin type="margin_car" line="16" folio="MS.Heb.e.62 XII recto">
                 <w reconstructed="0">וקים</w>
             </margin>
             <div type="verse" n="23a/25a">
@@ -6961,7 +6989,7 @@
         </div>
         <div type="chap" n="43">
             <div type="verse" n="1b/42">
-                <line n="18" folio="MS.Heb.e.62 XII recto" />
+                <line n="18" folio="MS.Heb.e.62 XII verso" />
                 <w reconstructed="0">ועצם</w>
                 <w reconstructed="0">שמים̇</w>
                 <w reconstructed="0">מ̇רביט</w>
@@ -6975,6 +7003,7 @@
         </div>
         <div type="chap" n="42">
             <div type="verse" n="24" />
+	<margin type="margin_car" line="1">
             <div type="verse" n="25a">
                 <w reconstructed="0">זה</w>
                 <w reconstructed="0">על</w>
@@ -6982,12 +7011,15 @@
                 <w reconstructed="0">חלף</w>
                 <w reconstructed="0">טוב</w>
             </div>
+	</margin>
+	<margin type="margin_car" line="1">
             <div type="verse" n="25b">
                 <w reconstructed="0">ומי</w>
                 <w reconstructed="0">ישבע</w>
                 <w reconstructed="0">להביט</w>
                 <w reconstructed="0">תואר</w>
             </div>
+	</margin>
         </div>
         <div type="chap" n="43">
             <div type="verse" n="1a">
@@ -7061,7 +7093,7 @@
                 <w reconstructed="0" />
                 <w reconstructed="0">יתכלכל׃</w>
             </div>
-            <margin type="margin_car" folio="MS.Heb.e.62 XII verso" line="3">
+            <margin type="margin_car" line="4" folio="MS.Heb.e.62 XII verso">
                 <w reconstructed="0">מוצק</w>
             </margin>
             <div type="verse" n="4ab">
@@ -7089,7 +7121,7 @@
             <margin type="margin_car" folio="MS.Heb.e.62 XII verso" line="4">
                 <w reconstructed="0">יסיק</w>
             </margin>
-            <margin type="margin_car" folio="MS.Heb.e.62 XII verso" line="4">
+            <margin type="margin_car" line="5" folio="MS.Heb.e.62 XII verso">
                 <w reconstructed="0">לשון</w>
             </margin>
             <div type="verse" n="4cd">
@@ -7124,7 +7156,8 @@
             </div>
             <margin type="margin_car" folio="MS.Heb.e.62 XII verso" line="5">
                 <w reconstructed="0">כי</w>
-                <w reconstructed="0">גדולעליון</w>
+                <w reconstructed="0">גדול</w>
+		<w reconstructed="0">עליון</w>
                 <w reconstructed="0" />
                 <w reconstructed="0">עשה</w>
             </margin>
@@ -7175,7 +7208,7 @@
                 <w reconstructed="0" />
                 <w reconstructed="0">בתקופתו׃</w>
             </div>
-            <margin type="margin_car" folio="MS.Heb.e.62 XII verso" line="8">
+            <margin type="margin_car" line="9" folio="MS.Heb.e.62 XII verso>
                 <w reconstructed="0">כשמו</w>
                 <w reconstructed="0" />
                 <w reconstructed="0">והוא</w>
@@ -7236,15 +7269,7 @@
             <margin type="margin_car" folio="MS.Heb.e.62 XII verso" line="11">
                 <w reconstructed="0">עדי</w>
             </margin>
-            <margin type="margin_car" folio="MS.Heb.e.62 XII verso" line="11">
-                <w reconstructed="0">Lecture</w>
-                <w reconstructed="0">à</w>
-                <w reconstructed="0">revoir</w>
-            </margin>
-            <margin type="margin_car" folio="MS.Heb.e.62 XII verso" line="11">
-                <w reconstructed="0">עדי</w>
-            </margin>
-            <margin type="margin_car" folio="MS.Heb.e.62 XII verso" line="11">
+            <margin type="margin_car" line="11" folio="MS.Heb.e.62 XII verso">
                 <w reconstructed="0">משריק</w>
             </margin>
             <margin type="margin_car" folio="MS.Heb.e.62 XII verso" line="11">
@@ -7307,11 +7332,11 @@
                 <w reconstructed="0">נטתה</w>
                 <w reconstructed="1">בגב̊̊ו̊̊ר̊̊ה̊̊<g type='reconstructed'>׃</g></w>
             </div>
-            <margin type="margin_car" folio="MS.Heb.e.62 XII verso" line="13">
+            <margin type="margin_car" line="14" folio="MS.Heb.e.62 XII verso">
                 <w reconstructed="0">הוד</w>
                 <w reconstructed="0">הקיפה</w>
             </margin>
-            <margin type="margin_car" folio="MS.Heb.e.62 XII verso" line="13">
+            <margin type="margin_car" line="14" folio="MS.Heb.e.62 XII verso">
                 <w reconstructed="0">בכבודו</w>
             </margin>
             <margin type="margin_car" folio="MS.Heb.e.62 XII verso" line="14">
@@ -7430,10 +7455,13 @@
                 <w reconstructed="0" />
                 <w reconstructed="0">ד֟רתו׃</w>
             </div>
-            <margin type="margin_car" folio="MS.Heb.e.62 XIII recto" line="1">
-                <w reconstructed="0">רד'</w>
+            <margin type="margin_car" line="1" folio="MS.Heb.e.62 XIII recto">
+                <w reconstructed="0">'רד</w>
             </margin>
-            <margin type="margin_car" folio="MS.Heb.e.62 XIII recto" line="1">
+		<margin type="margin_car" line="1" folio="MS.Heb.e.62 XIII recto">
+                <w reconstructed="0">'כד</w>
+            </margin>
+            <margin type="margin_car" line="2">
                 <w reconstructed="0">יהגה</w>
             </margin>
             <div type="verse" n="18">
@@ -7451,7 +7479,7 @@
                 <w reconstructed="0" />
                 <w reconstructed="0">לבב׃</w>
             </div>
-            <margin type="margin_car" folio="MS.Heb.e.62 XIII recto" line="2">
+            <margin type="margin_car" line="3" folio="MS.Heb.e.62 XIII recto">
                 <w reconstructed="0">ישפך</w>
             </margin>
             <div type="verse" n="19">
@@ -7519,7 +7547,7 @@
             <margin type="margin_car" folio="MS.Heb.e.62 XIII recto" line="6">
                 <w reconstructed="0">וצור</w>
             </margin>
-            <margin type="margin_car" folio="MS.Heb.e.62 XIII recto" line="6">
+            <margin type="margin_car" line="7" folio="MS.Heb.e.62 XIII recto">
                 <w reconstructed="0">טל</w>
                 <w reconstructed="0" />
                 <w reconstructed="0">פורע</w>
@@ -7545,7 +7573,7 @@
             <margin type="margin_car" folio="MS.Heb.e.62 XIII recto" line="7">
                 <w reconstructed="0">רטב</w>
             </margin>
-            <margin type="margin_car" folio="MS.Heb.e.62 XIII recto" line="7">
+            <margin type="margin_car" line="8" folio="MS.Heb.e.62 XIII recto">
                 <w reconstructed="0">משובתו</w>
             </margin>
             <div type="verse" n="23">
@@ -7579,7 +7607,7 @@
                 <w reconstructed="0" />
                 <w reconstructed="0">נשתומם׃</w>
             </div>
-            <margin type="margin_car" folio="MS.Heb.e.62 XIII recto" line="9">
+            <margin type="margin_car" line="10" folio="MS.Heb.e.62 XIII recto">
                 <w reconstructed="0">מעשיו</w>
             </margin>
             <div type="verse" n="25">
@@ -7616,7 +7644,7 @@
             <margin type="margin_car" folio="MS.Heb.e.62 XIII recto" line="11">
                 <w reconstructed="0">למענהו</w>
             </margin>
-            <margin type="margin_car" folio="MS.Heb.e.62 XIII recto" line="11">
+            <margin type="margin_car" line="12" folio="MS.Heb.e.62 XIII recto">
                 <w reconstructed="0">למען</w>
             </margin>
             <div type="verse" n="27">
@@ -7636,7 +7664,7 @@
                 <w reconstructed="0" />
                 <w reconstructed="0">הכל׃</w>
             </div>
-            <margin type="margin_car" folio="MS.Heb.e.62 XIII recto" line="12">
+            <margin type="margin_car" line="13" folio="MS.Heb.e.62 XIII recto">
                 <w reconstructed="0">נגלה</w>
             </margin>
             <div type="verse" n="28">
@@ -7774,7 +7802,8 @@
             <margin type="margin_car" folio="MS.Heb.e.62 XIII verso" line="2">
                 <w reconstructed="0">את</w>
             </margin>
-            <margin type="margin_car" folio="MS.Heb.e.62 XIII verso" line="2">
+
+            <margin type="margin_car" line="3" folio="MS.Heb.e.62 XIII verso" >
                 <w reconstructed="0">להם</w>
             </margin>
             <div type="verse" n="2">
@@ -7792,7 +7821,7 @@
                 <w reconstructed="0" />
                 <w reconstructed="0">עולם׃</w>
             </div>
-            <margin type="margin_car" folio="MS.Heb.e.62 XIII verso" line="3">
+            <margin type="margin_car" line="4" folio="MS.Heb.e.62 XIII verso" >
                 <w reconstructed="0">רודי</w>
             </margin>
             <div type="verse" n="3ab">
@@ -7811,7 +7840,8 @@
             <margin type="margin_car" folio="MS.Heb.e.62 XIII verso" line="4">
                 <w reconstructed="0">בגבורם</w>
             </margin>
-            <margin type="margin_car" folio="MS.Heb.e.62 XIII verso" line="4">
+
+            <margin type="margin_car" line="5" folio="MS.Heb.e.62 XIII verso">
                 <w reconstructed="0">יו׳</w>
             </margin>
             <div type="verse" n="3cd">
@@ -7838,7 +7868,7 @@
                 <w reconstructed="0" />
                 <w reconstructed="0">במחקרותם׃</w>
             </div>
-            <margin type="margin_car" folio="MS.Heb.e.62 XIII verso" line="6">
+            <margin type="margin_car" line="7" folio="MS.Heb.e.62 XIII verso">
                 <w reconstructed="0">במס׳</w>
             </margin>
             <div type="verse" n="4cd">
@@ -7852,7 +7882,7 @@
                 <w reconstructed="0" />
                 <w reconstructed="0">במשמרותם׃</w>
             </div>
-            <margin type="margin_car" folio="MS.Heb.e.62 XIII verso" line="7">
+            <margin type="margin_car" line="8" folio="MS.Heb.e.62 XIII verso">
                 <w reconstructed="0">קו</w>
             </margin>
             <div type="verse" n="5">
@@ -7885,7 +7915,7 @@
                 <w reconstructed="0" />
                 <w reconstructed="0">מכונתם׃</w>
             </div>
-            <margin type="margin_car" folio="MS.Heb.e.62 XIII verso" line="9">
+            <margin type="margin_car" line="10" folio="MS.Heb.e.62 XIII verso">
                 <w reconstructed="0">נכבדו</w>
             </margin>
             <div type="verse" n="7">
@@ -8078,7 +8108,7 @@
             <margin type="margin_car" folio="MS.Heb.e.62 XIV recto" line="1">
                 <w reconstructed="0">ב׳</w>
             </margin>
-            <margin type="margin_car" folio="MS.Heb.e.62 XIV recto" line="2">
+            <margin type="margin_car" line="3" folio="MS.Heb.e.62 XIV recto">
                 <w reconstructed="0">כרת</w>
             </margin>
             <div type="verse" n="18">
@@ -8228,10 +8258,11 @@
                 <w reconstructed="0" />
                 <w reconstructed="0">נחלתו׃</w>
             </div>
-            <margin type="margin_car" folio="MS.Heb.e.62 XIV recto" line="10">
+
+            <margin type="margin_car" line="11" folio="MS.Heb.e.62 XIV recto">
                 <w reconstructed="0">ויכנהו</w>
             </margin>
-            <margin type="margin_car" folio="MS.Heb.e.62 XIV recto" line="10">
+            <margin type="margin_car" line="11" folio="MS.Heb.e.62 XIV recto">
                 <w reconstructed="0">בבכורה</w>
             </margin>
             <div type="verse" n="23de">
@@ -8320,13 +8351,13 @@
                 </w>
                 <w reconstructed="1"><g type='reconstructed'></g>כ̊̊ב̊̊ו̊̊ד̊̊ו̊̊׃</w>
             </div>
-            <margin type="margin_car" folio="MS.Heb.e.62 XIV recto" line="15">
+            <margin type="margin_car" line="16" folio="MS.Heb.e.62 XIV recto">
                 <w reconstructed="0">בדברו</w>
             </margin>
-            <margin type="margin_car" folio="MS.Heb.e.62 XIV recto" line="15">
+            <margin type="margin_car" line="16" folio="MS.Heb.e.62 XIV recto">
                 <w reconstructed="0">ב̇ד̊ב̇ר̊י̊ו̊</w>
             </margin>
-            <margin type="margin_car" folio="MS.Heb.e.62 XIV recto" line="17">
+            <margin type="margin_car" line="18" folio="MS.Heb.e.62 XIV recto">
                 <w reconstructed="0">ובענותנותו</w>
             </margin>
             <div type="verse" n="4">
@@ -8375,10 +8406,10 @@
                 <w reconstructed="0" />
                 <w reconstructed="0">לישראל׃</w>
             </div>
-            <margin type="margin_car" folio="MS.Heb.e.62 XIV verso" line="1">
+            <margin type="margin_car" line="2" folio="MS.Heb.e.62 XIV verso">
                 <w reconstructed="0">ויתן</w>
             </margin>
-            <margin type="margin_car" folio="MS.Heb.e.62 XIV verso" line="2">
+            <margin type="margin_car" line="3" folio="MS.Heb.e.62 XIV verso">
                 <w reconstructed="0">לי</w>
             </margin>
             <div type="verse" n="6/7">
@@ -8418,21 +8449,21 @@
                 <w reconstructed="0" />
                 <w reconstructed="0">פעמונ֟ים׃</w>
             </div>
-            <margin type="margin_car" folio="MS.Heb.e.62 XIV verso" line="4">
+            <margin type="margin_car" line="5" folio="MS.Heb.e.62 XIV verso">
                 <w reconstructed="0">לו</w>
                 <w reconstructed="0" />
                 <w reconstructed="0">הודו</w>
             </margin>
-            <margin type="margin_car" folio="MS.Heb.e.62 XIV verso" line="5">
+            <margin type="margin_car" line="6" folio="MS.Heb.e.62 XIV verso">
                 <w reconstructed="0">בברכה</w>
             </margin>
-            <margin type="margin_car" folio="MS.Heb.e.62 XIV verso" line="5">
+            <margin type="margin_car" line="6" folio="MS.Heb.e.62 XIV verso">
                 <w reconstructed="0">תוא̊̊ר</w>
             </margin>
             <margin type="margin_car" folio="MS.Heb.e.62 XIV verso" line="6">
                 <w reconstructed="0">תעופה</w>
             </margin>
-            <margin type="margin_car" folio="MS.Heb.e.62 XIV verso" line="6">
+            <margin type="margin_car" line="7" folio="MS.Heb.e.62 XIV verso">
                 <w reconstructed="0">תפארו̇ת̊̊</w>
             </margin>
             <div type="verse" n="8">
@@ -9112,7 +9143,7 @@
                 <w reconstructed="0">
                     <blank orient='horizontal' span='4' />
                 </w>
-                <w reconstructed="0">׃]</w>
+                <w reconstructed="0">׃</w>
                 <line n="16" folio="MS.Heb.e.62 XV verso" />
                 <w reconstructed="0">ויענהו</w>
                 <w reconstructed="0" />
@@ -9259,7 +9290,8 @@
                 <w reconstructed="0" />
                 <w reconstructed="0">נחלה׃</w>
             </div>
-            <margin type="margin_car" folio="MS.Heb.e.62 XVI recto" line="7">
+
+            <margin type="margin_car" line="8" folio="MS.Heb.e.62 XVI recto">
                 <w reconstructed="0">ת̊̊׳</w>
             </margin>
             <div type="verse" n="10">
@@ -9418,7 +9450,7 @@
                 <w reconstructed="0">
                     <blank orient='horizontal' span='4' />
                 </w>
-                <w reconstructed="0">׃]</w>
+                <w reconstructed="0">׃</w>
             </div>
             <div type="verse" n="17b/18a">
                 <line n="18" folio="MS.Heb.e.62 XVI recto" />
@@ -9684,7 +9716,7 @@
                 </w>
                 <w reconstructed="1"><g type='reconstructed'>כ</g>ב̇וד׃</w>
             </div>
-            <margin type="margin_car" folio="MS.Heb.e.62 XVI verso" line="14">
+            <margin type="margin_car" line="15" folio="MS.Heb.e.62 XVI verso" >
                 <w reconstructed="0">ד̊̊ויד</w>
             </margin>
             <div type="verse" n="8d/9c">
@@ -9703,7 +9735,8 @@
                 <w reconstructed="1">ש̊̊<g type='reconstructed'>בח</g></w>
                 <w reconstructed="1"><g type='reconstructed'>ב</g>ש̊̊י̊̊ר̇׃</w>
             </div>
-            <margin type="margin_car" folio="MS.Heb.e.62 XVI verso" line="15">
+
+            <margin type="margin_car" line="16" folio="MS.Heb.e.62 XVI verso">
                 <w reconstructed="0">ה̊̊כי̇ן</w>
             </margin>
             <div type="verse" n="9ab">
@@ -10242,7 +10275,7 @@
                 <w reconstructed="1"><g type='reconstructed'>נ</g>ס̊̊ת̊̊ר̊̊</w>
                 <w reconstructed="1"><g type='reconstructed'>ו</g>א̊̊ליש<g type='reconstructed'>ע</g></w>
                 <w reconstructed="1"><g type='reconstructed'>נמל</g>א̊̊<g type='reconstructed'></g></w>
-                <w reconstructed="0">רו]ח̊̊ו̊̊׃</w>
+                <w reconstructed="0">רוח̊̊ו̊̊׃</w>
             </div>
             <div type="verse" n="12cd">
                 <line n="18" folio="MS.Heb.e.62 XVII verso" />
@@ -11199,7 +11232,7 @@
                 <w reconstructed="0">בן</w>
                 <w reconstructed="0">ישוע</w>
                 <w reconstructed="0">בן</w>
-                <w reconstructed="0">א‍לעזר</w>
+                <w reconstructed="0">אלעזר</w>
                 <w reconstructed="0">בן</w>
                 <w reconstructed="0">סירא׃</w>
                 <line n="8" folio="t-s 16.315 recto" />
@@ -11236,7 +11269,7 @@
                 <w reconstructed="0">אלהי</w>
                 <w reconstructed="0">ישעי</w>
                 <w reconstructed="0">א̇ו̊̊ד̇ך</w>
-                <w reconstructed="0">א‍להי</w>
+                <w reconstructed="0">אלהי</w>
                 <w reconstructed="0">אבי׃</w>
             </div>
             <div type="verse" n="1/2a">
@@ -11799,7 +11832,7 @@
                 <w reconstructed="0">בן</w>
                 <w reconstructed="0">ישוע</w>
                 <w reconstructed="0">בן</w>
-                <w reconstructed="0">א‍לעזר</w>
+                <w reconstructed="0">אלעזר</w>
                 <w reconstructed="0">בן</w>
                 <w reconstructed="0">סירא׃</w>
                 <line n="15" folio="t-s 16.315 recto" />

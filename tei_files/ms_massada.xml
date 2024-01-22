@@ -8,34 +8,34 @@
             </div>
             <div type="verse" n="28ab">
                 <line n="3" col="Col. I" />
-                <w reconstructed="0">הר]ים</w>
+            <w reconstructed="1"><g type='reconstructed'>הר</g>ים</w>
                 <w reconstructed="0">יעת̊יקו</w>
             </div>
             <div type="verse" n="28cd">
                 <line n="4" col="Col. I" />
-                <w reconstructed="0">]הם</w>
+                <w reconstructed="0">הם</w>
                 <w reconstructed="0">יניח̇ו</w>
             </div>
             <div type="verse" n="29">
                 <line n="5" col="Col. I" />
-                <w reconstructed="0">נב]ראו</w>
+                <w reconstructed="1"><g type='reconstructed'>נב</g>ראו</w>
             </div>
             <div type="verse" n="30ab">
                 <line n="6" col="Col. I" />
-                <w reconstructed="0">]◦</w>
+                <w reconstructed="0">◦</w>
                 <w reconstructed="0">בם</w>
             </div>
             <div type="verse" n="30cd">
                 <line n="7" col="Col. I" />
-                <w reconstructed="0">]ו</w>
+                <w reconstructed="0">ו</w>
             </div>
             <div type="verse" n="31">
                 <line n="8" col="Col. I" />
-                <w reconstructed="0">פ]יו</w>
-            </div>
+                <w reconstructed="1"><g type='reconstructed'>פ</g>יו</w>
+                </div>
             <div type="verse" n="32">
                 <line n="9" col="Col. I" />
-                <w reconstructed="0">]ת̊י</w>
+                <w reconstructed="0">ת̊י</w>
                 <line n="10–22" col="Col. I" />
                 <w reconstructed="0">(.</w>
                 <w reconstructed="0">.</w>
@@ -61,7 +61,7 @@
                 <line n="3" col="Col. II" />
                 <w reconstructed="0">חיל</w>
                 <w reconstructed="0">מעול̇</w>
-                <w reconstructed="0">]ת</w>
+                <w reconstructed="0">ת</w>
             </div>
             <div type="verse" n="14">
                 <line n="4" col="Col. II" />
@@ -126,7 +126,7 @@
             </div>
             <div type="verse" n="19cd">
                 <line n="10" col="Col. II" />
-                <w reconstructed="0">]ו̇</w>
+                <w reconstructed="0">ו̇</w>
                 <w reconstructed="0">שאר</w>
                 <w reconstructed="1">ו̇מ̊ש̇נ̊י̊<g type='reconstructed'>הם</g></w>
                 <w reconstructed="1">
@@ -159,7 +159,7 @@
             </div>
             <div type="verse" n="26cd">
                 <line n="18" col="Col. II" />
-                <w reconstructed="0">]א̊י̇ן̇</w>
+                <w reconstructed="0">א̊י̇ן̇</w>
                 <w reconstructed="0">ל̇ב̊קש</w>
                 <w reconstructed="0">עמה</w>
                 <w reconstructed="0">משען</w>
@@ -304,7 +304,7 @@
                 <w reconstructed="0">נמאס</w>
                 <w reconstructed="1">ת<g type='reconstructed'>ל</g>ד̊ות</w>
                 <w reconstructed="0">רעים</w>
-                <w reconstructed="0">ר]ש̊ע</w>
+                <w reconstructed="1"><g type='reconstructed'>ר</g>שע</w>
             </div>
             <div type="verse" n="6">
                 <line n="7" col="Col. III" />
@@ -533,10 +533,8 @@
             </div>
             <div type="verse" n="21b/20a">
                 <line n="25" col="Col. III" />
-                <w reconstructed="0">מ</w>
-                <w reconstructed="0">ש{א}ות</w>
-                <w reconstructed="0">מחל</w>
-                <w reconstructed="0">ת</w>
+                <w reconstructed="0">מ<add place="above">ח</add>ש{א}ות </w>
+                <w reconstructed="0">מחל<add place="above">ק</add>ש{א}ת </w>
                 <w reconstructed="0">מנה</w>
                 <w reconstructed="0">ומשאל</w>
                 <w reconstructed="0">שלום</w>
@@ -739,10 +737,10 @@
                 <line n="17" col="Col. IV" />
                 <w reconstructed="0">בנעוריה</w>
                 <w reconstructed="0">פן</w>
-                <w reconstructed="0">מאס</w>
+                <w reconstructed="0"><add place="above">ת</add>מאס </w>
                 <w reconstructed="0">וב̇על̇יה</w>
                 <w reconstructed="0">פן</w>
-                <w reconstructed="1">ת̊<g type='reconstructed'>פת</g>ה̊</w>
+                <w reconstructed="1">ת<g type='reconstructed'>פת</g>ה̊</w>
             </div>
             <div type="verse" n="10ac">
                 <line n="18" col="Col. IV" />
@@ -1240,6 +1238,7 @@
                     <g type='reconstructed'>יבול</g>
                 </w>
                 <w reconstructed="1"><g type='reconstructed'>הרי</g>ם</w>
+                <w reconstructed="0"><add place="above">חרב</add> </w>
                 <w reconstructed="1">י̇ש̇<g type='reconstructed'>יק</g></w>
             </div>
             <div type="verse" n="22">
@@ -1266,8 +1265,8 @@
                     <g type='reconstructed'>חי</g>
                 </w>
                 <w reconstructed="1"><g type='reconstructed'>ו</g>ג̊בו̇</w>
-                <w reconstructed="0">ת</w>
-                <w reconstructed="0">רה̇ב</w>
+                <w reconstructed="0">גבו<add place="above">ר</add>ת </w>
+                <w reconstructed="0"><add place="above">ם</add>רה̇ב </w>                
             </div>
             <div type="verse" n="26">
                 <line n="21" col="Col. VI" />
@@ -1371,8 +1370,7 @@
             <div type="verse" n="7">
                 <line n="13" col="Col. VII" />
                 <w reconstructed="0">כל</w>
-                <w reconstructed="0">א</w>
-                <w reconstructed="0">ה</w>
+                <w reconstructed="0">א<add place="above">ל</add>ה</w>
                 <w reconstructed="0">בדרם</w>
                 <w reconstructed="0">נכבדו</w>
                 <w reconstructed="1"><g type='reconstructed'>מ</g>ן</w>
@@ -1450,6 +1448,8 @@
             </div>
             <div type="verse" n="15">
                 <line n="22" col="Col. VII" />
+            <w reconstructed="1"><g type='reconstructed'>ת</g>שן</w>
+
                 <w reconstructed="0">ת]ש̊ן̇</w>
                 <w reconstructed="0">עדה</w>
                 <w reconstructed="0">ותהלתם</w>

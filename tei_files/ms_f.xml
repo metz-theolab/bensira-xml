@@ -8,13 +8,14 @@
             </div>
             <div type="verse" n="25">
                 <line n="6" folio="t-s as 213.17 recto" />
-                <w reconstructed="0">אל</w>
-                <w reconstructed="0">תתג]ב̇ר</w>
-                <w reconstructed="0">]ר̊ב̇ים</w>
+                <w reconstructed="1"><g type='reconstructed'>אל</g>
+            
+                  <w reconstructed="1"><g type='reconstructed'>תתג</g>בר</w>
+                <w reconstructed="0">ר̊ב̇ים</w>
             </div>
             <div type="verse" n="26">
                 <line n="7" folio="t-s as 213.17 recto" />
-                <w reconstructed="0">]מעשה̊</w>
+                <w reconstructed="0">מעשה̊</w>
                 <w reconstructed="0">לוטש</w>
                 <w reconstructed="0">כן</w>
                 <w reconstructed="0">היין</w>
@@ -36,7 +37,7 @@
                 <w reconstructed="1">שה<g type='reconstructed'>וא</g></w>
                 <w reconstructed="1">מרא<g type='reconstructed'>שית</g></w>
                 <w reconstructed="1">
-                    <g type='reconstructed'>נוצרו:</g>
+                    <g type='reconstructed'>:נוצרו</g>
                 </w>
             </div>
             <div type="verse" n="28">
@@ -226,26 +227,26 @@
             <div type="verse" n="11cd">
                 <line n="6" folio="t-s as 213.17 verso" />
                 <w reconstructed="1"><g type='reconstructed'></g>ן<g type='reconstructed'></g></w>
-                <w reconstructed="0">]י̊ם̊</w>
+                <w reconstructed="0">י̊ם̊</w>
             </div>
             <div type="verse" n="12">
                 <line n="7" folio="t-s as 213.17 verso" />
-                <w reconstructed="0">]ב̊יתך</w>
+                <w reconstructed="0">ב̊יתך</w>
                 <w reconstructed="1">ושל̊ם̊<g type='reconstructed'></g></w>
                 <w reconstructed="1"><g type='reconstructed'>ר</g>צ̊ו̇ן</w>
                 <w reconstructed="1">ביר̊א̊<g type='reconstructed'>ת</g></w>
             </div>
             <div type="verse" n="13">
                 <line n="8" folio="t-s as 213.17 verso" />
-                <w reconstructed="0">א]לה</w>
+                <w reconstructed="1"><g type='reconstructed'>א</g>לה<g type='reconstructed'></g></w>
                 <w reconstructed="0">ברך</w>
                 <w reconstructed="0">עושך</w>
                 <w reconstructed="0">המרוך</w>
-                <w reconstructed="1">מטו̊<g type='reconstructed'>בתו:</g></w>
+                <w reconstructed="1">מטו̊<g type='reconstructed'>:בתו</g></w>
             </div>
             <div type="verse" n="14ab">
                 <line n="9" folio="t-s as 213.17 verso" />
-                <w reconstructed="0">א]ל̇</w>
+                <w reconstructed="1"><g type='reconstructed'>א</g>ל<g type='reconstructed'></g></w>
                 <w reconstructed="0">חי</w>
                 <w reconstructed="0">וקוה</w>
                 <w reconstructed="0">רצון</w>
@@ -259,8 +260,8 @@
                     <g type='reconstructed'>דורש</g>
                 </w>
                 <w reconstructed="1"><g type='reconstructed'>ח</g>פצי̊<g type='reconstructed'></g></w>
-                <w reconstructed="0">אל</w>
-                <w reconstructed="0">י]מצא</w>
+                  <w reconstructed="1"><g type='reconstructed'>אל</g></w>
+                <w reconstructed="1"><g type='reconstructed'>י</g>מצא<g type='reconstructed'></g></w>   
                 <w reconstructed="0">לקח</w>
                 <w reconstructed="0">ויענהו</w>
                 <w reconstructed="0">בכל</w>
@@ -293,7 +294,7 @@
                 <w reconstructed="0">משפטו</w>
                 <w reconstructed="0">וחכמות</w>
                 <w reconstructed="0">יוציאו</w>
-                <w reconstructed="0">מלבם̇:</w>
+                <w reconstructed="0">:מלבם̇</w>
             </div>
             <div type="verse" n="17">
                 <line n="13" folio="t-s as 213.17 verso" />
