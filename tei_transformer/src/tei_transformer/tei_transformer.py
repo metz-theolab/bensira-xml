@@ -236,8 +236,8 @@ class TEITransformer:
                         reconstructed_list,
                     ) = self.compute_reconstructed_words(txt)
                     for word, reconstruct in zip(word_content_list, reconstructed_list):
-                        if word == "\t":
-                            self.add_XML_child(parent=verse_child, tag="stych")
+                        if word == "|":
+                            self.add_XML_child(parent=verse_child, tag="stich")
                         else:
                             try:
                                 self.add_XML_child(
