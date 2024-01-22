@@ -2,92 +2,35 @@
     <ms name="Manuscript A">
         <div type="chap" n="1">
             <div type="verse" n="20i">
-                <line n="1" folio="t-s 12.863 recto (offset letters)" />
-                <w reconstructed="1">
-                    <g type='reconstructed'>עולם</g>
-                </w>
-                <w reconstructed="1"><g type='reconstructed'></g>ו̇<g type='reconstructed'>שמחה</g></w>
-                <w reconstructed="0">רבה׃</w>
-                <w reconstructed="0">כל</w>
+                <line n="1" />
+                <w reconstructed="1"><g type='reconstructed'></g>ו̇<g type='reconstructed'></g></w>
                 <w reconstructed="0">]דבר̇י̊</w>
                 <w reconstructed="0">ש̇מעו</w>
-                <w reconstructed="1">
-                    <g type='reconstructed'>ועשו</g>
-                </w>
-                <w reconstructed="1">
-                    <g type='reconstructed'>ותכתבו</g>
-                </w>
-                <w reconstructed="1"><g type='reconstructed'>בס</g>פ̊ר̊י̊</w>
+                <w reconstructed="0">פ̊ר̊י̊</w>
             </div>
             <div type="verse" n="20j">
                 <line n="2" folio="t-s 12.863 recto (offset letters)" />
-                <w reconstructed="1">
-                    <g type='reconstructed'>חיים׃</g>
-                </w>
-                <w reconstructed="1"><g type='reconstructed'></g>א<g type='reconstructed'>הבו</g></w>
-                <w reconstructed="0">יראת</w>
-                <w reconstructed="0">ייי</w>
-                <w reconstructed="0">ותנ]ו̊</w>
+                <w reconstructed="1"><g type='reconstructed'></g>א<g type='reconstructed'></g></w>
+                <w reconstructed="0">]ו̊</w>
                 <w reconstructed="0">בה</w>
                 <w reconstructed="0">לבבכם̇</w>
                 <w reconstructed="0">ו̊א̊ל̊</w>
-                <w reconstructed="1">ת̊י̊ר̊א̊ו̊<g type='reconstructed'>׃</g></w>
+                <w reconstructed="1">ת̊י̊ר̊א̊ו̊<g type='reconstructed'></g></w>
             </div>
             <div type="verse" n="20kl">
                 <line n="3" folio="t-s 12.863 recto (offset letters)" />
-                <w reconstructed="1">
-                    <g type='reconstructed'>קרבו</g>
-                </w>
-                <w reconstructed="1">
-                    <g type='reconstructed'>אליה</g>
-                </w>
-                <w reconstructed="1">
-                    <g type='reconstructed'>ואל</g>
-                </w>
-                <w reconstructed="1">
-                    <g type='reconstructed'>תאחרו</g>
-                </w>
-                <w reconstructed="1"><g type='reconstructed'>ו</g>ת̇מ̇צאו̇</w>
+                <w reconstructed="0">]ת̇מ̇צאו̇</w>
                 <w reconstructed="0">חיים̇</w>
-                <w reconstructed="1">
-                    <g type='reconstructed'>לרוחכם׃</g>
-                </w>
-                <w reconstructed="1">
-                    <g type='reconstructed'>וכאשר</g>
-                </w>
-                <w reconstructed="1">
-                    <g type='reconstructed'>קרבת</g>
-                </w>
             </div>
             <div type="verse" n="20l–28">
                 <line n="4" folio="t-s 12.863 recto (offset letters)" />
-                <w reconstructed="1">
-                    <g type='reconstructed'>כגבור</g>
-                </w>
-                <w reconstructed="1">
-                    <g type='reconstructed'>וכאנש</g>
-                </w>
-                <w reconstructed="1">
-                    <g type='reconstructed'>חיל׃</g>
-                </w>
-                <w reconstructed="1">
-                    <g type='reconstructed'>א‍ל</g>
-                </w>
-                <w reconstructed="1">
-                    <g type='reconstructed'>תכחש</g>
-                </w>
-                <w reconstructed="1"><g type='reconstructed'></g>ביר̇א̊<g type='reconstructed'>ת</g></w>
-                <w reconstructed="0">ייי</w>
-                <w reconstructed="0">וא‍ל</w>
-                <w reconstructed="1"><g type='reconstructed'>תג</g>ֹע̊<g type='reconstructed'></g></w>
-                <w reconstructed="0">א‍ליה</w>
-                <w reconstructed="0">בלב</w>
-                <w reconstructed="0">ולב]</w>
+                <w reconstructed="1"><g type='reconstructed'></g>ביר̇א̊<g type='reconstructed'></g></w>
+                <w reconstructed="1"><g type='reconstructed'></g>ֹע̊<g type='reconstructed'></g></w>
             </div>
         </div>
         <div type="chap" n="3">
             <div type="verse" n="6">
-                <line n="1" folio="t-s 12.863 recto" />
+                <line n="1" folio="t-s 12.863 recto (offset letters)" />
                 <w reconstructed="0">מכבד</w>
                 <w reconstructed="0">אמו׃</w>
             </div>
@@ -97,6 +40,7 @@
                 <w reconstructed="0">ובמעשה</w>
                 <w reconstructed="0">כבד</w>
                 <w reconstructed="0">אביך</w>
+                <stich />
                 <w reconstructed="0">עבור</w>
                 <w reconstructed="0">ישיגוך</w>
                 <line n="2" folio="t-s 12.863 recto" />
@@ -108,6 +52,7 @@
                 <w reconstructed="0">אב</w>
                 <w reconstructed="0">תיסד</w>
                 <w reconstructed="0">שרש</w>
+                <stich />
                 <w reconstructed="0">וקללת</w>
                 <w reconstructed="0">אם</w>
                 <w reconstructed="0">תנתש</w>
@@ -119,6 +64,7 @@
                 <w reconstructed="0">תתכבד</w>
                 <w reconstructed="0">בקלון</w>
                 <w reconstructed="0">אביך</w>
+                <stich />
                 <w reconstructed="0">כי</w>
                 <w reconstructed="0">לא</w>
                 <w reconstructed="0">כבוד</w>
@@ -131,6 +77,7 @@
                 <w reconstructed="0">כבוד</w>
                 <line n="4" folio="t-s 12.863 recto" />
                 <w reconstructed="0">אביו</w>
+                <stich />
                 <w reconstructed="0">ומרבה</w>
                 <w reconstructed="0">חטא</w>
                 <w reconstructed="0">מקלל</w>
@@ -141,6 +88,7 @@
                 <w reconstructed="0">התחזק</w>
                 <w reconstructed="0">בכבוד</w>
                 <w reconstructed="0">אביך</w>
+                <stich />
                 <w reconstructed="0">וא‍ל</w>
                 <line n="5" folio="t-s 12.863 recto" />
                 <w reconstructed="0">תעזבהו</w>
@@ -155,6 +103,7 @@
                 <w reconstructed="0">מדעו</w>
                 <w reconstructed="0">עזוב</w>
                 <w reconstructed="0">לו</w>
+                <stich />
                 <w reconstructed="0">ואל</w>
                 <w reconstructed="0">תכלים</w>
                 <line n="6" folio="t-s 12.863 recto" />
@@ -168,6 +117,7 @@
                 <w reconstructed="0">אב</w>
                 <w reconstructed="0">לא</w>
                 <w reconstructed="0">תמחה</w>
+                <stich />
                 <w reconstructed="0">ותמור</w>
                 <w reconstructed="0">חטאת</w>
                 <w reconstructed="0">היא</w>
@@ -179,6 +129,7 @@
                 <w reconstructed="0">צרה</w>
                 <w reconstructed="0">תזכר</w>
                 <w reconstructed="0">לך</w>
+                <stich />
                 <w reconstructed="0">כחם</w>
                 <w reconstructed="0">על</w>
                 <w reconstructed="0">כפור</w>
@@ -191,6 +142,7 @@
                 <w reconstructed="0">מזיד</w>
                 <w reconstructed="0">בוזה</w>
                 <w reconstructed="0">אביו</w>
+                <stich />
                 <w reconstructed="0">ומכעיס</w>
                 <w reconstructed="0">בוראו</w>
                 <w reconstructed="0">מקלל</w>
@@ -202,6 +154,7 @@
                 <line n="9" folio="t-s 12.863 recto" />
                 <w reconstructed="0">התהלך</w>
                 <w reconstructed="0">בענוה</w>
+                <stich />
                 <w reconstructed="0">ותאהב</w>
                 <w reconstructed="0">מנותן</w>
                 <w reconstructed="0">מתנות</w>
@@ -213,6 +166,7 @@
                 <line n="10" folio="t-s 12.863 recto" />
                 <w reconstructed="0">גדולֹת</w>
                 <w reconstructed="0">עולם</w>
+                <stich />
                 <w reconstructed="0">ולפני</w>
                 <w reconstructed="0">א‍ֵל</w>
                 <w reconstructed="0">תמצא</w>
@@ -223,6 +177,7 @@
                 <w reconstructed="0">רבים</w>
                 <w reconstructed="0">רחמי</w>
                 <w reconstructed="0">א‍להים</w>
+                <stich />
                 <line n="11" folio="t-s 12.863 recto" />
                 <w reconstructed="0">ולענוים</w>
                 <w reconstructed="0">י̶ג̶ל̶ה̶</w>
@@ -234,6 +189,7 @@
                 <w reconstructed="0">ממך</w>
                 <w reconstructed="0">אל</w>
                 <w reconstructed="0">תדרוש</w>
+                <stich />
                 <w reconstructed="0">ומכוסה</w>
                 <line n="12" folio="t-s 12.863 recto" />
                 <w reconstructed="0">ממך</w>
@@ -244,6 +200,7 @@
                 <w reconstructed="0">במה</w>
                 <w reconstructed="0">שהורשית</w>
                 <w reconstructed="0">התבונן</w>
+                <stich />
                 <w reconstructed="0">ואין</w>
                 <w reconstructed="0">לך</w>
                 <w reconstructed="0">עסק</w>
@@ -255,6 +212,7 @@
                 <w reconstructed="0">ממך</w>
                 <w reconstructed="0">א‍ל</w>
                 <w reconstructed="0">תמר</w>
+                <stich />
                 <w reconstructed="0">כי</w>
                 <w reconstructed="0">רב</w>
                 <w reconstructed="0">ממך</w>
@@ -267,6 +225,7 @@
                 <w reconstructed="0">עשְתונֵי</w>
                 <w reconstructed="0">בני</w>
                 <w reconstructed="0">אדם</w>
+                <stich />
                 <w reconstructed="0">ודמיונות</w>
                 <w reconstructed="0">רעות</w>
                 <w reconstructed="0">מתעות׃</w>
@@ -277,6 +236,7 @@
                 <line n="15" folio="t-s 12.863 recto" />
                 <w reconstructed="0">תבאש</w>
                 <w reconstructed="0">אחריתו</w>
+                <stich />
                 <w reconstructed="0">ואוהב</w>
                 <w reconstructed="0">טובות</w>
                 <w reconstructed="0">ינהג</w>
@@ -288,6 +248,7 @@
                 <w reconstructed="0">ירבו</w>
                 <line n="16" folio="t-s 12.863 recto" />
                 <w reconstructed="0">מכאביו</w>
+                <stich />
                 <w reconstructed="0">ומתחולל</w>
                 <w reconstructed="0">מוסיף</w>
                 <w reconstructed="0">עון</w>
@@ -300,6 +261,7 @@
                 <w reconstructed="0">יחסר</w>
                 <line n="17" folio="t-s 12.863 recto" />
                 <w reconstructed="0">אור</w>
+                <stich />
                 <w reconstructed="0">ובאין</w>
                 <w reconstructed="0">דעת</w>
                 <w reconstructed="0">תחסר</w>
@@ -311,6 +273,7 @@
                 <w reconstructed="0">לרפאות</w>
                 <w reconstructed="0">מכ{ל}ת</w>
                 <w reconstructed="0">לץ</w>
+                <stich />
                 <line n="18" folio="t-s 12.863 recto" />
                 <w reconstructed="0">כי</w>
                 <w reconstructed="0">אין</w>
@@ -328,6 +291,7 @@
                 <w reconstructed="0">משלי</w>
                 <line n="19" folio="t-s 12.863 recto" />
                 <w reconstructed="0">חכמים</w>
+                <stich />
                 <w reconstructed="0">ואזן</w>
                 <w reconstructed="0">מקשבת</w>
                 <w reconstructed="0">לחכמה</w>
@@ -338,6 +302,7 @@
                 <w reconstructed="0">לוהטת</w>
                 <w reconstructed="0">יכבו̇</w>
                 <w reconstructed="0">מים̇</w>
+                <stich />
                 <line n="20" folio="t-s 12.863 recto" />
                 <w reconstructed="0">כן</w>
                 <w reconstructed="0">צדקה</w>
@@ -349,6 +314,7 @@
                 <w reconstructed="0">טוב</w>
                 <w reconstructed="0">יקראנו</w>
                 <w reconstructed="0">בדרכיו</w>
+                <stich />
                 <w reconstructed="0">ובעת</w>
                 <line n="21" folio="t-s 12.863 recto" />
                 <w reconstructed="0">מ̇ו̊ט̇ו</w>
@@ -363,6 +329,7 @@
                 <w reconstructed="0">תלעג̇</w>
                 <w reconstructed="0">לחיי</w>
                 <w reconstructed="0">עני</w>
+                <stich />
                 <w reconstructed="0">וא‍ל</w>
                 <w reconstructed="0">תדאיב</w>
                 <w reconstructed="0">נפש</w>
@@ -377,6 +344,7 @@
                 <w reconstructed="0">חסירה</w>
                 <w reconstructed="0">א‍ל</w>
                 <w reconstructed="0">תפוח</w>
+                <stich />
                 <w reconstructed="0">וא‍ל</w>
                 <w reconstructed="0">תתעלם</w>
                 <w reconstructed="0">מִמְּדֻכְדָּך</w>
@@ -388,6 +356,7 @@
                 <w reconstructed="0">תחמיר</w>
                 <w reconstructed="0">מעי</w>
                 <w reconstructed="0">דך</w>
+                <stich />
                 <w reconstructed="0">וקרב</w>
                 <w reconstructed="0">עני</w>
                 <w reconstructed="0">אל</w>
@@ -399,6 +368,7 @@
                 <w reconstructed="0">מתן</w>
                 <line n="24" folio="t-s 12.863 recto" />
                 <w reconstructed="0">ממסכינך</w>
+                <stich />
                 <w reconstructed="0">ולא</w>
                 <w reconstructed="0">תבזה</w>
                 <w reconstructed="0">שאולות</w>
@@ -412,12 +382,13 @@
                 <w reconstructed="0">לקללך׃</w>
             </div>
             <div type="verse" n="6">
-                <line n="25" folio="t-s 12.863 recto" />
+                <line n="25‏" folio="t-s 12.863 recto" />
                 <w reconstructed="0">צועק</w>
                 <w reconstructed="0">מר</w>
                 <w reconstructed="0">רוח</w>
                 <w reconstructed="0">בכאב</w>
                 <w reconstructed="0">נפשו</w>
+                <stich />
                 <w reconstructed="0">ובקול</w>
                 <w reconstructed="0">צעקתו</w>
                 <w reconstructed="0">ישמע</w>
@@ -428,6 +399,7 @@
                 <w reconstructed="0">האהב</w>
                 <w reconstructed="0">לנפשך</w>
                 <w reconstructed="0">לעדה</w>
+                <stich />
                 <w reconstructed="0">ולשלטון</w>
                 <w reconstructed="0">עיר</w>
                 <w reconstructed="0">הכאף</w>
@@ -438,6 +410,7 @@
                 <w reconstructed="0">לעני</w>
                 <line n="27" folio="t-s 12.863 recto" />
                 <w reconstructed="0">אזנך</w>
+                <stich />
                 <w reconstructed="0">והשיבהו</w>
                 <w reconstructed="0">שלום</w>
                 <w reconstructed="0">בענוה׃</w>
@@ -446,6 +419,7 @@
                 <w reconstructed="0">הושע</w>
                 <w reconstructed="0">מוצק</w>
                 <w reconstructed="0">ממציקיו</w>
+                <stich />
                 <w reconstructed="0">וא‍ל</w>
                 <line n="28" folio="t-s 12.863 recto" />
                 <w reconstructed="0">תקוץ</w>
@@ -457,14 +431,16 @@
                 <w reconstructed="0">היה</w>
                 <w reconstructed="0">כאב</w>
                 <w reconstructed="0">ליתומים</w>
+                <stich />
                 <w reconstructed="0">ותמור</w>
                 <w reconstructed="0">בעל</w>
                 <line n="29" folio="t-s 12.863 recto" />
                 <w reconstructed="0">לאלמנות׃</w>
-                <line n="1" folio="t-s 12.863 verso" />
+                <line n="1" folio="t-s 12.863 recto" />
                 <w reconstructed="0">וא‍ל</w>
                 <w reconstructed="0">יקראך</w>
                 <w reconstructed="0">בן</w>
+                <stich />
                 <w reconstructed="0">ויחנך</w>
                 <w reconstructed="0">ויצילך</w>
                 <w reconstructed="0">משחת׃</w>
@@ -474,6 +450,7 @@
                 <w reconstructed="0">למדה</w>
                 <line n="2" folio="t-s 12.863 verso" />
                 <w reconstructed="0">בניה</w>
+                <stich />
                 <w reconstructed="0">ותעיד</w>
                 <w reconstructed="0">לכל</w>
                 <w reconstructed="0">מבינים</w>
@@ -483,6 +460,7 @@
                 <w reconstructed="0">אהביה</w>
                 <w reconstructed="0">אהבו</w>
                 <w reconstructed="0">חיים</w>
+                <stich />
                 <w reconstructed="0">ומבקשיה</w>
                 <line n="3" folio="t-s 12.863 verso" />
                 <w reconstructed="0">יפיקו</w>
@@ -494,6 +472,7 @@
                 <w reconstructed="0">ימצאו</w>
                 <w reconstructed="0">כבוד</w>
                 <w reconstructed="0">מייי</w>
+                <stich />
                 <w reconstructed="0">ויחנו</w>
                 <w reconstructed="0">בברכת</w>
                 <w reconstructed="0">ייי</w>
@@ -503,6 +482,7 @@
                 <w reconstructed="0">משרתי</w>
                 <w reconstructed="0">קדש</w>
                 <w reconstructed="0">משרתיה</w>
+                <stich />
                 <w reconstructed="0">וא‍להו</w>
                 <w reconstructed="0">במא</w>
                 <w reconstructed="0">ויהא</w>
@@ -512,6 +492,7 @@
                 <w reconstructed="0">לי</w>
                 <w reconstructed="0">ישפט</w>
                 <w reconstructed="0">אמת</w>
+                <stich />
                 <line n="5" folio="t-s 12.863 verso" />
                 <w reconstructed="0">ומאזין</w>
                 <w reconstructed="0">לי</w>
@@ -524,6 +505,7 @@
                 <w reconstructed="0">בהתנכר</w>
                 <w reconstructed="0">אלך</w>
                 <w reconstructed="0">עמו</w>
+                <stich />
                 <w reconstructed="0">ולפנים</w>
                 <line n="6" folio="t-s 12.863 verso" />
                 <w reconstructed="0">יבחרנו</w>
@@ -537,6 +519,7 @@
             <div type="verse" n="18">
                 <w reconstructed="0">אשוב</w>
                 <w reconstructed="0">אאשﬧנו</w>
+                <stich />
                 <line n="7" folio="t-s 12.863 verso" />
                 <w reconstructed="0">וגליתי</w>
                 <w reconstructed="0">לו</w>
@@ -546,6 +529,7 @@
                 <w reconstructed="0">אם</w>
                 <w reconstructed="0">יסור</w>
                 <w reconstructed="0">ונטותיהו</w>
+                <stich />
                 <w reconstructed="0">ויסרתיהו</w>
                 <w reconstructed="0">באסורים׃</w>
                 <line n="8" folio="t-s 12.863 verso" />
@@ -553,6 +537,7 @@
                 <w reconstructed="0">יסור</w>
                 <w reconstructed="0">מאחרי</w>
                 <w reconstructed="0">אשליכנו</w>
+                <stich />
                 <w reconstructed="0">ואסגירנו</w>
                 <w reconstructed="0">לשדדים׃</w>
             </div>
@@ -564,6 +549,7 @@
                 <w reconstructed="0">שמר</w>
                 <w reconstructed="0">ופחד</w>
                 <w reconstructed="0">מרע</w>
+                <stich />
                 <w reconstructed="0">וא‍ל</w>
                 <w reconstructed="0">נפשך</w>
                 <w reconstructed="0">א‍ל</w>
@@ -576,6 +562,7 @@
                 <line n="10" folio="t-s 12.863 verso" />
                 <w reconstructed="0">משאת</w>
                 <w reconstructed="0">עון</w>
+                <stich />
                 <w reconstructed="0">ויש</w>
                 <w reconstructed="0">בשת</w>
                 <w reconstructed="0">כבוד</w>
@@ -587,6 +574,7 @@
                 <w reconstructed="0">פניך</w>
                 <w reconstructed="0">על</w>
                 <w reconstructed="0">נפשך</w>
+                <stich />
                 <line n="11" folio="t-s 12.863 verso" />
                 <w reconstructed="0">ואל</w>
                 <w reconstructed="0">תכשל</w>
@@ -597,6 +585,7 @@
                 <w reconstructed="0">תמנע</w>
                 <w reconstructed="0">דבר</w>
                 <w reconstructed="0">בעולם</w>
+                <stich />
                 <w reconstructed="0">א‍ל</w>
                 <w reconstructed="0">תצפין</w>
                 <line n="12" folio="t-s 12.863 verso" />
@@ -608,16 +597,18 @@
                 <w reconstructed="0">באומר</w>
                 <w reconstructed="0">נודעת</w>
                 <w reconstructed="0">חכמה</w>
+                <stich />
                 <w reconstructed="0">ותבונה</w>
                 <w reconstructed="0">במענה</w>
                 <w reconstructed="0">לשון׃</w>
             </div>
             <div type="verse" n="25">
-                <line n="13" folio="t-s 12.863 verso" />
+                <line n="13‏" folio="t-s 12.863 verso" />
                 <w reconstructed="0">א‍ל</w>
                 <w reconstructed="0">תסרב</w>
                 <w reconstructed="0">עם</w>
                 <w reconstructed="0">הא‍ל</w>
+                <stich />
                 <w reconstructed="0">וא‍ל</w>
                 <w reconstructed="0">א‍להים</w>
                 <w reconstructed="0">היכנע׃</w>
@@ -627,6 +618,7 @@
                 <w reconstructed="0">תבוש</w>
                 <w reconstructed="0">לשוב</w>
                 <w reconstructed="0">מעון</w>
+                <stich />
                 <line n="14" folio="t-s 12.863 verso" />
                 <w reconstructed="0">וא‍ל</w>
                 <w reconstructed="0">תעמוד</w>
@@ -639,6 +631,7 @@
                 <w reconstructed="0">תצע</w>
                 <w reconstructed="0">לנבל</w>
                 <w reconstructed="0">נפשך</w>
+                <stich />
                 <w reconstructed="0">וא‍ל</w>
                 <w reconstructed="0">תמאן</w>
                 <w reconstructed="0">לפני</w>
@@ -649,6 +642,7 @@
                 <w reconstructed="0">עם</w>
                 <w reconstructed="0">שופט</w>
                 <w reconstructed="0">עול</w>
+                <stich />
                 <w reconstructed="0">כי</w>
                 <w reconstructed="0">כאשר</w>
                 <w reconstructed="0">כרצונו</w>
@@ -662,6 +656,7 @@
                 <w reconstructed="0">היעצה</w>
                 <w reconstructed="0">על</w>
                 <w reconstructed="0">הצדק</w>
+                <stich />
                 <w reconstructed="0">וייי</w>
                 <w reconstructed="0">נלחם</w>
                 <w reconstructed="0">לך</w>
@@ -670,6 +665,7 @@
                 <line n="17" folio="t-s 12.863 verso" />
                 <w reconstructed="0">בעל</w>
                 <w reconstructed="0">שתים</w>
+                <stich />
                 <w reconstructed="0">וא‍ל</w>
                 <w reconstructed="0">לשונך</w>
                 <w reconstructed="0">א‍ל</w>
@@ -680,6 +676,7 @@
                 <w reconstructed="0">תהי</w>
                 <w reconstructed="0">גבהן</w>
                 <w reconstructed="0">בלשוניך</w>
+                <stich />
                 <w reconstructed="0">ורפי</w>
                 <line n="18" folio="t-s 12.863 verso" />
                 <w reconstructed="0">ורשִׁיש</w>
@@ -690,6 +687,7 @@
                 <w reconstructed="0">תהי</w>
                 <w reconstructed="0">ככלב</w>
                 <w reconstructed="0">בביתך</w>
+                <stich />
                 <w reconstructed="0">ומוזר</w>
                 <w reconstructed="0">ומתירא</w>
                 <line n="19" folio="t-s 12.863 verso" />
@@ -701,6 +699,7 @@
                 <w reconstructed="0">ידך</w>
                 <w reconstructed="0">פתוחה</w>
                 <w reconstructed="0">לקחת</w>
+                <stich />
                 <w reconstructed="0">וקפוצה</w>
                 <w reconstructed="0">בתוך</w>
                 <w reconstructed="0">מתן׃</w>
@@ -713,6 +712,7 @@
                 <w reconstructed="0">תשען</w>
                 <w reconstructed="0">על</w>
                 <w reconstructed="0">חילך</w>
+                <stich />
                 <w reconstructed="0">וא‍ל</w>
                 <w reconstructed="0">תאמר</w>
                 <w reconstructed="0">יש</w>
@@ -722,6 +722,7 @@
                 <w reconstructed="0">תשען</w>
                 <w reconstructed="0">על</w>
                 <w reconstructed="0">כוחך</w>
+                <stich />
                 <line n="21" folio="t-s 12.863 verso" />
                 <w reconstructed="0">ללכת</w>
                 <w reconstructed="0">אחר</w>
@@ -734,6 +735,7 @@
                 <w reconstructed="0">אחרי</w>
                 <w reconstructed="0">לבך</w>
                 <w reconstructed="0">ועיניך</w>
+                <stich />
                 <w reconstructed="0">ללכת</w>
                 <line n="22" folio="t-s 12.863 verso" />
                 <w reconstructed="0">בחמודות</w>
@@ -745,6 +747,7 @@
                 <w reconstructed="0">מי</w>
                 <w reconstructed="0">יוכל</w>
                 <w reconstructed="0">כחו</w>
+                <stich />
                 <w reconstructed="0">כי</w>
                 <w reconstructed="0">י</w>
                 <w reconstructed="0">י</w>
@@ -752,7 +755,7 @@
                 <w reconstructed="0">נרדפים̇׃</w>
             </div>
             <div type="verse" n="4">
-                <line n="23" folio="t-s 12.863 verso" />
+                <line n="23‏" folio="t-s 12.863 verso" />
                 <w reconstructed="0">א‍ל</w>
                 <w reconstructed="0">תאמר</w>
                 <w reconstructed="0">חטאתי</w>
@@ -771,6 +774,7 @@
                 <w reconstructed="0">רחום</w>
                 <w reconstructed="0">י</w>
                 <w reconstructed="0">י</w>
+                <stich />
                 <w reconstructed="0">וכל</w>
                 <w reconstructed="0">עונותי</w>
                 <w reconstructed="0">ימחה׃</w>
@@ -780,6 +784,7 @@
                 <w reconstructed="0">סליחה</w>
                 <w reconstructed="0">אל</w>
                 <w reconstructed="0">תבטח</w>
+                <stich />
                 <line n="25" folio="t-s 12.863 verso" />
                 <w reconstructed="0">להוסיף</w>
                 <w reconstructed="0">עון</w>
@@ -790,6 +795,7 @@
                 <w reconstructed="0">ואמרת</w>
                 <w reconstructed="0">רחמיו</w>
                 <w reconstructed="0">רבים</w>
+                <stich />
                 <w reconstructed="0">לרוב</w>
                 <w reconstructed="0">עונותי</w>
                 <w reconstructed="0">יסלח׃</w>
@@ -798,6 +804,7 @@
                 <w reconstructed="0">רחמים</w>
                 <w reconstructed="0">ואף</w>
                 <w reconstructed="0">עמ̇ו</w>
+                <stich />
                 <w reconstructed="0">וא‍ל</w>
                 <w reconstructed="0">רשעים</w>
                 <w reconstructed="0">ינוח</w>
@@ -809,6 +816,7 @@
                 <w reconstructed="0">לשוב</w>
                 <line n="27" folio="t-s 12.863 verso" />
                 <w reconstructed="0">א‍ליו</w>
+                <stich />
                 <w reconstructed="0">וא‍ל</w>
                 <w reconstructed="0">תתעבר</w>
                 <w reconstructed="0">מיום</w>
@@ -818,6 +826,7 @@
                 <w reconstructed="0">פתאום</w>
                 <w reconstructed="0">יצא</w>
                 <w reconstructed="0">זעמו</w>
+                <stich />
                 <w reconstructed="0">וביום</w>
                 <w reconstructed="0">נקם</w>
                 <line n="28" folio="t-s 12.863 verso" />
@@ -829,6 +838,7 @@
                 <w reconstructed="0">על</w>
                 <w reconstructed="0">נכסי</w>
                 <w reconstructed="0">שקר</w>
+                <stich />
                 <w reconstructed="0">כי</w>
                 <w reconstructed="0">לא</w>
                 <w reconstructed="0">יועילו</w>
@@ -842,6 +852,7 @@
                 <w reconstructed="0">זורה</w>
                 <w reconstructed="0">לכל</w>
                 <w reconstructed="0">רוח</w>
+                <stich />
                 <w reconstructed="0">ופונה</w>
                 <w reconstructed="0">דרך</w>
                 <w reconstructed="0">שבולת׃</w>
@@ -851,7 +862,8 @@
                 <w reconstructed="0">סמוך</w>
                 <w reconstructed="0">ל</w>
                 <w reconstructed="0">דעתך</w>
-                <line n="1" folio="t-s 12.864 recto" />
+                <stich />
+                <line n="1" folio="t-s 12.863 verso" />
                 <w reconstructed="0">ואחר</w>
                 <w reconstructed="0">יהי</w>
                 <w reconstructed="0">דברך׃</w>
@@ -860,6 +872,7 @@
                 <w reconstructed="0">היה</w>
                 <w reconstructed="0">ממהר</w>
                 <w reconstructed="0">להאזין</w>
+                <stich />
                 <w reconstructed="0">ובארך</w>
                 <w reconstructed="0">רוח</w>
                 <w reconstructed="0">השב</w>
@@ -872,6 +885,7 @@
                 <w reconstructed="0">אתך</w>
                 <w reconstructed="0">ענה</w>
                 <w reconstructed="0">רעך</w>
+                <stich />
                 <w reconstructed="0">ואם</w>
                 <w reconstructed="0">אין</w>
                 <w reconstructed="0">ידך</w>
@@ -884,6 +898,7 @@
                 <line n="3" folio="t-s 12.864 recto" />
                 <w reconstructed="0">ביוד</w>
                 <w reconstructed="0">בוטא</w>
+                <stich />
                 <w reconstructed="0">ולשון</w>
                 <w reconstructed="0">אדם</w>
                 <w reconstructed="0">מפלתו׃</w>
@@ -893,6 +908,7 @@
                 <w reconstructed="0">תקרא</w>
                 <w reconstructed="0">בעל̇</w>
                 <w reconstructed="0">ש̇תיﬦ</w>
+                <stich />
                 <line n="4" folio="t-s 12.864 recto" />
                 <w reconstructed="0">ובלשונך</w>
                 <w reconstructed="0">א‍ל</w>
@@ -903,6 +919,7 @@
                 <w reconstructed="0">גנב</w>
                 <w reconstructed="0">נבראה</w>
                 <w reconstructed="0">בשת</w>
+                <stich />
                 <w reconstructed="0">חרפה</w>
                 <w reconstructed="0">רעהו</w>
                 <line n="5" folio="t-s 12.864 recto" />
@@ -916,6 +933,7 @@
                 <w reconstructed="0">והרבה</w>
                 <w reconstructed="0">א‍ל</w>
                 <w reconstructed="0">תשחת</w>
+                <stich />
                 <w reconstructed="0">ותחת</w>
                 <w reconstructed="0">אוהב</w>
                 <w reconstructed="0">א‍ל</w>
@@ -925,12 +943,15 @@
         </div>
         <div type="chap" n="6">
             <div type="verse" n="1">
-                <line n="6" folio="t-s 12.864 recto" />
-                <w reconstructed="0">שם</w>
+                <line n="6‏" folio="t-s 12.864 recto" />
+                <w reconstructed="0"></w>
+                <w reconstructed="0"></w>
+                <w reconstructed="0">‏שם</w>
                 <w reconstructed="0">רע</w>
                 <w reconstructed="0">וקלון</w>
                 <w reconstructed="0">תוריש</w>
                 <w reconstructed="0">חרפה</w>
+                <stich />
                 <w reconstructed="0">כן</w>
                 <w reconstructed="0">איש</w>
                 <w reconstructed="0">רע</w>
@@ -943,6 +964,7 @@
                 <w reconstructed="0">תפול</w>
                 <w reconstructed="0">ביד</w>
                 <w reconstructed="0">נפשך</w>
+                <stich />
                 <w reconstructed="0">ותעבה</w>
                 <w reconstructed="0">חילך</w>
                 <w reconstructed="0">עליך׃</w>
@@ -953,6 +975,7 @@
                 <w reconstructed="0">ופריך</w>
                 <line n="8" folio="t-s 12.864 recto" />
                 <w reconstructed="0">תשרש׃</w>
+                <stich />
                 <w reconstructed="0">והניחתך</w>
                 <w reconstructed="0">כעץ</w>
                 <w reconstructed="0">יבש</w>
@@ -963,6 +986,7 @@
                 <w reconstructed="0">עזה</w>
                 <w reconstructed="0">תשחת</w>
                 <w reconstructed="0">בעליה</w>
+                <stich />
                 <line n="9" folio="t-s 12.864 recto" />
                 <w reconstructed="0">ושמחת</w>
                 <w reconstructed="0">שונא</w>
@@ -973,6 +997,7 @@
                 <w reconstructed="0">ערֵב</w>
                 <w reconstructed="0">ירבה</w>
                 <w reconstructed="0">אוהב</w>
+                <stich />
                 <w reconstructed="0">ושפתי</w>
                 <w reconstructed="0">חן</w>
                 <line n="10" folio="t-s 12.864 recto" />
@@ -984,6 +1009,7 @@
                 <w reconstructed="0">שלומך</w>
                 <w reconstructed="0">יהיו</w>
                 <w reconstructed="0">רבים</w>
+                <stich />
                 <w reconstructed="0">ובעל</w>
                 <w reconstructed="0">סודך</w>
                 <w reconstructed="0">אחד</w>
@@ -995,6 +1021,7 @@
                 <w reconstructed="0">אוהב</w>
                 <w reconstructed="0">בניסין</w>
                 <w reconstructed="0">קנהו</w>
+                <stich />
                 <w reconstructed="0">וא‍ל</w>
                 <w reconstructed="0">תמהר</w>
                 <w reconstructed="0">לבטח</w>
@@ -1007,6 +1034,7 @@
                 <line n="12" folio="t-s 12.864 recto" />
                 <w reconstructed="0">כפי</w>
                 <w reconstructed="0">עת</w>
+                <stich />
                 <w reconstructed="0">וא‍ל</w>
                 <w reconstructed="0">יעמוד</w>
                 <w reconstructed="0">ביום</w>
@@ -1017,6 +1045,7 @@
                 <w reconstructed="0">אוהב</w>
                 <w reconstructed="0">נהפך</w>
                 <w reconstructed="0">לשנא</w>
+                <stich />
                 <w reconstructed="0">ואת</w>
                 <line n="13" folio="t-s 12.864 recto" />
                 <w reconstructed="0">ריב</w>
@@ -1028,6 +1057,7 @@
                 <w reconstructed="0">אוהב</w>
                 <w reconstructed="0">חבר</w>
                 <w reconstructed="0">שלחן</w>
+                <stich />
                 <w reconstructed="0">ולא</w>
                 <w reconstructed="0">ימצא</w>
                 <line n="14" folio="t-s 12.864 recto" />
@@ -1039,6 +1069,7 @@
                 <w reconstructed="0">הֻ</w>
                 <w reconstructed="0">א</w>
                 <w reconstructed="0">כמוך</w>
+                <stich />
                 <w reconstructed="0">וברעתך</w>
                 <w reconstructed="0">יתנדה</w>
                 <w reconstructed="0">ממך׃</w>
@@ -1050,12 +1081,14 @@
                 <w reconstructed="0">רעה</w>
                 <w reconstructed="0">יהפך</w>
                 <w reconstructed="0">בך</w>
+                <stich />
                 <w reconstructed="0">ומפניך</w>
                 <w reconstructed="0">יסתר׃</w>
             </div>
             <div type="verse" n="13">
                 <w reconstructed="0">משנאיך</w>
                 <w reconstructed="0">הבדל</w>
+                <stich />
                 <line n="16" folio="t-s 12.864 recto" />
                 <w reconstructed="0">ומאהביך</w>
                 <w reconstructed="0">השמר׃</w>
@@ -1065,6 +1098,7 @@
                 <w reconstructed="0">אמונה</w>
                 <w reconstructed="0">אוהב</w>
                 <w reconstructed="0">תקוף</w>
+                <stich />
                 <w reconstructed="0">ומוצאו</w>
                 <w reconstructed="0">מצא</w>
                 <line n="17" folio="t-s 12.864 recto" />
@@ -1075,6 +1109,7 @@
                 <w reconstructed="0">אמונה</w>
                 <w reconstructed="0">אין</w>
                 <w reconstructed="0">מחיר</w>
+                <stich />
                 <w reconstructed="0">ואין</w>
                 <w reconstructed="0">משקל</w>
                 <w reconstructed="0">לטובתו׃</w>
@@ -1085,6 +1120,7 @@
                 <w reconstructed="0">חיים</w>
                 <w reconstructed="0">אוהב</w>
                 <w reconstructed="0">אמונה</w>
+                <stich />
                 <w reconstructed="0">ירא</w>
                 <w reconstructed="0">א‍ל</w>
                 <w reconstructed="0">ישיגם</w>
@@ -1094,6 +1130,7 @@
                 <w reconstructed="0">כמוהו</w>
                 <w reconstructed="0">כן</w>
                 <w reconstructed="0">רעהו</w>
+                <stich />
                 <line n="19" folio="t-s 12.864 recto" />
                 <w reconstructed="0">וכשמו</w>
                 <w reconstructed="0">כן</w>
@@ -1104,6 +1141,7 @@
                 <w reconstructed="0">וכקוצר</w>
                 <w reconstructed="0">קרב</w>
                 <w reconstructed="0">א‍ליה</w>
+                <stich />
                 <w reconstructed="0">וקוה</w>
                 <w reconstructed="0">לרב</w>
                 <line n="20" folio="t-s 12.864 recto" />
@@ -1112,6 +1150,7 @@
                 <w reconstructed="0">בעבדתה</w>
                 <w reconstructed="0">מעט</w>
                 <w reconstructed="0">תעבוד</w>
+                <stich />
                 <w reconstructed="0">ולמחר</w>
                 <w reconstructed="0">תאכל</w>
                 <w reconstructed="0">פריה׃</w>
@@ -1121,6 +1160,7 @@
                 <w reconstructed="0">עקובה</w>
                 <w reconstructed="0">היא</w>
                 <w reconstructed="0">לאויל</w>
+                <stich />
                 <w reconstructed="0">ולא</w>
                 <w reconstructed="0">יכלכלנה</w>
                 <w reconstructed="0">חסר</w>
@@ -1132,6 +1172,7 @@
                 <line n="22" folio="t-s 12.864 recto" />
                 <w reconstructed="0">תהיה</w>
                 <w reconstructed="0">עליו</w>
+                <stich />
                 <w reconstructed="0">ולא</w>
                 <w reconstructed="0">יאחר</w>
                 <w reconstructed="0">להשליכה׃</w>
@@ -1143,6 +1184,7 @@
                 <w reconstructed="0">כן</w>
                 <line n="23" folio="t-s 12.864 recto" />
                 <w reconstructed="0">הוא</w>
+                <stich />
                 <w reconstructed="0">ולא</w>
                 <w reconstructed="0">לרבים</w>
                 <w reconstructed="0">היא</w>
@@ -1155,6 +1197,7 @@
                 <w reconstructed="0">יוצר</w>
                 <w reconstructed="0">לבער</w>
                 <w reconstructed="0">כבשן</w>
+                <stich />
                 <w reconstructed="0">וכמהו</w>
                 <line n="24" folio="t-s 12.864 recto" />
                 <w reconstructed="0">איש</w>
@@ -1169,6 +1212,7 @@
                 <w reconstructed="0">עץ</w>
                 <w reconstructed="0">יהי</w>
                 <w reconstructed="0">פרי</w>
+                <stich />
                 <w reconstructed="0">כן</w>
                 <w reconstructed="0">חשבון</w>
                 <w reconstructed="0">על</w>
@@ -1180,6 +1224,7 @@
                 <w reconstructed="0">הט</w>
                 <w reconstructed="0">שכמך</w>
                 <w reconstructed="0">ושאה</w>
+                <stich />
                 <w reconstructed="0">וא‍ל</w>
                 <w reconstructed="0">תקץ</w>
                 <w reconstructed="0">בתחבולתיה׃</w>
@@ -1190,6 +1235,7 @@
                 <w reconstructed="0">וחקר</w>
                 <w reconstructed="0">בקש</w>
                 <w reconstructed="0">ומצא</w>
+                <stich />
                 <w reconstructed="0">והחזקתה</w>
                 <w reconstructed="0">וא‍ל</w>
                 <w reconstructed="0">תרפה׃</w>
@@ -1200,6 +1246,7 @@
                 <line n="27" folio="t-s 12.864 recto" />
                 <w reconstructed="0">תמצא</w>
                 <w reconstructed="0">מנוחתה</w>
+                <stich />
                 <w reconstructed="0">ונהפך</w>
                 <w reconstructed="0">לך</w>
                 <w reconstructed="0">לתענוג׃</w>
@@ -1211,6 +1258,7 @@
                 <line n="28" folio="t-s 12.864 recto" />
                 <w reconstructed="0">מכון</w>
                 <w reconstructed="0">עז</w>
+                <stich />
                 <w reconstructed="0">וחבלתה</w>
                 <w reconstructed="0">בגדי</w>
                 <w reconstructed="0">כתם׃</w>
@@ -1219,16 +1267,18 @@
                 <w reconstructed="0">עלי</w>
                 <w reconstructed="0">זהב</w>
                 <w reconstructed="0">עולה</w>
+                <stich />
                 <w reconstructed="0">ומוסרתיה</w>
                 <line n="29" folio="t-s 12.864 recto" />
                 <w reconstructed="0">פתיל</w>
                 <w reconstructed="0">תכלת׃</w>
             </div>
             <div type="verse" n="31">
-                <line n="1" folio="t-s 12.864 verso" />
+                <line n="1" folio="t-s 12.864 recto" />
                 <w reconstructed="0">בגדי</w>
                 <w reconstructed="0">כבוד</w>
                 <w reconstructed="0">תלבשנה</w>
+                <stich />
                 <w reconstructed="0">ועטרת</w>
                 <w reconstructed="0">תפארת</w>
                 <w reconstructed="0">תעטרנה׃</w>
@@ -1239,6 +1289,7 @@
                 <w reconstructed="0">תחפוץ</w>
                 <w reconstructed="0">בני</w>
                 <w reconstructed="0">תתחכם</w>
+                <stich />
                 <w reconstructed="0">ואם</w>
                 <w reconstructed="0">תשיים</w>
                 <w reconstructed="0">לבך</w>
@@ -1249,6 +1300,7 @@
                 <w reconstructed="0">תובא</w>
                 <line n="3" folio="t-s 12.864 verso" />
                 <w reconstructed="0">לשמע</w>
+                <stich />
                 <w reconstructed="0">והט</w>
                 <w reconstructed="0">אזנך</w>
                 <w reconstructed="0">תוסר׃</w>
@@ -1258,6 +1310,7 @@
                 <w reconstructed="0">שיחה</w>
                 <w reconstructed="0">חפוץ</w>
                 <w reconstructed="0">לשמע</w>
+                <stich />
                 <w reconstructed="0">ומשל</w>
                 <line n="4" folio="t-s 12.864 verso" />
                 <w reconstructed="0">בינה</w>
@@ -1269,6 +1322,7 @@
                 <w reconstructed="0">מה</w>
                 <w reconstructed="0">יבין</w>
                 <w reconstructed="0">ושחריהו</w>
+                <stich />
                 <w reconstructed="0">ותשחוק</w>
                 <w reconstructed="0">בסיפי</w>
                 <line n="5" folio="t-s 12.864 verso" />
@@ -1278,6 +1332,7 @@
                 <w reconstructed="0">והתבוננת</w>
                 <w reconstructed="0">ביראת</w>
                 <w reconstructed="0">עליון</w>
+                <stich />
                 <w reconstructed="0">ובמצותו</w>
                 <w reconstructed="0">והגה</w>
                 <w reconstructed="0">תמיד׃</w>
@@ -1285,6 +1340,7 @@
                 <w reconstructed="0">והוא</w>
                 <w reconstructed="0">יבין</w>
                 <w reconstructed="0">לבך</w>
+                <stich />
                 <w reconstructed="0">ואשר</w>
                 <w reconstructed="0">איותה</w>
                 <w reconstructed="0">יחכמך׃</w>
@@ -1300,6 +1356,7 @@
                 <w reconstructed="0">וא‍ל</w>
                 <w reconstructed="0">ישיגך</w>
                 <w reconstructed="0">רעה</w>
+                <stich />
                 <w reconstructed="0">הרחק</w>
                 <w reconstructed="0">מעון</w>
                 <w reconstructed="0">ויט</w>
@@ -1312,6 +1369,7 @@
                 <w reconstructed="0">על</w>
                 <line n="8" folio="t-s 12.864 verso" />
                 <w reconstructed="0">אח</w>
+                <stich />
                 <w reconstructed="0">פן</w>
                 <w reconstructed="0">תקצרהו</w>
                 <w reconstructed="0">שבעתים׃</w>
@@ -1321,6 +1379,7 @@
                 <w reconstructed="0">תבקש</w>
                 <w reconstructed="0">מא‍ל</w>
                 <w reconstructed="0">ממשלת</w>
+                <stich />
                 <w reconstructed="0">וכן</w>
                 <w reconstructed="0">ממלך</w>
                 <line n="9" folio="t-s 12.864 verso" />
@@ -1332,6 +1391,7 @@
                 <w reconstructed="0">תצטדק</w>
                 <w reconstructed="0">לפני</w>
                 <w reconstructed="0">מלך</w>
+                <stich />
                 <w reconstructed="0">ופני</w>
                 <w reconstructed="0">מלך</w>
                 <w reconstructed="0">א‍ל</w>
@@ -1343,6 +1403,7 @@
                 <w reconstructed="0">תבקש</w>
                 <w reconstructed="0">להיות</w>
                 <w reconstructed="0">מושל</w>
+                <stich />
                 <w reconstructed="0">אם</w>
                 <w reconstructed="0">אין</w>
                 <w reconstructed="0">לך</w>
@@ -1354,6 +1415,7 @@
                 <w reconstructed="0">תגור</w>
                 <w reconstructed="0">מפני</w>
                 <w reconstructed="0">נדיב</w>
+                <stich />
                 <w reconstructed="0">ונתונה</w>
                 <w reconstructed="0">בצע</w>
                 <w reconstructed="0">בתמימיך׃</w>
@@ -1365,6 +1427,7 @@
                 <w reconstructed="0">בעדת</w>
                 <w reconstructed="0">שערי</w>
                 <w reconstructed="0">א‍ל</w>
+                <stich />
                 <w reconstructed="0">וא‍ל</w>
                 <w reconstructed="0">תפילך</w>
                 <w reconstructed="0">בקהלה׃</w>
@@ -1374,6 +1437,7 @@
                 <w reconstructed="0">תקשור</w>
                 <w reconstructed="0">לשנות</w>
                 <w reconstructed="0">חט</w>
+                <stich />
                 <line n="13" folio="t-s 12.864 verso" />
                 <w reconstructed="0">כי</w>
                 <w reconstructed="0">באחת</w>
@@ -1386,6 +1450,7 @@
                 <w reconstructed="0">בצבא</w>
                 <w reconstructed="0">מלאכת</w>
                 <w reconstructed="0">עבדה</w>
+                <stich />
                 <w reconstructed="0">הי</w>
                 <line n="14" folio="t-s 12.864 verso" />
                 <w reconstructed="0">כא‍ל</w>
@@ -1395,6 +1460,7 @@
                 <w reconstructed="0">א‍ל</w>
                 <w reconstructed="0">תתקצר</w>
                 <w reconstructed="0">בתפלה</w>
+                <stich />
                 <w reconstructed="0">ובצדקה</w>
                 <w reconstructed="0">א‍ל</w>
                 <w reconstructed="0">תתעבﬧ׃</w>
@@ -1406,6 +1472,7 @@
                 <w reconstructed="0">לאנוש</w>
                 <w reconstructed="0">במר</w>
                 <w reconstructed="0">רוח</w>
+                <stich />
                 <w reconstructed="0">זכר</w>
                 <w reconstructed="0">כי</w>
                 <w reconstructed="0">יש</w>
@@ -1419,6 +1486,7 @@
                 <w reconstructed="0">חמס</w>
                 <w reconstructed="0">על</w>
                 <w reconstructed="0">אח</w>
+                <stich />
                 <w reconstructed="0">וכן</w>
                 <w reconstructed="0">על</w>
                 <w reconstructed="0">רע</w>
@@ -1432,6 +1500,7 @@
                 <w reconstructed="0">לכחש</w>
                 <w reconstructed="0">על</w>
                 <w reconstructed="0">כחש</w>
+                <stich />
                 <w reconstructed="0">כי</w>
                 <w reconstructed="0">תקותו</w>
                 <w reconstructed="0">לא</w>
@@ -1443,6 +1512,7 @@
                 <w reconstructed="0">בעדת</w>
                 <line n="18" folio="t-s 12.864 verso" />
                 <w reconstructed="0">שרים</w>
+                <stich />
                 <w reconstructed="0">וא‍ל</w>
                 <w reconstructed="0">תישן</w>
                 <w reconstructed="0">דבר</w>
@@ -1453,6 +1523,7 @@
                 <w reconstructed="0">תחשיבך</w>
                 <w reconstructed="0">במתי</w>
                 <w reconstructed="0">עם</w>
+                <stich />
                 <line n="19" folio="t-s 12.864 verso" />
                 <w reconstructed="0">זכור</w>
                 <w reconstructed="0">עכרון</w>
@@ -1464,6 +1535,7 @@
                 <w reconstructed="0">מאד</w>
                 <w reconstructed="0">השפיל</w>
                 <w reconstructed="0">גאוה</w>
+                <stich />
                 <w reconstructed="0">כי</w>
                 <w reconstructed="0">תקות</w>
                 <line n="20" folio="t-s 12.864 verso" />
@@ -1473,6 +1545,7 @@
                 <w reconstructed="0">תאיץ</w>
                 <w reconstructed="0">לאמר</w>
                 <w reconstructed="0">לפרץ</w>
+                <stich />
                 <w reconstructed="0">גל</w>
                 <w reconstructed="0">א‍ל</w>
                 <w reconstructed="0">א‍ל</w>
@@ -1485,6 +1558,7 @@
                 <w reconstructed="0">תמיר</w>
                 <w reconstructed="0">אוהב</w>
                 <w reconstructed="0">במחיר</w>
+                <stich />
                 <w reconstructed="0">ואח</w>
                 <w reconstructed="0">תלוי</w>
                 <w reconstructed="0">בזהב</w>
@@ -1496,6 +1570,7 @@
                 <w reconstructed="0">תמאס</w>
                 <w reconstructed="0">אשה</w>
                 <w reconstructed="0">משכלת</w>
+                <stich />
                 <w reconstructed="0">וטובת</w>
                 <w reconstructed="0">חן</w>
                 <w reconstructed="0">מפנינים׃</w>
@@ -1507,6 +1582,7 @@
                 <w reconstructed="0">באמת</w>
                 <w reconstructed="0">עובד</w>
                 <w reconstructed="0">אמת</w>
+                <stich />
                 <w reconstructed="0">וכן</w>
                 <w reconstructed="0">שוכר</w>
                 <w reconstructed="0">נותן</w>
@@ -1518,7 +1594,8 @@
                 <line n="24" folio="t-s 12.864 verso" />
                 <w reconstructed="0">חבב</w>
                 <w reconstructed="0">כנפש</w>
-                <w reconstructed="1"><g type='reconstructed'>א</g>ל</w>
+                <stich />
+                <w reconstructed="0">]ל</w>
                 <w reconstructed="0">תמנע</w>
                 <w reconstructed="0">ממנו</w>
                 <w reconstructed="0">חפש׃</w>
@@ -1528,6 +1605,7 @@
                 <w reconstructed="0">לך</w>
                 <w reconstructed="0">ראה</w>
                 <w reconstructed="0">עיניך</w>
+                <stich />
                 <line n="25" folio="t-s 12.864 verso" />
                 <w reconstructed="0">ואם</w>
                 <w reconstructed="0">אמנה</w>
@@ -1539,6 +1617,7 @@
                 <w reconstructed="0">לך</w>
                 <w reconstructed="0">יסיר</w>
                 <w reconstructed="0">אותם</w>
+                <stich />
                 <w reconstructed="0">ושָׂא</w>
                 <line n="26" folio="t-s 12.864 verso" />
                 <w reconstructed="0">לָהֶם</w>
@@ -1550,6 +1629,7 @@
                 <w reconstructed="0">לך</w>
                 <w reconstructed="0">נצור</w>
                 <w reconstructed="0">שארם</w>
+                <stich />
                 <w reconstructed="0">וא‍ל</w>
                 <w reconstructed="0">תאיר</w>
                 <line n="27" folio="t-s 12.864 verso" />
@@ -1561,6 +1641,7 @@
                 <w reconstructed="0">בת</w>
                 <w reconstructed="0">ויצא</w>
                 <w reconstructed="0">עסק</w>
+                <stich />
                 <w reconstructed="0">וא‍ל</w>
                 <w reconstructed="0">נבון</w>
                 <w reconstructed="0">גבר</w>
@@ -1572,6 +1653,7 @@
                 <w reconstructed="0">לך</w>
                 <w reconstructed="0">א‍ל</w>
                 <w reconstructed="0">תתעבה</w>
+                <stich />
                 <w reconstructed="0">ושנואה</w>
                 <w reconstructed="0">א‍ל</w>
                 <w reconstructed="0">תאמן</w>
@@ -1581,8 +1663,9 @@
                 <w reconstructed="0">בכל</w>
                 <w reconstructed="0">לבך</w>
                 <w reconstructed="0">פחד</w>
-                <line n="1" folio="ena 2536–1 recto" />
+                <line n="1" folio="t-s 12.864 verso" />
                 <w reconstructed="0">א‍ל</w>
+                <stich />
                 <w reconstructed="0">ואת</w>
                 <w reconstructed="0">כהניו</w>
                 <w reconstructed="0">הקדיש׃</w>
@@ -1592,6 +1675,7 @@
                 <w reconstructed="0">מ̇אודָך</w>
                 <w reconstructed="0">אֶה̇וֹב</w>
                 <w reconstructed="0">עושך</w>
+                <stich />
                 <w reconstructed="0">ואת</w>
                 <w reconstructed="0">משרתיו</w>
                 <line n="2" folio="ena 2536–1 recto" />
@@ -1603,8 +1687,9 @@
                 <w reconstructed="0">א‍ל</w>
                 <w reconstructed="0">והד̇ר</w>
                 <w reconstructed="0">כהן</w>
-                <w reconstructed="1">ות<g type='reconstructed'>ן</g></w>
-                <w reconstructed="1"><g type='reconstructed'>ח</g>לקם</w>
+                <stich />
+                <w reconstructed="1">ות<g type='reconstructed'></g></w>
+                <w reconstructed="0">]לקם</w>
                 <w reconstructed="0">כאשר</w>
                 <w reconstructed="0">צ̇וותﬣ׃</w>
                 <line n="3" folio="ena 2536–1 recto" />
@@ -1612,6 +1697,7 @@
                 <w reconstructed="0">אב̇י̇ר̇ים</w>
                 <w reconstructed="0">ותרומת</w>
                 <w reconstructed="0">י̊ד̊</w>
+                <stich />
                 <w reconstructed="0">ז̊ב̊ח̊י̊</w>
                 <w reconstructed="0">צדק</w>
                 <w reconstructed="0">ותרומת</w>
@@ -1620,9 +1706,11 @@
             <div type="verse" n="32">
                 <w reconstructed="0">וגם</w>
                 <line n="4" folio="ena 2536–1 recto" />
-                <w reconstructed="1">לאבי̊ו̊<g type='reconstructed'>ן</g></w>
-                <w reconstructed="1">ה̊<g type='reconstructed'>ו</g>ש̊י̊ט</w>
+                <w reconstructed="1">לאבי̊ו̊<g type='reconstructed'></g></w>
+                <w reconstructed="1">ה̊<g type='reconstructed'></g></w>
+                <w reconstructed="0">]ש̊י̊ט</w>
                 <w reconstructed="0">יד</w>
+                <stich />
                 <w reconstructed="0">למען</w>
                 <w reconstructed="0">תשלם</w>
                 <w reconstructed="0">בר̊כתך׃</w>
@@ -1633,6 +1721,7 @@
                 <w reconstructed="0">לפני</w>
                 <w reconstructed="0">כל</w>
                 <w reconstructed="0">חי</w>
+                <stich />
                 <line n="5" folio="ena 2536–1 recto" />
                 <w reconstructed="0">וגם</w>
                 <w reconstructed="0">ממת</w>
@@ -1644,6 +1733,7 @@
                 <w reconstructed="0">א‍ל</w>
                 <w reconstructed="0">תתאחר</w>
                 <w reconstructed="0">מבוכים</w>
+                <stich />
                 <w reconstructed="0">ועם</w>
                 <w reconstructed="0">אבלים</w>
                 <line n="6" folio="ena 2536–1 recto" />
@@ -1654,6 +1744,7 @@
                 <w reconstructed="0">תשא</w>
                 <w reconstructed="0">לב</w>
                 <w reconstructed="0">מאוהב</w>
+                <stich />
                 <w reconstructed="0">כי</w>
                 <w reconstructed="0">ממנו</w>
                 <w reconstructed="0">תאהב׃</w>
@@ -1664,6 +1755,7 @@
                 <w reconstructed="0">מעשיך</w>
                 <w reconstructed="0">זכור</w>
                 <w reconstructed="0">אחרית</w>
+                <stich />
                 <w reconstructed="0">ולעולם</w>
                 <w reconstructed="0">לא</w>
                 <w reconstructed="0">תשחת׃</w>
@@ -1677,6 +1769,7 @@
                 <line n="8" folio="ena 2536–1 recto" />
                 <w reconstructed="0">איש</w>
                 <w reconstructed="0">גדול</w>
+                <stich />
                 <w reconstructed="0">למה</w>
                 <w reconstructed="0">תשוב</w>
                 <w reconstructed="0">על</w>
@@ -1686,6 +1779,7 @@
                 <w reconstructed="0">עם</w>
                 <w reconstructed="0">קשה</w>
                 <w reconstructed="0">ממ̊ך̊</w>
+                <stich />
                 <line n="9" folio="ena 2536–1 recto" />
                 <w reconstructed="0">למה</w>
                 <w reconstructed="0">תפול</w>
@@ -1698,6 +1792,7 @@
                 <w reconstructed="0">איש</w>
                 <w reconstructed="0">לא֟</w>
                 <w reconstructed="0">הון</w>
+                <stich />
                 <w reconstructed="0">פן</w>
                 <w reconstructed="0">ישקל</w>
                 <w reconstructed="0">מח̊י̇רך</w>
@@ -1707,10 +1802,12 @@
                 <w reconstructed="0">רבים</w>
                 <w reconstructed="0">הפחיז</w>
                 <w reconstructed="0">ז̇הב</w>
+                <stich />
                 <w reconstructed="0">והן̊</w>
                 <w reconstructed="0">מ̊שגה</w>
-                <w reconstructed="1">ל̇<g type='reconstructed'>בו</g>ת̊<g type='reconstructed'></g></w>
-                <w reconstructed="0">נ]ד̊י̇בים׃</w>
+                <w reconstructed="1">ל̇<g type='reconstructed'></g></w>
+                <w reconstructed="1"><g type='reconstructed'></g>ת̊<g type='reconstructed'></g></w>
+                <w reconstructed="0">]ד̊י̇בים׃</w>
             </div>
             <div type="verse" n="3">
                 <line n="11" folio="ena 2536–1 recto" />
@@ -1719,21 +1816,20 @@
                 <w reconstructed="0">עם</w>
                 <w reconstructed="0">א̇יש</w>
                 <w reconstructed="0">לשון</w>
+                <stich />
                 <w reconstructed="0">וא‍ל</w>
                 <w reconstructed="0">תת̇ן</w>
                 <w reconstructed="0">על</w>
                 <w reconstructed="0">אש</w>
-                <w reconstructed="1">עצ̊<g type='reconstructed'>ים׃</g></w>
+                <w reconstructed="1">עצ̊<g type='reconstructed'></g></w>
             </div>
             <div type="verse" n="4">
-                <w reconstructed="1">
-                    <g type='reconstructed'>אל</g>
-                </w>
-                <w reconstructed="1"><g type='reconstructed'></g>תרגיל</w>
+                <w reconstructed="0">]תרגיל</w>
                 <w reconstructed="0">עם</w>
                 <line n="12" folio="ena 2536–1 recto" />
                 <w reconstructed="0">איש</w>
                 <w reconstructed="0">אויל</w>
+                <stich />
                 <w reconstructed="0">פן</w>
                 <w reconstructed="0">יבוז̇</w>
                 <w reconstructed="0">לנדיבים׃</w>
@@ -1741,9 +1837,11 @@
             <div type="verse" n="5">
                 <w reconstructed="0">א‍ל</w>
                 <w reconstructed="0">ת̊כ̊לים</w>
-                <w reconstructed="1">א<g type='reconstructed'>י</g>ש</w>
+                <w reconstructed="1">א<g type='reconstructed'></g></w>
+                <w reconstructed="0">]ש</w>
                 <w reconstructed="0">שב</w>
                 <w reconstructed="0">מפש̇ע</w>
+                <stich />
                 <line n="13" folio="ena 2536–1 recto" />
                 <w reconstructed="0">זכר</w>
                 <w reconstructed="0">כי</w>
@@ -1755,6 +1853,7 @@
                 <w reconstructed="0">תבייש̇</w>
                 <w reconstructed="0">אנוש̊</w>
                 <w reconstructed="0">י̊שיש</w>
+                <stich />
                 <w reconstructed="0">כ̇י̇</w>
                 <w reconstructed="0">נמנﬣ</w>
                 <line n="14" folio="ena 2536–1 recto" />
@@ -1765,16 +1864,18 @@
                 <w reconstructed="0">תתהלל</w>
                 <w reconstructed="0">על</w>
                 <w reconstructed="0">גוֹע</w>
+                <stich />
                 <w reconstructed="0">זכר</w>
                 <w reconstructed="0">כלנו</w>
                 <w reconstructed="0">נאס̇פים׃</w>
             </div>
             <div type="verse" n="8">
-                <w reconstructed="1"><g type='reconstructed'>א</g>ל</w>
+                <w reconstructed="0">]ל</w>
                 <w reconstructed="0">תטש</w>
                 <line n="15" folio="ena 2536–1 recto" />
                 <w reconstructed="0">שיחת</w>
                 <w reconstructed="0">חכמים</w>
+                <stich />
                 <w reconstructed="0">ובחידתיהם</w>
                 <w reconstructed="0">התרטש׃</w>
                 <w reconstructed="0">כי</w>
@@ -1782,6 +1883,7 @@
                 <w reconstructed="0">תלמו̇ד</w>
                 <line n="16" folio="ena 2536–1 recto" />
                 <w reconstructed="0">לקח</w>
+                <stich />
                 <w reconstructed="0">להתיצב</w>
                 <w reconstructed="0">לפני</w>
                 <w reconstructed="0">שרים׃</w>
@@ -1791,6 +1893,7 @@
                 <w reconstructed="0">תמאס</w>
                 <w reconstructed="0">בשמיעו̊ת̊</w>
                 <w reconstructed="0">שׂבים</w>
+                <stich />
                 <line n="17" folio="ena 2536–1 recto" />
                 <w reconstructed="0">אשר</w>
                 <w reconstructed="0">שמעו</w>
@@ -1799,8 +1902,10 @@
                 <w reconstructed="0">ממנו</w>
                 <w reconstructed="0">תקח</w>
                 <w reconstructed="0">שכל</w>
+                <stich />
                 <w reconstructed="0">ב̇עת</w>
-                <w reconstructed="1">צ̇ו̊<g type='reconstructed'>ר</g>ך̇</w>
+                <w reconstructed="1">צ̇ו̊<g type='reconstructed'></g></w>
+                <w reconstructed="0">]ך̇</w>
                 <w reconstructed="0">להשיב</w>
                 <line n="18" folio="ena 2536–1 recto" />
                 <w reconstructed="0">פתגם׃</w>
@@ -1810,6 +1915,7 @@
                 <w reconstructed="0">ת{נ}צלח</w>
                 <w reconstructed="0">בנחלת</w>
                 <w reconstructed="0">רשע</w>
+                <stich />
                 <w reconstructed="0">פן</w>
                 <w reconstructed="0">תבער</w>
                 <w reconstructed="0">בשביב</w>
@@ -1821,17 +1927,20 @@
                 <w reconstructed="0">תזוח</w>
                 <w reconstructed="0">מפני</w>
                 <w reconstructed="0">לץ</w>
+                <stich />
                 <w reconstructed="0">להושיבו</w>
                 <w reconstructed="0">כאורב</w>
-                <w reconstructed="1">לפניך̇<g type='reconstructed'>׃</g></w>
+                <w reconstructed="1">לפניך̇<g type='reconstructed'></g></w>
             </div>
             <div type="verse" n="12">
                 <w reconstructed="0">א‍ל</w>
-                <w reconstructed="1">תל<g type='reconstructed'>ו</g>ﬣ</w>
+                <w reconstructed="1">תל<g type='reconstructed'></g></w>
+                <w reconstructed="0">]ﬣ</w>
                 <line n="20" folio="ena 2536–1 recto" />
                 <w reconstructed="0">איש</w>
                 <w reconstructed="0">חזק</w>
                 <w reconstructed="0">ממך</w>
+                <stich />
                 <w reconstructed="0">ואם</w>
                 <w reconstructed="0">הלוית</w>
                 <w reconstructed="0">כמאבד׃</w>
@@ -1841,6 +1950,7 @@
                 <w reconstructed="0">תערב</w>
                 <w reconstructed="0">יתר</w>
                 <w reconstructed="0">ממך</w>
+                <stich />
                 <line n="21" folio="ena 2536–1 recto" />
                 <w reconstructed="0">ואם</w>
                 <w reconstructed="0">ערבת</w>
@@ -1851,16 +1961,19 @@
                 <w reconstructed="0">תשפט</w>
                 <w reconstructed="0">עם</w>
                 <w reconstructed="0">שופט</w>
+                <stich />
                 <w reconstructed="0">כי</w>
                 <w reconstructed="0">כרצונו</w>
                 <line n="22" folio="ena 2536–1 recto" />
-                <w reconstructed="1">יש<g type='reconstructed'>פט</g>׃</w>
+                <w reconstructed="1">יש<g type='reconstructed'></g></w>
+                <w reconstructed="0">]׃</w>
             </div>
             <div type="verse" n="15">
                 <w reconstructed="0">עם</w>
                 <w reconstructed="0">אכזרי</w>
                 <w reconstructed="0">א‍ל</w>
                 <w reconstructed="0">תלך</w>
+                <stich />
                 <w reconstructed="0">תכביד</w>
                 <w reconstructed="0">את</w>
                 <w reconstructed="0">רעתך׃</w>
@@ -1870,6 +1983,7 @@
                 <w reconstructed="0">נוכח</w>
                 <w reconstructed="0">פניו</w>
                 <w reconstructed="0">ילך</w>
+                <stich />
                 <w reconstructed="0">ובאולתו</w>
                 <w reconstructed="0">תספה׃</w>
             </div>
@@ -1881,6 +1995,7 @@
                 <w reconstructed="0">תעיז</w>
                 <line n="24" folio="ena 2536–1 recto" />
                 <w reconstructed="0">מצח</w>
+                <stich />
                 <w reconstructed="0">וא‍ל</w>
                 <w reconstructed="0">תרכב</w>
                 <w reconstructed="0">עמו</w>
@@ -1889,6 +2004,7 @@
                 <w reconstructed="0">קל</w>
                 <w reconstructed="0">בעיניו</w>
                 <w reconstructed="0">דמים</w>
+                <stich />
                 <w reconstructed="0">ובאין</w>
                 <line n="25" folio="ena 2536–1 recto" />
                 <w reconstructed="0">מציל</w>
@@ -1899,6 +2015,7 @@
                 <w reconstructed="0">פותה</w>
                 <w reconstructed="0">א‍ל</w>
                 <w reconstructed="0">תסתייד</w>
+                <stich />
                 <w reconstructed="0">כי</w>
                 <w reconstructed="0">לא</w>
                 <w reconstructed="0">יוכﬥ</w>
@@ -1912,6 +2029,7 @@
                 <w reconstructed="0">א‍ל</w>
                 <w reconstructed="0">תעש</w>
                 <w reconstructed="0">רז</w>
+                <stich />
                 <w reconstructed="0">כי</w>
                 <w reconstructed="0">לא</w>
                 <w reconstructed="0">תדע</w>
@@ -1926,6 +2044,7 @@
                 <w reconstructed="0">א‍ל</w>
                 <w reconstructed="0">תגל</w>
                 <w reconstructed="0">לבך</w>
+                <stich />
                 <w reconstructed="0">וא‍ל</w>
                 <w reconstructed="0">תדיח</w>
                 <w reconstructed="0">מעליך</w>
@@ -1940,6 +2059,7 @@
                 <w reconstructed="0">את</w>
                 <w reconstructed="0">אשת</w>
                 <w reconstructed="0">חיקך</w>
+                <stich />
                 <w reconstructed="0">פן</w>
                 <w reconstructed="0">תלמד</w>
                 <w reconstructed="0">עליך</w>
@@ -1948,9 +2068,10 @@
             <div type="verse" n="2">
                 <w reconstructed="0">א‍ל</w>
                 <w reconstructed="0">תקנא</w>
-                <line n="1" folio="ena 2536–1 verso" />
+                <line n="1" folio="ena 2536–1 recto" />
                 <w reconstructed="0">לאשה</w>
                 <w reconstructed="0">נפשך</w>
+                <stich />
                 <w reconstructed="0">להדריכ̇ה</w>
                 <w reconstructed="0">על</w>
                 <w reconstructed="0">במותיך׃</w>
@@ -1960,12 +2081,14 @@
                 <w reconstructed="0">תִ֖קְרַבֿ</w>
                 <w reconstructed="0">א‍ֶל־אִשָּׁ֥הֿ</w>
                 <w reconstructed="0">זָרָ֑הֿ</w>
+                <stich />
                 <line n="2" folio="ena 2536–1 verso" />
                 <w reconstructed="0">פֶן־תִ֝פוֹל</w>
                 <w reconstructed="0">בִמְצוֹדֹֿתֶיהָ׃</w>
                 <w reconstructed="0">ע̊ם</w>
                 <w reconstructed="0">זוֹנָהֿ</w>
                 <w reconstructed="0">א‍ַל־תִסְתַייָ֑דֿ</w>
+                <stich />
                 <w reconstructed="0">פֶן־תִ֝לָכֵד</w>
                 <w reconstructed="0">בִלְקוֹתֶֿיהָ׃</w>
             </div>
@@ -1975,6 +2098,7 @@
                 <w reconstructed="0">מְנַגְּינֹתֿ</w>
                 <w reconstructed="0">א‍ַל</w>
                 <w reconstructed="0">תִדְ֝מוֹךְ</w>
+                <stich />
                 <w reconstructed="0">פן</w>
                 <w reconstructed="0">יִשְׂרְפֻֿךָ</w>
                 <w reconstructed="0">בְפִֿיפִֿיֹתָם׃</w>
@@ -1984,6 +2108,7 @@
                 <line n="4" folio="ena 2536–1 verso" />
                 <w reconstructed="0">א‍ל</w>
                 <w reconstructed="0">תתבונן</w>
+                <stich />
                 <w reconstructed="0">פן</w>
                 <w reconstructed="0">תּוקש</w>
                 <w reconstructed="0">בעונשיה</w>
@@ -1993,6 +2118,7 @@
                 <w reconstructed="0">תתן</w>
                 <w reconstructed="0">לזונה</w>
                 <w reconstructed="0">נפשך</w>
+                <stich />
                 <w reconstructed="0">פן</w>
                 <w reconstructed="0">תסוב</w>
                 <line n="5" folio="ena 2536–1 verso" />
@@ -2003,6 +2129,7 @@
                 <w reconstructed="0">להתנבל</w>
                 <w reconstructed="0">במראה</w>
                 <w reconstructed="0">עיניך</w>
+                <stich />
                 <w reconstructed="0">ולשומם</w>
                 <w reconstructed="0">אחר</w>
                 <w reconstructed="0">ביתה׃</w>
@@ -2013,6 +2140,7 @@
                 <w reconstructed="0">עין</w>
                 <w reconstructed="0">מאשת</w>
                 <w reconstructed="0">חן</w>
+                <stich />
                 <w reconstructed="0">וא‍ל</w>
                 <w reconstructed="0">תביט</w>
                 <w reconstructed="0">אל</w>
@@ -2024,6 +2152,7 @@
                 <line n="7" folio="ena 2536–1 verso" />
                 <w reconstructed="0">ה̊שחת̇ו</w>
                 <w reconstructed="0">רבים</w>
+                <stich />
                 <w reconstructed="0">וכן</w>
                 <w reconstructed="0">אהביה</w>
                 <w reconstructed="0">באש̇</w>
@@ -2034,6 +2163,7 @@
                 <w reconstructed="0">בעלה</w>
                 <w reconstructed="0">א‍ל</w>
                 <w reconstructed="0">תטעם׃</w>
+                <stich />
                 <line n="8" folio="ena 2536–1 verso" />
                 <w reconstructed="0">ו̇א‍̇ל</w>
                 <w reconstructed="0">ת̊ס̇ב</w>
@@ -2043,6 +2173,7 @@
                 <w reconstructed="0">תטה</w>
                 <w reconstructed="0">א‍̇ליה</w>
                 <w reconstructed="0">לב</w>
+                <stich />
                 <w reconstructed="0">ובדמים</w>
                 <w reconstructed="0">תטה</w>
                 <w reconstructed="0">א‍ל</w>
@@ -2054,23 +2185,28 @@
                 <w reconstructed="0">ת̇טש̊</w>
                 <w reconstructed="0">אוהב</w>
                 <w reconstructed="0">ישן</w>
+                <stich />
                 <w reconstructed="0">כי</w>
                 <w reconstructed="0">חָדָ̊ש</w>
                 <w reconstructed="0">לא</w>
-                <w reconstructed="1">יד<g type='reconstructed'>ב</g>יק̇נ̊ו׃</w>
-                <w reconstructed="1">יי̇<g type='reconstructed'>ן</g></w>
+                <w reconstructed="1">יד<g type='reconstructed'></g></w>
+                <w reconstructed="0">]יק̇נ̊ו׃</w>
+                <w reconstructed="1">יי̇<g type='reconstructed'></g></w>
                 <w reconstructed="0">חדש</w>
                 <w reconstructed="0">אוהב</w>
+                <stich />
                 <line n="10" folio="ena 2536–1 verso" />
                 <w reconstructed="0">וישן</w>
                 <w reconstructed="0">אחר̊</w>
-                <w reconstructed="1">ת̇<g type='reconstructed'>י</g>ש̊תֵינּוּ׃</w>
+                <w reconstructed="1">ת̇<g type='reconstructed'></g></w>
+                <w reconstructed="0">]ש̊תֵינּוּ׃</w>
             </div>
             <div type="verse" n="11">
                 <w reconstructed="0">א‍̇ל</w>
                 <w reconstructed="0">תקנא̊</w>
                 <w reconstructed="0">באיש</w>
                 <w reconstructed="0">רשע</w>
+                <stich />
                 <w reconstructed="0">כי</w>
                 <w reconstructed="0">לא</w>
                 <w reconstructed="0">ת̇דע</w>
@@ -2080,9 +2216,10 @@
             </div>
             <div type="verse" n="12">
                 <w reconstructed="0">א‍ל</w>
-                <w reconstructed="1">ת̊<g type='reconstructed'>קנא</g></w>
+                <w reconstructed="1">ת̊<g type='reconstructed'></g></w>
                 <w reconstructed="0">בזדון</w>
                 <w reconstructed="0">מצלי̇ח̇</w>
+                <stich />
                 <w reconstructed="0">זכר</w>
                 <w reconstructed="0">כי</w>
                 <w reconstructed="0">עת</w>
@@ -2094,25 +2231,19 @@
                 <line n="12" folio="ena 2536–1 verso" />
                 <w reconstructed="0">רחק̇</w>
                 <w reconstructed="0">מאיש</w>
-                <w reconstructed="1"><g type='reconstructed'>שלי</g>ט</w>
-                <w reconstructed="1">להרו̊<g type='reconstructed'>ג</g></w>
-                <w reconstructed="1">
-                    <g type='reconstructed'>וא‍ל</g>
-                </w>
-                <w reconstructed="1">
-                    <g type='reconstructed'>תפחד</g>
-                </w>
-                <w reconstructed="1">
-                    <g type='reconstructed'>פחדי</g>
-                </w>
-                <w reconstructed="1">
-                    <g type='reconstructed'>מות</g>
-                </w>
+                <w reconstructed="0">]ט</w>
+                <w reconstructed="1">להרו̊<g type='reconstructed'></g></w>
+                <stich />
+                <w reconstructed="0">וא‍ל</w>
+                <w reconstructed="0">תפחד</w>
+                <w reconstructed="0">פחדי</w>
+                <w reconstructed="0">מות</w>
                 <w reconstructed="0">ואם</w>
                 <w reconstructed="0">קרבת</w>
                 <line n="13" folio="ena 2536–1 verso" />
                 <w reconstructed="0">לא</w>
                 <w reconstructed="0">תאשם</w>
+                <stich />
                 <w reconstructed="0">פן</w>
                 <w reconstructed="0">יקח</w>
                 <w reconstructed="0">א̊ת</w>
@@ -2122,6 +2253,7 @@
                 <w reconstructed="0">בין</w>
                 <w reconstructed="0">פחים</w>
                 <w reconstructed="0">תצעד</w>
+                <stich />
                 <line n="14" folio="ena 2536–1 verso" />
                 <w reconstructed="0">ועל</w>
                 <w reconstructed="0">רשת̇</w>
@@ -2131,6 +2263,7 @@
                 <w reconstructed="0">ככחך</w>
                 <w reconstructed="0">ענה</w>
                 <w reconstructed="0">רעך</w>
+                <stich />
                 <w reconstructed="0">ועם</w>
                 <w reconstructed="0">חכמים</w>
                 <w reconstructed="0">הסתייד׃</w>
@@ -2141,6 +2274,7 @@
                 <w reconstructed="0">נבון</w>
                 <w reconstructed="0">יהי</w>
                 <w reconstructed="0">חשבונך</w>
+                <stich />
                 <w reconstructed="0">וכל</w>
                 <w reconstructed="0">סודך</w>
                 <w reconstructed="0">בינותם׃</w>
@@ -2151,6 +2285,7 @@
                 <w reconstructed="0">בעלי</w>
                 <line n="16" folio="ena 2536–1 verso" />
                 <w reconstructed="0">לחמך</w>
+                <stich />
                 <w reconstructed="0">וביראת</w>
                 <w reconstructed="0">א‍להים</w>
                 <w reconstructed="0">תפארתך׃</w>
@@ -2160,9 +2295,10 @@
                 <w reconstructed="0">ידים</w>
                 <w reconstructed="0">יחשך</w>
                 <w reconstructed="0">יושר</w>
+                <stich />
                 <line n="17" folio="ena 2536–1 verso" />
-                <w reconstructed="1">ומוש<g type='reconstructed'>ל</g></w>
-                <w reconstructed="1"><g type='reconstructed'></g>ב̊עמו</w>
+                <w reconstructed="1">ומוש<g type='reconstructed'></g></w>
+                <w reconstructed="0">]ב̊עמו</w>
                 <w reconstructed="0">חכם׃</w>
             </div>
             <div type="verse" n="18">
@@ -2171,6 +2307,7 @@
                 <w reconstructed="0">בעד</w>
                 <w reconstructed="0">איש</w>
                 <w reconstructed="0">לשון</w>
+                <stich />
                 <w reconstructed="0">ומשא</w>
                 <line n="18" folio="ena 2536–1 verso" />
                 <w reconstructed="0">על</w>
@@ -2185,6 +2322,7 @@
                 <w reconstructed="0">עם</w>
                 <w reconstructed="0">יוסר</w>
                 <w reconstructed="0">עמו</w>
+                <stich />
                 <w reconstructed="0">וממשלת</w>
                 <w reconstructed="0">מבין</w>
                 <line n="19" folio="ena 2536–1 verso" />
@@ -2195,6 +2333,7 @@
                 <w reconstructed="0">פרוע</w>
                 <w reconstructed="0">ישחית</w>
                 <w reconstructed="0">עיר</w>
+                <stich />
                 <w reconstructed="0">ועיר̇</w>
                 <w reconstructed="0">נוֹשֶבת</w>
                 <w reconstructed="0">בשכל</w>
@@ -2206,6 +2345,7 @@
                 <w reconstructed="0">עָ֭ם</w>
                 <w reconstructed="0">כֵ֣ן</w>
                 <w reconstructed="0">מְלִיצָ֑יו</w>
+                <stich />
                 <w reconstructed="0">וּכְֿרֹ֥אשׁ</w>
                 <w reconstructed="0">עִ֜יר</w>
                 <w reconstructed="0">כֵ֣ן</w>
@@ -2218,6 +2358,7 @@
                 <w reconstructed="0">ממשלת</w>
                 <w reconstructed="0">כל</w>
                 <w reconstructed="0">גבר</w>
+                <stich />
                 <w reconstructed="0">ולפני</w>
                 <w reconstructed="0">מחוֹקק</w>
                 <w reconstructed="0">ישית</w>
@@ -2229,19 +2370,21 @@
                 <w reconstructed="0">א‍להים</w>
                 <w reconstructed="0">ממשלת</w>
                 <w reconstructed="0">תבל</w>
+                <stich />
                 <w reconstructed="0">ואיש</w>
                 <w reconstructed="0">לעת</w>
                 <w reconstructed="0">יעמד</w>
                 <w reconstructed="0">עליה׃</w>
             </div>
             <div type="verse" n="6">
-                <w reconstructed="1"><g type='reconstructed'>ב</g>כל</w>
+                <w reconstructed="0">]כל</w>
                 <line n="23" folio="ena 2536–1 verso" />
                 <w reconstructed="0">פשע</w>
                 <w reconstructed="0">א‍ל</w>
                 <w reconstructed="0">תשלֶּים</w>
                 <w reconstructed="0">רע</w>
                 <w reconstructed="0">לריע</w>
+                <stich />
                 <w reconstructed="0">וא‍ל</w>
                 <w reconstructed="0">תהלך</w>
                 <w reconstructed="0">בדרך</w>
@@ -2253,6 +2396,7 @@
                 <w reconstructed="0">לאדון</w>
                 <w reconstructed="0">ואנשים</w>
                 <w reconstructed="0">גאוה</w>
+                <stich />
                 <w reconstructed="0">ומשניהם</w>
                 <w reconstructed="0">מעל</w>
                 <w reconstructed="0">עשׁק׃</w>
@@ -2264,6 +2408,7 @@
                 <w reconstructed="0">א‍ל</w>
                 <w reconstructed="0">גוי</w>
                 <w reconstructed="0">תסוב</w>
+                <stich />
                 <w reconstructed="0">בגלל</w>
                 <w reconstructed="0">חמס</w>
                 <w reconstructed="0">גאוה׃</w>
@@ -2274,6 +2419,7 @@
                 <line n="26" folio="ena 2536–1 verso" />
                 <w reconstructed="0">עפר</w>
                 <w reconstructed="0">ואפר</w>
+                <stich />
                 <w reconstructed="0">אשר</w>
                 <w reconstructed="0">בחייו</w>
                 <w reconstructed="0">יורם</w>
@@ -2285,6 +2431,7 @@
                 <line n="27" folio="ena 2536–1 verso" />
                 <w reconstructed="0">יצהיב</w>
                 <w reconstructed="0">רופא</w>
+                <stich />
                 <w reconstructed="0">מלך</w>
                 <w reconstructed="0">היום</w>
                 <w reconstructed="0">ומחר</w>
@@ -2296,6 +2443,7 @@
                 <line n="28" folio="ena 2536–1 verso" />
                 <w reconstructed="0">ינחל</w>
                 <w reconstructed="0">רמה</w>
+                <stich />
                 <w reconstructed="0">ותולעה</w>
                 <w reconstructed="0">כִּנִּיום</w>
                 <w reconstructed="0">וָרמש׃</w>
@@ -2304,8 +2452,9 @@
                 <w reconstructed="0">תחלת</w>
                 <w reconstructed="0">גאון</w>
                 <w reconstructed="0">אדם</w>
-                <line n="1" folio="ena 2536–2 recto" />
+                <line n="1" folio="ena 2536–1 verso" />
                 <w reconstructed="0">מוּעָז</w>
+                <stich />
                 <w reconstructed="0">וּמֵעֹשֵׂהוּ</w>
                 <w reconstructed="0">יסור</w>
                 <w reconstructed="0">מלבו׃</w>
@@ -2315,6 +2464,7 @@
                 <w reconstructed="0">מקוה</w>
                 <w reconstructed="0">זדון</w>
                 <w reconstructed="0">חטא</w>
+                <stich />
                 <w reconstructed="0">ומְקורֹה</w>
                 <line n="2" folio="ena 2536–2 recto" />
                 <w reconstructed="0">יביע</w>
@@ -2323,8 +2473,10 @@
                 <w reconstructed="0">כן</w>
                 <w reconstructed="0">מלא</w>
                 <w reconstructed="0">לִבּ</w>
-                <w reconstructed="1">א‍לה<g type='reconstructed'>י</g>ם̊</w>
+                <w reconstructed="1">א‍לה<g type='reconstructed'></g></w>
+                <w reconstructed="0">]ם̊</w>
                 <w reconstructed="0">נֶגַֿעֹה</w>
+                <stich />
                 <w reconstructed="0">ויכהוּ</w>
                 <w reconstructed="0">עד</w>
                 <w reconstructed="0">כלֵּה׃</w>
@@ -2335,6 +2487,7 @@
                 <w reconstructed="0">גאים</w>
                 <w reconstructed="0">הפך</w>
                 <w reconstructed="0">א‍להים</w>
+                <stich />
                 <w reconstructed="0">וישב</w>
                 <w reconstructed="0">עניים</w>
                 <w reconstructed="0">תחתם׃</w>
@@ -2345,6 +2498,7 @@
                 <line n="4" folio="ena 2536–2 recto" />
                 <w reconstructed="0">טמ̈טם</w>
                 <w reconstructed="0">א‍להים</w>
+                <stich />
                 <w reconstructed="0">ושרשם</w>
                 <w reconstructed="0">עד</w>
                 <w reconstructed="0">ארץ</w>
@@ -2355,6 +2509,7 @@
                 <w reconstructed="0">מארץ</w>
                 <line n="5" folio="ena 2536–2 recto" />
                 <w reconstructed="0">ויתשם</w>
+                <stich />
                 <w reconstructed="0">וישבֹת</w>
                 <w reconstructed="0">מארץ</w>
                 <w reconstructed="0">זכרם׃</w>
@@ -2364,6 +2519,7 @@
                 <w reconstructed="0">נאוה</w>
                 <w reconstructed="0">לאנוש</w>
                 <w reconstructed="0">זדון</w>
+                <stich />
                 <w reconstructed="0">ועזות</w>
                 <line n="6" folio="ena 2536–2 recto" />
                 <w reconstructed="0">אף</w>
@@ -2376,6 +2532,7 @@
                 <w reconstructed="0">מה</w>
                 <w reconstructed="0">זרע</w>
                 <w reconstructed="0">לאנוש</w>
+                <stich />
                 <w reconstructed="0">זרע</w>
                 <w reconstructed="0">נקלה</w>
                 <line n="7" folio="ena 2536–2 recto" />
@@ -2387,9 +2544,11 @@
                 <w reconstructed="0">אחים</w>
                 <w reconstructed="0">ראשם</w>
                 <w reconstructed="0">נכבד</w>
+                <stich />
                 <w reconstructed="0">וירא</w>
                 <w reconstructed="0">א‍להים</w>
-                <w reconstructed="1">בע̇<g type='reconstructed'>י</g>נ̊<g type='reconstructed'>יו׃</g></w>
+                <w reconstructed="1">בע̇<g type='reconstructed'></g></w>
+                <w reconstructed="1"><g type='reconstructed'></g>נ̊<g type='reconstructed'></g></w>
             </div>
             <div type="verse" n="22">
                 <line n="8" folio="ena 2536–2 recto" />
@@ -2397,8 +2556,10 @@
                 <w reconstructed="0">וזר</w>
                 <w reconstructed="0">נכרי</w>
                 <w reconstructed="0">ורש</w>
+                <stich />
                 <w reconstructed="0">תפארתם</w>
-                <w reconstructed="1">י̊<g type='reconstructed'>ר</g>א̊ת</w>
+                <w reconstructed="1">י̊<g type='reconstructed'></g></w>
+                <w reconstructed="0">]א̊ת</w>
                 <w reconstructed="0">א‍להים</w>
             </div>
             <div type="verse" n="23">
@@ -2406,30 +2567,35 @@
                 <w reconstructed="0">לבזות</w>
                 <w reconstructed="0">ד̇ל̇</w>
                 <w reconstructed="0">מ̊ש̇כיל</w>
+                <stich />
                 <line n="9" folio="ena 2536–2 recto" />
                 <w reconstructed="0">ואין</w>
                 <w reconstructed="0">לכבד</w>
                 <w reconstructed="0">כ̊ל</w>
                 <w reconstructed="0">איש</w>
-                <w reconstructed="1"><g type='reconstructed'>ח</g>כ̊ם׃</w>
+                <w reconstructed="0">]כ̊ם׃</w>
             </div>
             <div type="verse" n="24">
-                <w reconstructed="1">ש̇<g type='reconstructed'>ר</g></w>
+                <w reconstructed="1">ש̇<g type='reconstructed'></g></w>
                 <w reconstructed="0">מושל</w>
                 <w reconstructed="0">ושופט</w>
                 <w reconstructed="0">נכב̇דו</w>
-                <w reconstructed="1">ו̇א̊<g type='reconstructed'>י</g>ן</w>
+                <stich />
+                <w reconstructed="1">ו̇א̊<g type='reconstructed'></g></w>
+                <w reconstructed="0">]ן</w>
                 <line n="10" folio="ena 2536–2 recto" />
                 <w reconstructed="0">גד̇ול</w>
-                <w reconstructed="1">מ̊<g type='reconstructed'>י</g>רא</w>
+                <w reconstructed="1">מ̊<g type='reconstructed'></g></w>
+                <w reconstructed="0">]רא</w>
                 <w reconstructed="0">א‍להים׃</w>
             </div>
             <div type="verse" n="25">
                 <w reconstructed="0">עבד</w>
                 <w reconstructed="0">משכיל</w>
                 <w reconstructed="0">הורם</w>
+                <stich />
                 <w reconstructed="1">ועבד̊<g type='reconstructed'></g></w>
-                <w reconstructed="1"><g type='reconstructed'>מ</g>ש̊<g type='reconstructed'>כיל</g></w>
+                <w reconstructed="1"><g type='reconstructed'></g>ש̊<g type='reconstructed'></g></w>
                 <w reconstructed="0">ל̊ﬡ</w>
                 <line n="11" folio="ena 2536–2 recto" />
                 <w reconstructed="0">יתאונן׃</w>
@@ -2439,9 +2605,10 @@
                 <w reconstructed="0">תתחכם</w>
                 <w reconstructed="0">לע̇ב̇ד</w>
                 <w reconstructed="0">חפ̇צך</w>
+                <stich />
                 <w reconstructed="0">וא‍ל</w>
-                <w reconstructed="1">ת̊ת̇כ<g type='reconstructed'>בד</g></w>
-                <w reconstructed="1"><g type='reconstructed'>ב</g>ע̊ת̊</w>
+                <w reconstructed="1">ת̊ת̇כ<g type='reconstructed'></g></w>
+                <w reconstructed="0">]ע̊ת̊</w>
                 <line n="12" folio="ena 2536–2 recto" />
                 <w reconstructed="0">צרכך׃</w>
             </div>
@@ -2450,8 +2617,9 @@
                 <w reconstructed="0">עובד</w>
                 <w reconstructed="0">ויותר</w>
                 <w reconstructed="0">הון</w>
+                <stich />
                 <w reconstructed="0">ממ̊ת̊כבד</w>
-                <w reconstructed="1"><g type='reconstructed'>ו</g>ח̊ס<g type='reconstructed'>ר</g></w>
+                <w reconstructed="1"><g type='reconstructed'></g>ח̊ס<g type='reconstructed'></g></w>
                 <w reconstructed="0">מתן׃</w>
             </div>
             <div type="verse" n="28">
@@ -2460,9 +2628,11 @@
                 <w reconstructed="0">בענוה</w>
                 <w reconstructed="0">כבד</w>
                 <w reconstructed="0">נפשך</w>
+                <stich />
                 <w reconstructed="0">ויתן</w>
                 <w reconstructed="0">לך</w>
-                <w reconstructed="1">ט<g type='reconstructed'>ע</g>ם̊</w>
+                <w reconstructed="1">ט<g type='reconstructed'></g></w>
+                <w reconstructed="0">]ם̊</w>
                 <w reconstructed="0">כ̇י̇ו̇צ̇א̇</w>
                 <w reconstructed="0">בﬣ׃</w>
             </div>
@@ -2472,6 +2642,7 @@
                 <w reconstructed="0">נפשו</w>
                 <w reconstructed="0">מי</w>
                 <w reconstructed="0">יצדיקנו</w>
+                <stich />
                 <w reconstructed="0">ומי</w>
                 <w reconstructed="0">יכבד</w>
                 <w reconstructed="0">מקלה</w>
@@ -2484,6 +2655,7 @@
                 <w reconstructed="0">נכבד</w>
                 <w reconstructed="0">בגלל</w>
                 <w reconstructed="0">שכלו</w>
+                <stich />
                 <w reconstructed="0">ויש</w>
                 <w reconstructed="0">נכבד</w>
                 <w reconstructed="0">בגלל</w>
@@ -2494,6 +2666,7 @@
                 <w reconstructed="0">נכבד</w>
                 <w reconstructed="0">בעשרו</w>
                 <w reconstructed="0">איככה</w>
+                <stich />
                 <w reconstructed="0">ונקלה</w>
                 <w reconstructed="0">בעיניו</w>
                 <w reconstructed="0">איככה׃</w>
@@ -2503,6 +2676,7 @@
                 <w reconstructed="0">בעשרו</w>
                 <w reconstructed="0">מתכבד</w>
                 <w reconstructed="0">יתר</w>
+                <stich />
                 <w reconstructed="0">והנקלה</w>
                 <w reconstructed="0">בע̇שרו</w>
                 <w reconstructed="0">ב{ל}דלותו</w>
@@ -2517,6 +2691,7 @@
                 <w reconstructed="0">דל</w>
                 <w reconstructed="0">תשא</w>
                 <w reconstructed="0">ראשו</w>
+                <stich />
                 <w reconstructed="0">ובין</w>
                 <w reconstructed="0">נדיבים</w>
                 <w reconstructed="0">תשיבנו׃</w>
@@ -2527,10 +2702,12 @@
                 <w reconstructed="0">תהלל</w>
                 <w reconstructed="0">אדם</w>
                 <w reconstructed="0">בתארו</w>
+                <stich />
                 <w reconstructed="0">ואל</w>
                 <w reconstructed="0">תתעב</w>
                 <w reconstructed="0">אדם</w>
-                <w reconstructed="1">מכ<g type='reconstructed'>וע</g>ר̊</w>
+                <w reconstructed="1">מכ<g type='reconstructed'></g></w>
+                <w reconstructed="0">]ר̊</w>
                 <w reconstructed="0">במראהו׃</w>
             </div>
             <div type="verse" n="3">
@@ -2538,17 +2715,19 @@
                 <w reconstructed="0">אליל</w>
                 <w reconstructed="0">בעוף</w>
                 <w reconstructed="0">דברה</w>
+                <stich />
                 <w reconstructed="0">וראש</w>
                 <w reconstructed="0">תנובות</w>
-                <w reconstructed="1">פריה<g type='reconstructed'>׃</g></w>
+                <w reconstructed="1">פריה<g type='reconstructed'></g></w>
             </div>
             <div type="verse" n="4">
                 <w reconstructed="0">ב̇עט̇ה</w>
-                <w reconstructed="1">א<g type='reconstructed'>ז</g></w>
+                <w reconstructed="1">א<g type='reconstructed'></g></w>
                 <w reconstructed="0">ר</w>
                 <w reconstructed="0">א‍ל</w>
                 <line n="21" folio="ena 2536–2 recto" />
                 <w reconstructed="0">תהת̇ל</w>
+                <stich />
                 <w reconstructed="0">וא‍ל</w>
                 <w reconstructed="0">תקלס</w>
                 <w reconstructed="0">במרירי</w>
@@ -2558,9 +2737,11 @@
                 <w reconstructed="0">מעשי</w>
                 <w reconstructed="0">י</w>
                 <w reconstructed="0">י</w>
+                <stich />
                 <w reconstructed="0">ונעלם</w>
                 <line n="22" folio="ena 2536–2 recto" />
-                <w reconstructed="1">מֵ<g type='reconstructed'>אָ</g>דָ̊ם̊</w>
+                <w reconstructed="1">מֵ<g type='reconstructed'></g></w>
+                <w reconstructed="0">ָ]דָ̊ם̊</w>
                 <w reconstructed="0">פעלו׃</w>
             </div>
             <div type="verse" n="5">
@@ -2569,6 +2750,7 @@
                 <w reconstructed="0">ישבו</w>
                 <w reconstructed="0">על</w>
                 <w reconstructed="0">כס̇א̇</w>
+                <stich />
                 <w reconstructed="0">ובל</w>
                 <w reconstructed="0">על</w>
                 <line n="23" folio="ena 2536–2 recto" />
@@ -2593,6 +2775,7 @@
                 <w reconstructed="0">בְטֶ֥רֶם</w>
                 <w reconstructed="0">תַ֭חְקר̊</w>
                 <w reconstructed="0">א‍ַל־תְסַלֵף</w>
+                <stich />
                 <w reconstructed="0">בַּקֵּﬧֽ</w>
                 <line n="25" folio="ena 2536–2 recto" />
                 <w reconstructed="0">לְ֜פָנִֹים</w>
@@ -2605,6 +2788,7 @@
                 <w reconstructed="0">דָ֭בָֿר</w>
                 <w reconstructed="0">טֶ֣רֶם</w>
                 <w reconstructed="0">תִשְמַ֑ע</w>
+                <stich />
                 <line n="26" folio="ena 2536–2 recto" />
                 <w reconstructed="0">וּבְתֽֿוֹךְ</w>
                 <w reconstructed="0">שִׂיחָׁה֝</w>
@@ -2615,6 +2799,7 @@
                 <w reconstructed="0">עצבה</w>
                 <w reconstructed="0">אל</w>
                 <w reconstructed="0">תאחר</w>
+                <stich />
                 <w reconstructed="0">וברב</w>
                 <w reconstructed="0">זדים</w>
                 <line n="27" folio="ena 2536–2 recto" />
@@ -2626,6 +2811,7 @@
                 <w reconstructed="0">למה</w>
                 <w reconstructed="0">תרבה</w>
                 <w reconstructed="0">ע֘שקך</w>
+                <stich />
                 <w reconstructed="0">ואץ</w>
                 <w reconstructed="0">ו̶להרבות</w>
                 <w reconstructed="0">לא</w>
@@ -2637,6 +2823,7 @@
                 <w reconstructed="0">תרוץ</w>
                 <w reconstructed="0">לא</w>
                 <w reconstructed="0">תגיע</w>
+                <stich />
                 <w reconstructed="0">ואם</w>
                 <w reconstructed="0">לא</w>
                 <w reconstructed="0">תבקש</w>
@@ -2644,11 +2831,12 @@
                 <w reconstructed="0">תמצא׃</w>
             </div>
             <div type="verse" n="11">
-                <line n="1" folio="ena 2536–2 verso" />
+                <line n="1" folio="ena 2536–2 recto" />
                 <w reconstructed="0">יש</w>
                 <w reconstructed="0">עמל</w>
                 <w reconstructed="0">ויגע</w>
                 <w reconstructed="0">ורץ</w>
+                <stich />
                 <w reconstructed="0">וכְֿדֵַֿי</w>
                 <w reconstructed="0">כן</w>
                 <w reconstructed="0">הוא</w>
@@ -2663,12 +2851,16 @@
                 <w reconstructed="0">חסר</w>
                 <w reconstructed="0">כל</w>
                 <w reconstructed="0">ויותר</w>
+                <w reconstructed="0">
+                    <blank orient='horizontal' span='2' />
+                </w>
                 <w reconstructed="0">ע̇ני׃</w>
                 <w reconstructed="0">ועין</w>
                 <w reconstructed="0">י</w>
                 <w reconstructed="0">י</w>
                 <w reconstructed="0">צפתהו</w>
                 <w reconstructed="0">לטוב</w>
+                <stich />
                 <w reconstructed="0">וינע̇ריהו</w>
                 <line n="3" folio="ena 2536–2 verso" />
                 <w reconstructed="0">מעפר</w>
@@ -2678,6 +2870,7 @@
                 <w reconstructed="0">נשא</w>
                 <w reconstructed="0">בראשו</w>
                 <w reconstructed="0">וירממהו</w>
+                <stich />
                 <w reconstructed="0">ויתמהו</w>
                 <w reconstructed="0">עליו</w>
                 <w reconstructed="0">רבים׃</w>
@@ -2688,6 +2881,7 @@
                 <w reconstructed="0">ורע</w>
                 <w reconstructed="0">חיים</w>
                 <w reconstructed="0">ומות</w>
+                <stich />
                 <w reconstructed="0">ריש</w>
                 <w reconstructed="0">ועושר</w>
                 <w reconstructed="0">מי</w>
@@ -2703,6 +2897,7 @@
                 <w reconstructed="0">מי</w>
                 <w reconstructed="0">י</w>
                 <w reconstructed="0">הוא׃</w>
+                <stich />
                 <w reconstructed="0">חטא</w>
                 <w reconstructed="0">ודרכ̇ים</w>
                 <w reconstructed="0">ישרים</w>
@@ -2716,6 +2911,7 @@
                 <w reconstructed="0">וחוש̊ך̊</w>
                 <w reconstructed="0">לפשעי̊ם</w>
                 <w reconstructed="0">נוצרה</w>
+                <stich />
                 <w reconstructed="0">ומרעים</w>
                 <w reconstructed="0">רעה</w>
                 <w reconstructed="0">עמם׃</w>
@@ -2724,78 +2920,85 @@
                 <w reconstructed="0">מנ̊ת̊</w>
                 <w reconstructed="0">צדיק</w>
                 <line n="7" folio="ena 2536–2 verso" />
-                <w reconstructed="1"><g type='reconstructed'>לע</g>ד̇</w>
-                <w reconstructed="1"><g type='reconstructed'>יע</g>מ̊ד̊</w>
+                <w reconstructed="0">]ד̇</w>
+                <w reconstructed="0">]מ̊ד̊</w>
+                <stich />
                 <w reconstructed="0">ורצנו</w>
                 <w reconstructed="0">יצלח</w>
                 <w reconstructed="0">לעד</w>
-                <w reconstructed="1">
-                    <g type='reconstructed'>׃</g>
-                </w>
             </div>
             <div type="verse" n="18">
-                <w reconstructed="1"><g type='reconstructed'>י</g>ש</w>
+                <w reconstructed="0">]ש</w>
                 <w reconstructed="0">מתעשֵר</w>
                 <w reconstructed="0">מהתענוﬨ</w>
                 <line n="8" folio="ena 2536–2 verso" />
-                <w reconstructed="1">ו̇יֵ̊<g type='reconstructed'>ש</g></w>
+                <w reconstructed="1">ו̇יֵ̊<g type='reconstructed'></g></w>
                 <w reconstructed="0">יְחֿי̊ב̊</w>
                 <w reconstructed="0">ש̇כרו׃</w>
             </div>
             <div type="verse" n="19">
                 <w reconstructed="0">ובעת̇</w>
-                <w reconstructed="1">א̊<g type='reconstructed'>מ</g>ר̊</w>
+                <w reconstructed="1">א̊<g type='reconstructed'></g></w>
+                <w reconstructed="0">]ר̊</w>
                 <w reconstructed="0">מצאתי</w>
                 <w reconstructed="0">נחת</w>
+                <stich />
                 <w reconstructed="0">ועתה</w>
                 <w reconstructed="0">אכ̊ל</w>
                 <line n="9" folio="ena 2536–2 verso" />
-                <w reconstructed="1"><g type='reconstructed'>מ</g>ט̊ו̊ב̊<g type='reconstructed'>ת</g>י̊׃</w>
+                <w reconstructed="1"><g type='reconstructed'></g>ט̊ו̊ב̊<g type='reconstructed'></g></w>
+                <w reconstructed="0">]י̊׃</w>
                 <w reconstructed="0">לא</w>
                 <w reconstructed="0">ידע</w>
                 <w reconstructed="0">מה</w>
-                <w reconstructed="1">ק̊<g type='reconstructed'>ץ</g></w>
-                <w reconstructed="1"><g type='reconstructed'>י</g>חלף̇</w>
-                <w reconstructed="1">וע<g type='reconstructed'>ז</g>ב̊ו̊</w>
+                <w reconstructed="1">ק̊<g type='reconstructed'></g></w>
+                <w reconstructed="0">]חלף̇</w>
+                <stich />
+                <w reconstructed="1">וע<g type='reconstructed'></g></w>
+                <w reconstructed="0">]ב̊ו̊</w>
                 <w reconstructed="0">ל̊א̊ח̊ר̊</w>
                 <w reconstructed="0">ומת</w>
             </div>
             <div type="verse" n="20">
                 <line n="10" folio="ena 2536–2 verso" />
-                <w reconstructed="1">בנ̊<g type='reconstructed'>י</g></w>
-                <w reconstructed="1"><g type='reconstructed'></g>ע̊<g type='reconstructed'>מ</g>ד̊</w>
+                <w reconstructed="1">בנ̊<g type='reconstructed'></g></w>
+                <w reconstructed="1"><g type='reconstructed'></g>ע̊<g type='reconstructed'></g></w>
+                <w reconstructed="0">]ד̊</w>
                 <w reconstructed="0">ב̇ח̇ו̇קך</w>
+                <stich />
                 <w reconstructed="0">ובו</w>
                 <w reconstructed="0">ה̊ת̊ר̊ע̊</w>
                 <w reconstructed="0">ובמ̊ל̊אכ̇ת̇ך</w>
-                <w reconstructed="1">התיש̊ן̊<g type='reconstructed'>׃</g></w>
+                <w reconstructed="1">התיש̊ן̊<g type='reconstructed'></g></w>
             </div>
             <div type="verse" n="21">
-                <w reconstructed="1"><g type='reconstructed'>א</g>ל</w>
-                <w reconstructed="1">ת̊<g type='reconstructed'>ת</g>מ̊ה̊</w>
+                <w reconstructed="0">]ל</w>
+                <w reconstructed="1">ת̊<g type='reconstructed'></g></w>
+                <w reconstructed="0">]מ̊ה̊</w>
                 <line n="11" folio="ena 2536–2 verso" />
-                <w reconstructed="1">במ̊<g type='reconstructed'>עשי</g></w>
-                <w reconstructed="1"><g type='reconstructed'>עו</g>ל̊</w>
-                <w reconstructed="1"><g type='reconstructed'>ד</g>ר̊ש̊</w>
+                <w reconstructed="1">במ̊<g type='reconstructed'></g></w>
+                <w reconstructed="0">]ל̊</w>
+                <stich />
+                <w reconstructed="0">]ר̊ש̊</w>
                 <w reconstructed="0">לי</w>
                 <w reconstructed="0">י</w>
                 <w reconstructed="0">וקוה</w>
-                <w reconstructed="1">לא<g type='reconstructed'>ו</g>רו׃</w>
+                <w reconstructed="1">לא<g type='reconstructed'></g></w>
+                <w reconstructed="0">]רו׃</w>
                 <w reconstructed="0">כי</w>
                 <w reconstructed="0">נכח</w>
-                <w reconstructed="1">ב<g type='reconstructed'>פ</g>ת̊ע</w>
+                <w reconstructed="1">ב<g type='reconstructed'></g></w>
+                <w reconstructed="0">]ת̊ע</w>
                 <w reconstructed="0">פתאﬦ̊</w>
                 <line n="12" folio="ena 2536–2 verso" />
-                <w reconstructed="1">ל̇ה̊̊ש̊ב̊<g type='reconstructed'>יע</g></w>
-                <w reconstructed="1">
-                    <g type='reconstructed'>רש׃</g>
-                </w>
+                <w reconstructed="1">ל̇ה̊̊ש̊ב̊<g type='reconstructed'></g></w>
             </div>
             <div type="verse" n="22">
                 <w reconstructed="0">ברכ̇ת</w>
                 <w reconstructed="0">א‍ל</w>
                 <w reconstructed="0">ב̊גרל</w>
                 <w reconstructed="0">צדיק</w>
+                <stich />
                 <w reconstructed="0">ובעת̇</w>
                 <w reconstructed="0">תקותו</w>
                 <w reconstructed="0">תפר̊ח̊׃</w>
@@ -2805,12 +3008,10 @@
                 <w reconstructed="0">א‍ל</w>
                 <w reconstructed="0">תאמר̇</w>
                 <w reconstructed="1">מ̊ה̊<g type='reconstructed'></g></w>
-                <w reconstructed="1">
-                    <g type='reconstructed'>לי</g>
-                </w>
                 <w reconstructed="0">כי</w>
                 <w reconstructed="0">ע̇ש̇י̊ת̇י</w>
                 <w reconstructed="0">חפ̇צ̊י̊</w>
+                <stich />
                 <w reconstructed="0">ומה</w>
                 <w reconstructed="0">עתה</w>
                 <w reconstructed="0">יעזב</w>
@@ -2822,8 +3023,10 @@
                 <line n="14" folio="ena 2536–2 verso" />
                 <w reconstructed="0">דיי</w>
                 <w reconstructed="0">ע̇מ̇י̇̇</w>
+                <stich />
                 <w reconstructed="0">מ̊ה̊</w>
-                <w reconstructed="1">ד̇א̇<g type='reconstructed'>ג</g>ה</w>
+                <w reconstructed="1">ד̇א̇<g type='reconstructed'></g></w>
+                <w reconstructed="0">]ה</w>
                 <w reconstructed="0">יהי</w>
                 <w reconstructed="0">עלי</w>
             </div>
@@ -2833,6 +3036,7 @@
                 <w reconstructed="0">תְשַׁכַּח</w>
                 <w reconstructed="0">רע</w>
                 <w reconstructed="0">ה̊</w>
+                <stich />
                 <w reconstructed="0">ורעת</w>
                 <line n="15" folio="ena 2536–2 verso" />
                 <w reconstructed="0">ע̊ת̊</w>
@@ -2850,6 +3054,7 @@
                 <line n="16" folio="ena 2536–2 verso" />
                 <w reconstructed="0">תשכח</w>
                 <w reconstructed="0">תענוג</w>
+                <stich />
                 <w reconstructed="0">וסוף</w>
                 <w reconstructed="0">אדם</w>
                 <w reconstructed="0">י̇גיד</w>
@@ -2861,10 +3066,9 @@
                 <w reconstructed="0">אדﬦ</w>
                 <line n="17" folio="ena 2536–2 verso" />
                 <w reconstructed="0">א‍ל</w>
-                <w reconstructed="1">תאש<g type='reconstructed'>רה</g>ו̊</w>
-                <w reconstructed="1">
-                    <g type='reconstructed'>כי</g>
-                </w>
+                <w reconstructed="1">תאש<g type='reconstructed'></g></w>
+                <w reconstructed="0">]ו̊</w>
+                <stich />
                 <w reconstructed="0">ב̊א̇ח̊ר̊י̊ת̊ו̇</w>
                 <w reconstructed="0">יאושר</w>
                 <w reconstructed="0">אדם׃</w>
@@ -2874,6 +3078,7 @@
                 <w reconstructed="0">תאשר</w>
                 <line n="18" folio="ena 2536–2 verso" />
                 <w reconstructed="0">גבר</w>
+                <stich />
                 <w reconstructed="0">ובאחריתו</w>
                 <w reconstructed="0">ינכר</w>
                 <w reconstructed="0">אי̊ש̇</w>
@@ -2894,6 +3099,7 @@
                 <w reconstructed="0">כ̊כ̇ל̇ו̊ב̇</w>
                 <w reconstructed="0">מ̊לא</w>
                 <w reconstructed="0">ע̊ו̊ף̇</w>
+                <stich />
                 <w reconstructed="0">כן</w>
                 <w reconstructed="0">בתיהﬦ</w>
                 <line n="20" folio="ena 2536–2 verso" />
@@ -2906,6 +3112,7 @@
                 <w reconstructed="0">בכלו̊ב̊</w>
                 <w reconstructed="0">לב</w>
                 <w reconstructed="0">גאה̇</w>
+                <stich />
                 <w reconstructed="0">כ̊זאב</w>
                 <line n="21" folio="ena 2536–2 verso" />
                 <w reconstructed="0">אֹרֵב</w>
@@ -2914,6 +3121,7 @@
                 <w reconstructed="0">רבו</w>
                 <w reconstructed="0">פשעי</w>
                 <w reconstructed="0">בוצע</w>
+                <stich />
                 <w reconstructed="0">ככלב</w>
                 <w reconstructed="0">הוא</w>
                 <w reconstructed="0">בא̇ו̇כל</w>
@@ -2923,26 +3131,30 @@
                 <w reconstructed="0">כן</w>
                 <w reconstructed="0">בוצע</w>
                 <w reconstructed="0">בא</w>
+                <stich />
                 <w reconstructed="0">ומשים</w>
                 <w reconstructed="0">ריב</w>
                 <w reconstructed="0">לכל</w>
-                <w reconstructed="1">ט̊<g type='reconstructed'>ו</g>ב̊תם׃</w>
+                <w reconstructed="1">ט̊<g type='reconstructed'></g></w>
+                <w reconstructed="0">]ב̊תם׃</w>
                 <line n="23" folio="ena 2536–2 verso" />
                 <w reconstructed="0">א̊ורב</w>
                 <w reconstructed="0">הרוכל</w>
                 <w reconstructed="0">כדוב</w>
                 <w reconstructed="0">לבי̇ת</w>
                 <w reconstructed="0">לצים</w>
+                <stich />
                 <w reconstructed="0">וכמרגל</w>
                 <w reconstructed="0">יראה</w>
                 <w reconstructed="0">ער̊וﬣ׃</w>
             </div>
             <div type="verse" n="31">
-                <line n="24" folio="ena 2536–2 verso" />
+                <line n="24‏" folio="ena 2536–2 verso" />
                 <w reconstructed="0">טוב</w>
                 <w reconstructed="0">לרע</w>
                 <w reconstructed="0">יהפך</w>
                 <w reconstructed="0">נ̊ר̊גן</w>
+                <stich />
                 <w reconstructed="0">ובמחמדיך</w>
                 <w reconstructed="0">יתן</w>
                 <w reconstructed="0">קשר׃</w>
@@ -2952,6 +3164,7 @@
                 <line n="25" folio="ena 2536–2 verso" />
                 <w reconstructed="0">ירבה</w>
                 <w reconstructed="0">גחלת</w>
+                <stich />
                 <w reconstructed="0">ואיש</w>
                 <w reconstructed="0">בליעל</w>
                 <w reconstructed="0">לדם</w>
@@ -2964,6 +3177,7 @@
                 <w reconstructed="0">רע</w>
                 <line n="26" folio="ena 2536–2 verso" />
                 <w reconstructed="0">יוליד</w>
+                <stich />
                 <w reconstructed="0">למה</w>
                 <w reconstructed="0">מום</w>
                 <w reconstructed="0">עולם</w>
@@ -2976,6 +3190,7 @@
                 <w reconstructed="0">ויסלף</w>
                 <line n="27" folio="ena 2536–2 verso" />
                 <w reconstructed="0">דרכך</w>
+                <stich />
                 <w reconstructed="0">ויהפכך</w>
                 <w reconstructed="0">מבריתיך׃</w>
             </div>
@@ -2987,6 +3202,7 @@
                 <w reconstructed="0">תריע</w>
                 <w reconstructed="0">למי</w>
                 <w reconstructed="0">תטיב</w>
+                <stich />
                 <line n="28" folio="ena 2536–2 verso" />
                 <w reconstructed="0">ויהי</w>
                 <w reconstructed="0">תקוה</w>
@@ -2999,7 +3215,7 @@
                 <w reconstructed="0">זָרִיו</w>
                 <w reconstructed="0">זָהִיר</w>
                 <w reconstructed="0">דרכיך</w>
-                <line n="1" folio="t-s 12.864 recto" />
+                <line n="1" folio="ena 2536–2 verso" />
                 <w reconstructed="0">וינכר</w>
                 <w reconstructed="0">ך</w>
                 <w reconstructed="0">במחמדיך</w>
@@ -3009,6 +3225,7 @@
                 <w reconstructed="0">לצדיק</w>
                 <w reconstructed="0">ומצא</w>
                 <w reconstructed="0">תשלומת</w>
+                <stich />
                 <w reconstructed="0">אם</w>
                 <line n="2" folio="t-s 12.864 recto" />
                 <w reconstructed="0">לא</w>
@@ -3021,6 +3238,7 @@
                 <w reconstructed="0">טובה</w>
                 <w reconstructed="0">למניח</w>
                 <w reconstructed="0">רשע</w>
+                <stich />
                 <w reconstructed="0">וגם</w>
                 <w reconstructed="0">צדקה</w>
                 <w reconstructed="0">לא</w>
@@ -3034,6 +3252,7 @@
                 <w reconstructed="0">תשיג</w>
                 <w reconstructed="0">בעת</w>
                 <w reconstructed="0">צורך</w>
+                <stich />
                 <w reconstructed="0">בכל</w>
                 <w reconstructed="0">טובה</w>
                 <w reconstructed="0">תגיע</w>
@@ -3046,6 +3265,7 @@
                 <w reconstructed="0">א‍ל</w>
                 <w reconstructed="0">תתּן</w>
                 <w reconstructed="0">לו</w>
+                <stich />
                 <w reconstructed="0">למה</w>
                 <w reconstructed="0">בם</w>
                 <w reconstructed="0">יקביל</w>
@@ -3058,6 +3278,7 @@
                 <line n="5" folio="t-s 12.864 recto" />
                 <w reconstructed="0">שונא</w>
                 <w reconstructed="0">רָעים</w>
+                <stich />
                 <w reconstructed="0">ולרשעים</w>
                 <w reconstructed="0">ישיב</w>
                 <w reconstructed="0">נקם׃</w>
@@ -3067,6 +3288,7 @@
                 <w reconstructed="0">לטוב</w>
                 <w reconstructed="0">ומנע</w>
                 <w reconstructed="0">מרע</w>
+                <stich />
                 <line n="6" folio="t-s 12.864 recto" />
                 <w reconstructed="0">הקיר</w>
                 <w reconstructed="0">מך</w>
@@ -3079,6 +3301,7 @@
                 <w reconstructed="0">יודע</w>
                 <w reconstructed="0">בטובה</w>
                 <w reconstructed="0">אוהב</w>
+                <stich />
                 <w reconstructed="0">ולא</w>
                 <line n="7" folio="t-s 12.864 recto" />
                 <w reconstructed="0">יכוסה</w>
@@ -3091,6 +3314,7 @@
                 <w reconstructed="0">גם</w>
                 <w reconstructed="0">שונא</w>
                 <w reconstructed="0">ריע</w>
+                <stich />
                 <w reconstructed="0">וברעתו</w>
                 <line n="8" folio="t-s 12.864 recto" />
                 <w reconstructed="0">גם</w>
@@ -3102,6 +3326,7 @@
                 <w reconstructed="0">תאמין</w>
                 <w reconstructed="0">בשונא</w>
                 <w reconstructed="0">לעד</w>
+                <stich />
                 <w reconstructed="0">כי</w>
                 <w reconstructed="0">כנחשת</w>
                 <w reconstructed="0">רועו</w>
@@ -3115,6 +3340,7 @@
                 <w reconstructed="0">לך</w>
                 <w reconstructed="0">ויהלך</w>
                 <w reconstructed="0">בנחת׃</w>
+                <stich />
                 <w reconstructed="0">תן</w>
                 <w reconstructed="0">לבך</w>
                 <w reconstructed="0">להתירא</w>
@@ -3124,6 +3350,7 @@
                 <w reconstructed="0">לו</w>
                 <w reconstructed="0">כמגלה</w>
                 <w reconstructed="0">רז׃</w>
+                <stich />
                 <w reconstructed="0">ולא</w>
                 <w reconstructed="0">ימצא</w>
                 <w reconstructed="0">להשחיתך</w>
@@ -3136,6 +3363,7 @@
                 <w reconstructed="0">א‍ל</w>
                 <w reconstructed="0">תעמידהו</w>
                 <w reconstructed="0">אצלך</w>
+                <stich />
                 <w reconstructed="0">למה</w>
                 <w reconstructed="0">יהדפך</w>
                 <w reconstructed="0">ויעמד</w>
@@ -3144,6 +3372,7 @@
                 <w reconstructed="0">א‍ל</w>
                 <w reconstructed="0">תושיבהו</w>
                 <w reconstructed="0">לימינך</w>
+                <stich />
                 <w reconstructed="0">למה</w>
                 <w reconstructed="0">יבקש</w>
                 <w reconstructed="0">מושבך׃</w>
@@ -3151,6 +3380,7 @@
                 <w reconstructed="0">תשיג</w>
                 <line n="13" folio="t-s 12.864 recto" />
                 <w reconstructed="0">אמרי</w>
+                <stich />
                 <w reconstructed="0">ולאנחתי</w>
                 <w reconstructed="0">תתאנח׃</w>
             </div>
@@ -3159,6 +3389,7 @@
                 <w reconstructed="0">יוחן</w>
                 <w reconstructed="0">חובר</w>
                 <w reconstructed="0">נשוך</w>
+                <stich />
                 <w reconstructed="0">וכל</w>
                 <line n="14" folio="t-s 12.864 recto" />
                 <w reconstructed="0">הקרב</w>
@@ -3173,6 +3404,7 @@
                 <w reconstructed="0">א‍ל</w>
                 <w reconstructed="0">אשת</w>
                 <w reconstructed="0">זדון</w>
+                <stich />
                 <w reconstructed="0">ומתגלﬥ</w>
                 <line n="15" folio="t-s 12.864 recto" />
                 <w reconstructed="0">בעונתיו</w>
@@ -3191,6 +3423,7 @@
                 <w reconstructed="0">לא</w>
                 <w reconstructed="0">יתגלה</w>
                 <w reconstructed="0">לך</w>
+                <stich />
                 <w reconstructed="0">ואם</w>
                 <w reconstructed="0">תפול</w>
                 <w reconstructed="0">לא</w>
@@ -3202,6 +3435,7 @@
                 <w reconstructed="0">עמד</w>
                 <w reconstructed="0">לא</w>
                 <w reconstructed="0">יופיע</w>
+                <stich />
                 <w reconstructed="0">ואם</w>
                 <w reconstructed="0">נמוט</w>
                 <w reconstructed="0">לא</w>
@@ -3212,6 +3446,7 @@
                 <w reconstructed="0">יתמהמה</w>
                 <line n="18" folio="t-s 12.864 recto" />
                 <w reconstructed="0">צר</w>
+                <stich />
                 <w reconstructed="0">ובלבו</w>
                 <w reconstructed="0">יחשוב</w>
                 <w reconstructed="0">מהמרות</w>
@@ -3222,6 +3457,7 @@
                 <line n="19" folio="t-s 12.864 recto" />
                 <w reconstructed="0">ידמיע</w>
                 <w reconstructed="0">אויב</w>
+                <stich />
                 <w reconstructed="0">אם</w>
                 <w reconstructed="0">מצא</w>
                 <w reconstructed="0">עת</w>
@@ -3236,6 +3472,7 @@
                 <w reconstructed="0">קראך</w>
                 <w reconstructed="0">נמצא</w>
                 <w reconstructed="0">שם</w>
+                <stich />
                 <w reconstructed="0">כאיש</w>
                 <w reconstructed="0">סומך</w>
                 <w reconstructed="0">יתפש</w>
@@ -3247,6 +3484,7 @@
                 <w reconstructed="0">יניע</w>
                 <w reconstructed="0">והניף</w>
                 <w reconstructed="0">ידו</w>
+                <stich />
                 <w reconstructed="0">ולרוב</w>
                 <w reconstructed="0">הלחש</w>
                 <w reconstructed="0">ישנא</w>
@@ -3260,6 +3498,7 @@
                 <line n="22" folio="t-s 12.864 recto" />
                 <w reconstructed="0">תדבק</w>
                 <w reconstructed="0">ידו</w>
+                <stich />
                 <w reconstructed="0">וחובר</w>
                 <w reconstructed="0">א‍ל</w>
                 <w reconstructed="0">לץ</w>
@@ -3271,6 +3510,7 @@
                 <w reconstructed="0">כבד</w>
                 <w reconstructed="0">ממך</w>
                 <w reconstructed="0">תשא</w>
+                <stich />
                 <w reconstructed="0">וא‍ל</w>
                 <w reconstructed="0">עשיר</w>
                 <w reconstructed="0">ממך</w>
@@ -3283,6 +3523,7 @@
                 <w reconstructed="0">פרור</w>
                 <w reconstructed="0">א‍ֶל</w>
                 <w reconstructed="0">סיר</w>
+                <stich />
                 <w reconstructed="0">אשר</w>
                 <w reconstructed="0">הוא</w>
                 <w reconstructed="0">נוקש</w>
@@ -3303,6 +3544,7 @@
                 <w reconstructed="0">יענה</w>
                 <w reconstructed="0">הוא</w>
                 <w reconstructed="0">יתנוה</w>
+                <stich />
                 <line n="26" folio="t-s 12.864 recto" />
                 <w reconstructed="0">ועל</w>
                 <w reconstructed="0">דל</w>
@@ -3316,6 +3558,7 @@
                 <w reconstructed="0">לו</w>
                 <w reconstructed="0">יעבד</w>
                 <w reconstructed="0">בך</w>
+                <stich />
                 <w reconstructed="0">ואם</w>
                 <line n="27" folio="t-s 12.864 recto" />
                 <w reconstructed="0">תכרע</w>
@@ -3328,6 +3571,7 @@
                 <w reconstructed="0">ייטיב</w>
                 <w reconstructed="0">דבריו</w>
                 <w reconstructed="0">עמך</w>
+                <stich />
                 <w reconstructed="0">וירששך</w>
                 <line n="28" folio="t-s 12.864 recto" />
                 <w reconstructed="0">ולא</w>
@@ -3340,12 +3584,13 @@
                 <w reconstructed="0">עמך</w>
                 <w reconstructed="0">והשיע</w>
                 <w reconstructed="0">לך</w>
+                <stich />
                 <w reconstructed="0">ושוחק</w>
                 <w reconstructed="0">לך</w>
                 <w reconstructed="0">והבטיחך׃</w>
             </div>
             <div type="verse" n="7">
-                <line n="1" folio="t-s 12.864 verso" />
+                <line n="1" folio="t-s 12.864 recto" />
                 <w reconstructed="0">עד</w>
                 <w reconstructed="0">אשר</w>
                 <w reconstructed="0">יועיל</w>
@@ -3359,6 +3604,7 @@
                 <line n="2" folio="t-s 12.864 verso" />
                 <w reconstructed="0">והתעבר</w>
                 <w reconstructed="0">בך</w>
+                <stich />
                 <w reconstructed="0">ובראשו</w>
                 <w reconstructed="0">יניע</w>
                 <w reconstructed="0">א‍ליך׃</w>
@@ -3379,6 +3625,7 @@
                 <w reconstructed="0">נדיב</w>
                 <w reconstructed="0">היה</w>
                 <w reconstructed="0">רחוק</w>
+                <stich />
                 <w reconstructed="0">וכדי</w>
                 <w reconstructed="0">כן</w>
                 <line n="4" folio="t-s 12.864 verso" />
@@ -3389,6 +3636,7 @@
                 <w reconstructed="0">תתקרב</w>
                 <w reconstructed="0">פן</w>
                 <w reconstructed="0">תתרחק</w>
+                <stich />
                 <w reconstructed="0">וא‍ל</w>
                 <w reconstructed="0">תתרחק</w>
                 <w reconstructed="0">פן</w>
@@ -3400,6 +3648,7 @@
                 <w reconstructed="0">תבטח</w>
                 <w reconstructed="0">לחפש</w>
                 <w reconstructed="0">עמו</w>
+                <stich />
                 <w reconstructed="0">וא‍ל</w>
                 <w reconstructed="0">תאמן</w>
                 <w reconstructed="0">לרֹב</w>
@@ -3410,6 +3659,7 @@
                 <w reconstructed="0">שיחו</w>
                 <line n="6" folio="t-s 12.864 verso" />
                 <w reconstructed="0">נסיון</w>
+                <stich />
                 <w reconstructed="0">ושחק</w>
                 <w reconstructed="0">לך</w>
                 <w reconstructed="0">וחקרך׃</w>
@@ -3420,6 +3670,7 @@
                 <w reconstructed="0">מושל</w>
                 <w reconstructed="0">ולא</w>
                 <w reconstructed="0">יחמל</w>
+                <stich />
                 <w reconstructed="0">על</w>
                 <line n="7" folio="t-s 12.864 verso" />
                 <w reconstructed="0">נפש</w>
@@ -3431,6 +3682,7 @@
                 <w reconstructed="0">השמר</w>
                 <w reconstructed="0">והיה</w>
                 <w reconstructed="0">זהיר</w>
+                <stich />
                 <w reconstructed="0">וא‍ל</w>
                 <w reconstructed="0">תהלך</w>
                 <line n="8" folio="t-s 12.864 verso" />
@@ -3443,6 +3695,7 @@
                 <w reconstructed="0">הבשר</w>
                 <w reconstructed="0">יאהב</w>
                 <w reconstructed="0">מינו</w>
+                <stich />
                 <w reconstructed="0">וכל</w>
                 <w reconstructed="0">אדם</w>
                 <w reconstructed="0">את</w>
@@ -3455,6 +3708,7 @@
                 <w reconstructed="0">כל</w>
                 <w reconstructed="0">בשר</w>
                 <w reconstructed="0">אצלו</w>
+                <stich />
                 <w reconstructed="0">וא‍ל</w>
                 <w reconstructed="0">מינו</w>
                 <w reconstructed="0">יחובר</w>
@@ -3467,6 +3721,7 @@
                 <w reconstructed="0">זאב</w>
                 <w reconstructed="0">א‍ל</w>
                 <w reconstructed="0">כבש</w>
+                <stich />
                 <w reconstructed="0">כך</w>
                 <w reconstructed="0">רשע</w>
                 <w reconstructed="0">לצדיק</w>
@@ -3483,6 +3738,7 @@
                 <w reconstructed="0">צבוע׃</w>
                 <w reconstructed="0">א‍ל</w>
                 <w reconstructed="0">כלב</w>
+                <stich />
                 <w reconstructed="0">מאין</w>
                 <w reconstructed="0">שלום</w>
                 <w reconstructed="0">עשיר</w>
@@ -3495,6 +3751,7 @@
                 <w reconstructed="0">ארי</w>
                 <w reconstructed="0">פראי</w>
                 <w reconstructed="0">מדבר</w>
+                <stich />
                 <w reconstructed="0">כן</w>
                 <w reconstructed="0">מרעית</w>
                 <w reconstructed="0">עשיר</w>
@@ -3505,6 +3762,7 @@
                 <line n="13" folio="t-s 12.864 verso" />
                 <w reconstructed="0">גאוה</w>
                 <w reconstructed="0">ענוה</w>
+                <stich />
                 <w reconstructed="0">ותועבת</w>
                 <w reconstructed="0">עשיר</w>
                 <w reconstructed="0">אביון׃</w>
@@ -3515,6 +3773,7 @@
                 <w reconstructed="0">בסמך</w>
                 <line n="14" folio="t-s 12.864 verso" />
                 <w reconstructed="0">מרע</w>
+                <stich />
                 <w reconstructed="0">ודל</w>
                 <w reconstructed="0">נמוט</w>
                 <w reconstructed="0">נדחה</w>
@@ -3528,6 +3787,7 @@
                 <w reconstructed="0">ועזריו</w>
                 <line n="15" folio="t-s 12.864 verso" />
                 <w reconstructed="0">רבים</w>
+                <stich />
                 <w reconstructed="0">ודבריו</w>
                 <w reconstructed="0">מכוערין</w>
                 <w reconstructed="0">מ</w>
@@ -3537,6 +3797,7 @@
                 <w reconstructed="0">גע</w>
                 <w reconstructed="0">גע</w>
                 <w reconstructed="0">ושא</w>
+                <stich />
                 <w reconstructed="0">ודבר</w>
                 <line n="16" folio="t-s 12.864 verso" />
                 <w reconstructed="0">משכיל</w>
@@ -3549,6 +3810,7 @@
                 <w reconstructed="0">דובר</w>
                 <w reconstructed="0">הכל</w>
                 <w reconstructed="0">נסכתו</w>
+                <stich />
                 <w reconstructed="0">וﬡת</w>
                 <line n="17" folio="t-s 12.864 verso" />
                 <w reconstructed="0">שכלו</w>
@@ -3560,6 +3822,7 @@
                 <w reconstructed="0">מי</w>
                 <w reconstructed="0">זה</w>
                 <w reconstructed="0">יאמרו</w>
+                <stich />
                 <w reconstructed="0">ואם</w>
                 <w reconstructed="0">נתקל</w>
                 <line n="18" folio="t-s 12.864 verso" />
@@ -3573,6 +3836,7 @@
                 <w reconstructed="0">אם</w>
                 <w reconstructed="0">אין</w>
                 <w reconstructed="0">עון</w>
+                <stich />
                 <w reconstructed="0">ורע</w>
                 <w reconstructed="0">העוני</w>
                 <w reconstructed="0">על</w>
@@ -3585,6 +3849,7 @@
                 <w reconstructed="0">אנוש</w>
                 <w reconstructed="0">ישנא</w>
                 <w reconstructed="0">פניו</w>
+                <stich />
                 <w reconstructed="0">אם</w>
                 <w reconstructed="0">לטוב</w>
                 <w reconstructed="0">ואם</w>
@@ -3597,6 +3862,7 @@
                 <w reconstructed="0">טוב</w>
                 <w reconstructed="0">פנים</w>
                 <w reconstructed="0">אורים</w>
+                <stich />
                 <w reconstructed="0">ושיג</w>
                 <w reconstructed="0">ושיח</w>
                 <w reconstructed="0">מחשבת</w>
@@ -3611,6 +3877,7 @@
                 <w reconstructed="0">לא</w>
                 <w reconstructed="0">עצבו</w>
                 <w reconstructed="0">פיהו</w>
+                <stich />
                 <w reconstructed="0">ולא</w>
                 <w reconstructed="0">אבה</w>
                 <w reconstructed="0">עליו</w>
@@ -3624,6 +3891,7 @@
                 <w reconstructed="0">לא</w>
                 <w reconstructed="0">חסרתו</w>
                 <w reconstructed="0">נפשו</w>
+                <stich />
                 <w reconstructed="0">ולא</w>
                 <w reconstructed="0">שבתה</w>
                 <w reconstructed="0">תוחלתו׃</w>
@@ -3635,6 +3903,7 @@
                 <line n="23" folio="t-s 12.864 verso" />
                 <w reconstructed="0">נאוה</w>
                 <w reconstructed="0">עושר</w>
+                <stich />
                 <w reconstructed="0">ולאיש</w>
                 <w reconstructed="0">רע</w>
                 <w reconstructed="0">עין</w>
@@ -3648,6 +3917,7 @@
                 <line n="24" folio="t-s 12.864 verso" />
                 <w reconstructed="0">יקבץ</w>
                 <w reconstructed="0">לאחר</w>
+                <stich />
                 <w reconstructed="0">ובטובתו</w>
                 <w reconstructed="0">יתבעבע</w>
                 <w reconstructed="0">זר׃</w>
@@ -3657,6 +3927,7 @@
                 <w reconstructed="0">לנפשו</w>
                 <w reconstructed="0">למי</w>
                 <w reconstructed="0">ייטיב</w>
+                <stich />
                 <line n="25" folio="t-s 12.864 verso" />
                 <w reconstructed="0">ולא</w>
                 <w reconstructed="0">יקרה</w>
@@ -3668,6 +3939,7 @@
                 <w reconstructed="0">אין</w>
                 <w reconstructed="0">רע</w>
                 <w reconstructed="0">ממנו</w>
+                <stich />
                 <w reconstructed="0">ועמו</w>
                 <w reconstructed="0">תשלומת</w>
                 <line n="26" folio="t-s 12.864 verso" />
@@ -3679,6 +3951,7 @@
                 <w reconstructed="0">מְעַט</w>
                 <w reconstructed="0">הוּ</w>
                 <w reconstructed="0">חלקו</w>
+                <stich />
                 <w reconstructed="0">ולוקח</w>
                 <w reconstructed="0">חלק</w>
                 <w reconstructed="0">רעהו</w>
@@ -3693,6 +3966,7 @@
                 <w reconstructed="0">תעיט</w>
                 <w reconstructed="0">על</w>
                 <w reconstructed="0">לחם</w>
+                <stich />
                 <w reconstructed="0">ומהומה</w>
                 <w reconstructed="0">על</w>
                 <w reconstructed="0">שלחנו׃</w>
@@ -3701,6 +3975,7 @@
                 <w reconstructed="0">טובה</w>
                 <w reconstructed="0">מרבה</w>
                 <w reconstructed="0">הלחם</w>
+                <stich />
                 <w reconstructed="0">ומעין</w>
                 <w reconstructed="0">יבש</w>
                 <w reconstructed="0">יזל</w>
@@ -3716,13 +3991,14 @@
                 <w reconstructed="0">לך</w>
                 <w reconstructed="0">שָרֵותֿ</w>
                 <w reconstructed="0">נפשך</w>
+                <stich />
                 <w reconstructed="0">ואם</w>
                 <w reconstructed="0">יש</w>
                 <w reconstructed="0">לך</w>
                 <w reconstructed="0">היטיב</w>
                 <w reconstructed="0">לך</w>
                 <w reconstructed="0">ולא‍ל</w>
-                <line n="1" folio="t-s 12.863 recto" />
+                <line n="1" folio="t-s 12.864 verso" />
                 <w reconstructed="0">ידך</w>
                 <w reconstructed="0">הדשן׃</w>
             </div>
@@ -3732,6 +4008,7 @@
                 <w reconstructed="0">לא</w>
                 <w reconstructed="0">בשאול</w>
                 <w reconstructed="0">תענוג</w>
+                <stich />
                 <w reconstructed="0">ולא</w>
                 <w reconstructed="0">מות</w>
                 <w reconstructed="0">יתמהמה׃</w>
@@ -3758,6 +4035,7 @@
                 <w reconstructed="0">תמנע</w>
                 <w reconstructed="0">מטובת</w>
                 <w reconstructed="0">יום</w>
+                <stich />
                 <w reconstructed="0">ובה</w>
                 <w reconstructed="0">לקח</w>
                 <w reconstructed="0">אח</w>
@@ -3774,6 +4052,7 @@
                 <w reconstructed="0">לאחר</w>
                 <w reconstructed="0">תעזב</w>
                 <w reconstructed="0">חילך</w>
+                <stich />
                 <line n="5" folio="t-s 12.863 recto" />
                 <w reconstructed="0">ויגיעך</w>
                 <w reconstructed="0">ליודי</w>
@@ -3785,6 +4064,7 @@
                 <w reconstructed="0">ותֶֿין</w>
                 <w reconstructed="0">ופני̇ק̇</w>
                 <w reconstructed="0">נפשך</w>
+                <stich />
                 <w reconstructed="0">כי</w>
                 <w reconstructed="0">אין</w>
                 <w reconstructed="0">בשאול</w>
@@ -3795,6 +4075,7 @@
                 <w reconstructed="0">דבר</w>
                 <w reconstructed="0">שיפה׃</w>
                 <w reconstructed="0">לעשות</w>
+                <stich />
                 <w reconstructed="0">א‍להים</w>
                 <w reconstructed="0">עשה</w>
             </div>
@@ -3804,6 +4085,7 @@
                 <line n="7" folio="t-s 12.863 recto" />
                 <w reconstructed="0">כבגד</w>
                 <w reconstructed="0">יבלה</w>
+                <stich />
                 <w reconstructed="0">וחוק</w>
                 <w reconstructed="0">עולם</w>
                 <w reconstructed="0">גוע</w>
@@ -3815,6 +4097,7 @@
                 <w reconstructed="0">על</w>
                 <w reconstructed="0">עץ</w>
                 <w reconstructed="0">רענן</w>
+                <stich />
                 <line n="8" folio="t-s 12.863 recto" />
                 <w reconstructed="0">שזה</w>
                 <w reconstructed="0">נובל</w>
@@ -3830,6 +4113,7 @@
                 <w reconstructed="0">מעשיו</w>
                 <w reconstructed="0">רקוב</w>
                 <w reconstructed="0">ירקבו</w>
+                <stich />
                 <w reconstructed="0">ופעל</w>
                 <w reconstructed="0">יﬢיו</w>
                 <line n="9" folio="t-s 12.863 recto" />
@@ -3841,6 +4125,7 @@
                 <w reconstructed="0">אנוש</w>
                 <w reconstructed="0">בחכמה</w>
                 <w reconstructed="0">יהגה</w>
+                <stich />
                 <w reconstructed="0">ובתבונה</w>
                 <w reconstructed="0">ישעה׃</w>
             </div>
@@ -3850,6 +4135,7 @@
                 <w reconstructed="0">על</w>
                 <w reconstructed="0">דרכיה</w>
                 <w reconstructed="0">לבו</w>
+                <stich />
                 <w reconstructed="0">ובתבונתיה</w>
                 <w reconstructed="0">יתבונן׃</w>
             </div>
@@ -3858,6 +4144,7 @@
                 <w reconstructed="0">אחריה</w>
                 <line n="11" folio="t-s 12.863 recto" />
                 <w reconstructed="0">בחקר</w>
+                <stich />
                 <w reconstructed="0">וכל</w>
                 <w reconstructed="0">מבואיה</w>
                 <w reconstructed="0">ירצד׃</w>
@@ -3866,6 +4153,7 @@
                 <w reconstructed="0">המשקיף</w>
                 <w reconstructed="0">בעד</w>
                 <w reconstructed="0">ה̶חלונה</w>
+                <stich />
                 <w reconstructed="0">ועﬥ</w>
                 <line n="12" folio="t-s 12.863 recto" />
                 <w reconstructed="0">פתחיה</w>
@@ -3875,6 +4163,7 @@
                 <w reconstructed="0">החונה</w>
                 <w reconstructed="0">סביבות</w>
                 <w reconstructed="0">ביתה</w>
+                <stich />
                 <w reconstructed="0">והביא</w>
                 <w reconstructed="0">יתריו</w>
                 <w reconstructed="0">בקירה׃</w>
@@ -3885,6 +4174,7 @@
                 <w reconstructed="0">אהלו</w>
                 <w reconstructed="0">על</w>
                 <w reconstructed="0">ידה</w>
+                <stich />
                 <w reconstructed="0">ושכן</w>
                 <w reconstructed="0">שכן</w>
                 <w reconstructed="0">טוב׃</w>
@@ -3893,6 +4183,7 @@
                 <w reconstructed="0">וישים</w>
                 <w reconstructed="0">קנו</w>
                 <w reconstructed="0">בעֳופיה</w>
+                <stich />
                 <line n="14" folio="t-s 12.863 recto" />
                 <w reconstructed="0">ובענפיה</w>
                 <w reconstructed="0">יתלונן׃</w>
@@ -3901,6 +4192,7 @@
                 <w reconstructed="0">וחוסה</w>
                 <w reconstructed="0">בצלה</w>
                 <w reconstructed="0">מחרב</w>
+                <stich />
                 <w reconstructed="0">ובמענותיה</w>
                 <w reconstructed="0">ישכן׃</w>
             </div>
@@ -3914,6 +4206,7 @@
                 <w reconstructed="0">י</w>
                 <w reconstructed="0">יעשה</w>
                 <w reconstructed="0">זאת</w>
+                <stich />
                 <w reconstructed="0">ותופש</w>
                 <w reconstructed="0">תורה</w>
                 <w reconstructed="0">ידריכנה׃</w>
@@ -3922,6 +4215,7 @@
                 <w reconstructed="0">וקדמ̇תﬣו</w>
                 <line n="16" folio="t-s 12.863 recto" />
                 <w reconstructed="0">כאם</w>
+                <stich />
                 <w reconstructed="0">וכאשת</w>
                 <w reconstructed="0">נעורים</w>
                 <w reconstructed="0">תקבלנו׃</w>
@@ -3930,6 +4224,7 @@
                 <w reconstructed="0">והאכילתהו</w>
                 <w reconstructed="0">לחם</w>
                 <w reconstructed="0">שכל</w>
+                <stich />
                 <w reconstructed="0">ומי</w>
                 <line n="17" folio="t-s 12.863 recto" />
                 <w reconstructed="0">ת̶ב̶ו̶א̶ה̶</w>
@@ -3940,6 +4235,7 @@
                 <w reconstructed="0">עליה</w>
                 <w reconstructed="0">ולא</w>
                 <w reconstructed="0">ימוט</w>
+                <stich />
                 <w reconstructed="0">ובה</w>
                 <w reconstructed="0">יבטח</w>
                 <w reconstructed="0">ולא</w>
@@ -3949,6 +4245,7 @@
             <div type="verse" n="5">
                 <w reconstructed="0">ורוממתהו</w>
                 <w reconstructed="0">מרעהו</w>
+                <stich />
                 <w reconstructed="0">ובתוך</w>
                 <w reconstructed="0">קהל</w>
                 <w reconstructed="0">תפתח</w>
@@ -3959,6 +4256,7 @@
                 <line n="19" folio="t-s 12.863 recto" />
                 <w reconstructed="0">ושמחה</w>
                 <w reconstructed="0">ימצא</w>
+                <stich />
                 <w reconstructed="0">ושם</w>
                 <w reconstructed="0">עולם</w>
                 <w reconstructed="0">תורישנו׃</w>
@@ -3969,6 +4267,7 @@
                 <w reconstructed="0">מתי</w>
                 <line n="20" folio="t-s 12.863 recto" />
                 <w reconstructed="0">שוא</w>
+                <stich />
                 <w reconstructed="0">ואנשי</w>
                 <w reconstructed="0">זדון</w>
                 <w reconstructed="0">לא</w>
@@ -3978,6 +4277,7 @@
                 <w reconstructed="0">רחוקה</w>
                 <w reconstructed="0">היא</w>
                 <w reconstructed="0">מלצים</w>
+                <stich />
                 <w reconstructed="0">ואנשי</w>
                 <line n="21" folio="t-s 12.863 recto" />
                 <w reconstructed="0">כזב</w>
@@ -3989,6 +4289,7 @@
                 <w reconstructed="0">חכם</w>
                 <w reconstructed="0">תאמֵר</w>
                 <w reconstructed="0">תהלה</w>
+                <stich />
                 <w reconstructed="0">ומשל</w>
                 <w reconstructed="0">בה</w>
                 <w reconstructed="0">ילמדנה׃</w>
@@ -4000,6 +4301,7 @@
                 <w reconstructed="0">תאמר</w>
                 <w reconstructed="0">מא‍ל</w>
                 <w reconstructed="0">פשעי</w>
+                <stich />
                 <w reconstructed="0">כי</w>
                 <w reconstructed="0">את</w>
                 <w reconstructed="0">אשר</w>
@@ -4013,6 +4315,7 @@
                 <w reconstructed="0">תאמר</w>
                 <w reconstructed="0">הוא</w>
                 <w reconstructed="0">התקילני</w>
+                <stich />
                 <w reconstructed="0">כי</w>
                 <w reconstructed="0">אין</w>
                 <w reconstructed="0">צורך</w>
@@ -4026,6 +4329,7 @@
                 <w reconstructed="0">שנא</w>
                 <w reconstructed="0">י</w>
                 <w reconstructed="0">י</w>
+                <stich />
                 <w reconstructed="0">ולא</w>
                 <w reconstructed="0">יאננה</w>
                 <w reconstructed="0">ליראיו׃</w>
@@ -4038,6 +4342,7 @@
                 <w reconstructed="0">ברא</w>
                 <w reconstructed="0">א</w>
                 <w reconstructed="0">דם</w>
+                <stich />
                 <w reconstructed="0">וישתיהו</w>
                 <w reconstructed="0">ביד</w>
                 <w reconstructed="0">חותפו</w>
@@ -4051,6 +4356,7 @@
                 <w reconstructed="0">תחפץ</w>
                 <w reconstructed="0">תשמר</w>
                 <w reconstructed="0">מצוה</w>
+                <stich />
                 <w reconstructed="0">ותבונה</w>
                 <w reconstructed="0">לעשות</w>
                 <w reconstructed="0">רצונו׃</w>
@@ -4058,6 +4364,7 @@
                 <w reconstructed="0">תאמין</w>
                 <line n="27" folio="t-s 12.863 recto" />
                 <w reconstructed="0">בו</w>
+                <stich />
                 <w reconstructed="0">גם</w>
                 <w reconstructed="0">אתה</w>
                 <w reconstructed="0">תחיה</w>
@@ -4067,6 +4374,7 @@
                 <w reconstructed="0">לפניך</w>
                 <w reconstructed="0">אש</w>
                 <w reconstructed="0">ומים</w>
+                <stich />
                 <w reconstructed="0">באשר</w>
                 <w reconstructed="0">תחפץ</w>
                 <w reconstructed="0">שלח</w>
@@ -4078,6 +4386,7 @@
                 <w reconstructed="0">אדם</w>
                 <w reconstructed="0">חיים</w>
                 <w reconstructed="0">ומוות</w>
+                <stich />
                 <w reconstructed="0">אשר</w>
                 <w reconstructed="0">יחפץ</w>
                 <w reconstructed="0">ינתן</w>
@@ -4089,6 +4398,7 @@
                 <w reconstructed="0">חכמת</w>
                 <w reconstructed="0">י</w>
                 <w reconstructed="0">י</w>
+                <stich />
                 <w reconstructed="0">אמיץ</w>
                 <w reconstructed="0">גבורות</w>
                 <w reconstructed="0">וחוזה</w>
@@ -4099,7 +4409,8 @@
                 <w reconstructed="0">א‍ל</w>
                 <w reconstructed="0">יראו</w>
                 <w reconstructed="0">מעשיו</w>
-                <line n="1" folio="t-s 12.863 verso" />
+                <stich />
+                <line n="1" folio="t-s 12.863 recto" />
                 <w reconstructed="0">והו</w>
                 <w reconstructed="0">יכיר</w>
                 <w reconstructed="0">ע̈̈ל</w>
@@ -4112,6 +4423,7 @@
                 <w reconstructed="0">צוה</w>
                 <w reconstructed="0">אנוש</w>
                 <w reconstructed="0">לחטא</w>
+                <stich />
                 <w reconstructed="0">ולא</w>
                 <w reconstructed="0">החלים</w>
                 <line n="2" folio="t-s 12.863 verso" />
@@ -4122,6 +4434,7 @@
                 <w reconstructed="0">על</w>
                 <w reconstructed="0">עושה</w>
                 <w reconstructed="0">שוא</w>
+                <stich />
                 <w reconstructed="0">ועל</w>
                 <w reconstructed="0">מגלה</w>
                 <w reconstructed="0">סוד׃</w>
@@ -4135,6 +4448,7 @@
                 <w reconstructed="0">תואר</w>
                 <w reconstructed="0">נערי</w>
                 <w reconstructed="0">שוא</w>
+                <stich />
                 <w reconstructed="0">וא‍ל</w>
                 <w reconstructed="0">תשמח</w>
                 <w reconstructed="0">בבני</w>
@@ -4147,6 +4461,7 @@
                 <w reconstructed="0">א‍ל</w>
                 <line n="4" folio="t-s 12.863 verso" />
                 <w reconstructed="0">תבעבם</w>
+                <stich />
                 <w reconstructed="0">אם</w>
                 <w reconstructed="0">אין</w>
                 <w reconstructed="0">אתם</w>
@@ -4158,6 +4473,7 @@
                 <w reconstructed="0">א‍ל</w>
                 <w reconstructed="0">תאמין</w>
                 <w reconstructed="0">בחייהם</w>
+                <stich />
                 <w reconstructed="0">וא‍ל</w>
                 <w reconstructed="0">תבטח</w>
                 <line n="5" folio="t-s 12.863 verso" />
@@ -4199,6 +4515,7 @@
                 <w reconstructed="0">י</w>
                 <w reconstructed="0">תשב</w>
                 <w reconstructed="0">עיר</w>
+                <stich />
                 <w reconstructed="0">וממשפחת</w>
                 <line n="8" folio="t-s 12.863 verso" />
                 <w reconstructed="0">בגדים</w>
@@ -4209,6 +4526,7 @@
                 <w reconstructed="0">כאלה</w>
                 <w reconstructed="0">ראתה</w>
                 <w reconstructed="0">עיני</w>
+                <stich />
                 <w reconstructed="0">ועצֻמוֹתֿ</w>
                 <w reconstructed="0">כאלה</w>
                 <w reconstructed="0">שמעה</w>
@@ -4220,6 +4538,7 @@
                 <w reconstructed="0">רשעים</w>
                 <w reconstructed="0">יוקדת</w>
                 <w reconstructed="0">אש</w>
+                <stich />
                 <w reconstructed="0">ובגוי</w>
                 <w reconstructed="0">חנף</w>
                 <w reconstructed="0">נצתה</w>
@@ -4232,6 +4551,7 @@
                 <w reconstructed="0">נשא</w>
                 <w reconstructed="0">לנסיכי</w>
                 <w reconstructed="0">קדם</w>
+                <stich />
                 <w reconstructed="0">המורים</w>
                 <w reconstructed="0">עולם</w>
                 <w reconstructed="0">בגבורתם׃</w>
@@ -4244,6 +4564,7 @@
                 <w reconstructed="0">על</w>
                 <w reconstructed="0">מגורי</w>
                 <w reconstructed="0">לוט</w>
+                <stich />
                 <w reconstructed="0">המתעברים</w>
                 <w reconstructed="0">בגאותם׃</w>
             </div>
@@ -4254,6 +4575,7 @@
                 <w reconstructed="0">על</w>
                 <w reconstructed="0">גוי</w>
                 <w reconstructed="0">חרם</w>
+                <stich />
                 <w reconstructed="0">הנורשים</w>
                 <w reconstructed="0">בעונם׃</w>
             </div>
@@ -4263,6 +4585,7 @@
                 <w reconstructed="0">מאות</w>
                 <w reconstructed="0">א‍לף</w>
                 <w reconstructed="0">רגלי</w>
+                <stich />
                 <line n="13" folio="t-s 12.863 verso" />
                 <w reconstructed="0">הנאספים</w>
                 <w reconstructed="0">בזדון</w>
@@ -4274,6 +4597,7 @@
                 <w reconstructed="0">אחד</w>
                 <w reconstructed="0">מקשה</w>
                 <w reconstructed="0">ערף</w>
+                <stich />
                 <w reconstructed="0">תמה</w>
                 <w reconstructed="0">זה</w>
                 <w reconstructed="0">אם</w>
@@ -4283,6 +4607,7 @@
                 <w reconstructed="0">רחמים</w>
                 <w reconstructed="0">ואף</w>
                 <w reconstructed="0">עמו</w>
+                <stich />
                 <w reconstructed="0">ונושא</w>
                 <w reconstructed="0">וסולח</w>
                 <w reconstructed="0">ועל</w>
@@ -4296,6 +4621,7 @@
                 <w reconstructed="0">רחמיו</w>
                 <w reconstructed="0">כן</w>
                 <w reconstructed="0">תוכחתו</w>
+                <stich />
                 <w reconstructed="0">איש</w>
                 <w reconstructed="0">כמפעליו</w>
                 <w reconstructed="0">ישפט׃</w>
@@ -4306,6 +4632,7 @@
                 <w reconstructed="0">ימלט</w>
                 <w reconstructed="0">בגזל</w>
                 <w reconstructed="0">עול</w>
+                <stich />
                 <w reconstructed="0">ולא</w>
                 <w reconstructed="0">ישבית</w>
                 <w reconstructed="0">תאות</w>
@@ -4320,6 +4647,7 @@
                 <w reconstructed="0">יש</w>
                 <w reconstructed="0">לו</w>
                 <w reconstructed="0">שכר</w>
+                <stich />
                 <w reconstructed="0">וכל</w>
                 <w reconstructed="0">אדם</w>
                 <w reconstructed="0">כמעשיו</w>
@@ -4334,6 +4662,7 @@
                 <w reconstructed="0">את</w>
                 <w reconstructed="0">לב</w>
                 <w reconstructed="0">פרעה</w>
+                <stich />
                 <w reconstructed="0">אשר</w>
                 <w reconstructed="0">ל̶א̶</w>
                 <w reconstructed="0">לא</w>
@@ -4349,6 +4678,7 @@
                 <w reconstructed="0">יראו</w>
                 <w reconstructed="0">לכל</w>
                 <w reconstructed="0">בריותיו</w>
+                <stich />
                 <w reconstructed="0">ואוﬧו</w>
                 <line n="20" folio="t-s 12.863 verso" />
                 <w reconstructed="0">ושבחו</w>
@@ -4361,6 +4691,7 @@
                 <w reconstructed="0">תאמר</w>
                 <w reconstructed="0">מא‍ל</w>
                 <w reconstructed="0">נסתרתי</w>
+                <stich />
                 <w reconstructed="0">ובמרום</w>
                 <w reconstructed="0">מי</w>
                 <line n="21" folio="t-s 12.863 verso" />
@@ -4369,6 +4700,7 @@
                 <w reconstructed="0">כבד</w>
                 <w reconstructed="0">לא</w>
                 <w reconstructed="0">אודע</w>
+                <stich />
                 <w reconstructed="0">ומה</w>
                 <w reconstructed="0">נפשי</w>
                 <w reconstructed="0">בקצות</w>
@@ -4383,12 +4715,14 @@
                 <w reconstructed="0">השמים</w>
                 <w reconstructed="0">ושמי</w>
                 <w reconstructed="0">השמים</w>
+                <stich />
                 <w reconstructed="0">ותהום</w>
                 <w reconstructed="0">וארץ׃</w>
                 <w reconstructed="0">ברדﬨו</w>
                 <line n="23" folio="t-s 12.863 verso" />
                 <w reconstructed="0">עליהם</w>
                 <w reconstructed="0">עֹמְודִ֝ים</w>
+                <stich />
                 <w reconstructed="0">בפקדו</w>
                 <w reconstructed="0">וכרגשו׃</w>
             </div>
@@ -4399,6 +4733,7 @@
                 <w reconstructed="0">ויסודי</w>
                 <line n="24" folio="t-s 12.863 verso" />
                 <w reconstructed="0">תבל</w>
+                <stich />
                 <w reconstructed="0">בהביטו</w>
                 <w reconstructed="0">א‍ליהם</w>
                 <w reconstructed="0">רעש</w>
@@ -4410,6 +4745,7 @@
                 <w reconstructed="0">לא</w>
                 <w reconstructed="0">ישים</w>
                 <w reconstructed="0">לב</w>
+                <stich />
                 <line n="25" folio="t-s 12.863 verso" />
                 <w reconstructed="0">ובדרכי</w>
                 <w reconstructed="0">מי</w>
@@ -4421,6 +4757,7 @@
                 <w reconstructed="0">לא</w>
                 <w reconstructed="0">תראני</w>
                 <w reconstructed="0">עין</w>
+                <stich />
                 <w reconstructed="0">או</w>
                 <w reconstructed="0">אם</w>
                 <w reconstructed="0">אכזב</w>
@@ -4435,6 +4772,7 @@
                 <w reconstructed="0">צדקי̊</w>
                 <w reconstructed="0">מי</w>
                 <w reconstructed="0">יגידנו</w>
+                <stich />
                 <w reconstructed="0">ותקות</w>
                 <w reconstructed="0">מה</w>
                 <w reconstructed="0">כי</w>
@@ -4447,6 +4785,7 @@
                 <w reconstructed="0">לב</w>
                 <w reconstructed="0">יבינו</w>
                 <w reconstructed="0">א‍לה</w>
+                <stich />
                 <w reconstructed="0">וגב</w>
                 <w reconstructed="0">ר</w>
                 <w reconstructed="0">פ̇ו̊תה</w>
@@ -4459,6 +4798,7 @@
                 <w reconstructed="0">אלי</w>
                 <w reconstructed="0">וקחו</w>
                 <w reconstructed="0">ש̇כ̇לי</w>
+                <stich />
                 <w reconstructed="0">ועל</w>
                 <w reconstructed="0">דברי</w>
                 <w reconstructed="0">שימו</w>
@@ -4468,6 +4808,7 @@
                 <w reconstructed="0">אביעה</w>
                 <w reconstructed="0">במשקל</w>
                 <w reconstructed="0">רוחי</w>
+                <stich />
                 <line n="29" folio="t-s 12.863 verso" />
                 <w reconstructed="0">ובהצנע</w>
                 <w reconstructed="0">אחוה</w>
@@ -4478,71 +4819,34 @@
                 <w reconstructed="0">א‍ל</w>
                 <w reconstructed="0">מעשיו</w>
                 <w reconstructed="0">מראש</w>
+                <stich />
                 <w reconstructed="0">על</w>
                 <w reconstructed="0">חייהﬦ</w>
                 <line n="1" folio="t-s 12.863 verso" />
             </div>
             <div type="verse" n="27cde">
                 <line n="2" folio="t-s 12.863 verso" />
-                <w reconstructed="1"><g type='reconstructed'>ול</g>א̊</w>
-                <w reconstructed="1">י̊ר̊<g type='reconstructed'>עבו</g></w>
-                <w reconstructed="1"><g type='reconstructed'>ו</g>ל̊<g type='reconstructed'>א</g></w>
-                <w reconstructed="1">י̊צ̊<g type='reconstructed'>מ</g>א̊ו̊</w>
-                <w reconstructed="1"><g type='reconstructed'>ו</g>לא</w>
-                <w reconstructed="1">
-                    <g type='reconstructed'>ייגעו</g>
-                </w>
-                <w reconstructed="1">
-                    <g type='reconstructed'>ולא</g>
-                </w>
-                <w reconstructed="1">
-                    <g type='reconstructed'>יעמלו</g>
-                </w>
-                <w reconstructed="1">
-                    <g type='reconstructed'>ולא</g>
-                </w>
-                <w reconstructed="1">
-                    <g type='reconstructed'>יחסרו</g>
-                </w>
-                <w reconstructed="1"><g type='reconstructed'>גבורתם</g>׃</w>
+                <w reconstructed="0">]א̊</w>
+                <w reconstructed="1">י̊ר̊<g type='reconstructed'></g></w>
+                <w reconstructed="1"><g type='reconstructed'></g>ל̊<g type='reconstructed'></g></w>
+                <w reconstructed="1">י̊צ̊<g type='reconstructed'></g></w>
+                <w reconstructed="0">]א̊ו̊</w>
+                <w reconstructed="0">]לא</w>
+                <w reconstructed="0">]׃</w>
             </div>
             <div type="verse" n="28">
                 <line n="3" folio="t-s 12.863 verso" />
                 <w reconstructed="0">א̊י̊ש</w>
                 <w reconstructed="0">ר̊ע̊ה̊ו̊</w>
-                <w reconstructed="1">
-                    <g type='reconstructed'>לא</g>
-                </w>
-                <w reconstructed="1">
-                    <g type='reconstructed'>יאנסו</g>
-                </w>
-                <w reconstructed="1"><g type='reconstructed'>וע</g>ד</w>
-                <w reconstructed="1">עו̊<g type='reconstructed'>לם</g></w>
-                <w reconstructed="1">
-                    <g type='reconstructed'>לא</g>
-                </w>
-                <w reconstructed="1">
-                    <g type='reconstructed'>יעברו</g>
-                </w>
-                <w reconstructed="1">
-                    <g type='reconstructed'>דברו׃</g>
-                </w>
-                <w reconstructed="1">
-                    <g type='reconstructed'>ואחר</g>
-                </w>
-                <w reconstructed="1">
-                    <g type='reconstructed'>כן</g>
-                </w>
+                <w reconstructed="0">]ד</w>
+                <w reconstructed="1">עו̊<g type='reconstructed'></g></w>
             </div>
             <div type="verse" n="29">
                 <line n="4" folio="t-s 12.863 verso" />
                 <w reconstructed="0">ה̊ב̊י̊ט</w>
-                <w reconstructed="1">י̊<g type='reconstructed'>יי</g></w>
-                <w reconstructed="1">
-                    <g type='reconstructed'>אל</g>
-                </w>
-                <w reconstructed="1"><g type='reconstructed'>האר</g>ץ̊</w>
-                <w reconstructed="1"><g type='reconstructed'>ו</g>י̊ב̊ר̊כ̊<g type='reconstructed'>ה</g></w>
+                <w reconstructed="1">י̊<g type='reconstructed'></g></w>
+                <w reconstructed="0">]ץ̊</w>
+                <w reconstructed="1"><g type='reconstructed'></g>י̊ב̊ר̊כ̊<g type='reconstructed'></g></w>
             </div>
         </div>
     </ms>
