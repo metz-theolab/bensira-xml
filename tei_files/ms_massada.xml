@@ -45,7 +45,7 @@
         <div type="chap" n="40">
             <div type="verse" n="8">
                 <line n="23" col="Col. I" />
-                <w reconstructed="0">]◦◦ל◦</w>
+                <w reconstructed="0">◦ל◦◦</w>
             </div>
             <div type="verse" n="11">
                 <line n="1" col="Col. II" />
@@ -55,6 +55,7 @@
             <div type="verse" n="12">
                 <line n="2" col="Col. II" />
                 <w reconstructed="0">כל</w>
+                <w reconstructed="1">מ̇<g type='reconstructed'>ארץ</g></w>
                 <w reconstructed="1">מש̇<g type='reconstructed'>חד</g></w>
             </div>
             <div type="verse" n="13">
@@ -360,7 +361,7 @@
             </div>
             <div type="verse" n="9ab">
                 <line n="10" col="Col. III" />
-                <w reconstructed="1"><g type='reconstructed'></g>ל̇◦<g type='reconstructed'></g></w>
+                <w reconstructed="1"><g type='reconstructed'></g>◦ל̇<g type='reconstructed'></g></w>
                 <w reconstructed="0">ואם</w>
                 <w reconstructed="0">תולידו</w>
                 <w reconstructed="0">לאנחה</w>
@@ -792,7 +793,7 @@
                 <w reconstructed="0">תגור</w>
                 <w reconstructed="0">אל</w>
                 <w reconstructed="0">יה̊י</w>
-                <w reconstructed="0">סב]י̊ב</w>
+                <w reconstructed="1"><g type='reconstructed'>סב</g>יב</w>
             </div>
             <div type="verse" n="12">
                 <line n="23" col="Col. IV" />
