@@ -7,8 +7,12 @@
                     <g type='reconstructed'>עולם</g>
                 </w>
                 <w reconstructed="1"><g type='reconstructed'></g>ו̇<g type='reconstructed'>שמחה</g></w>
-                     <g type='reconstructed'>רבה׃</g>
-                     <g type='reconstructed'>כל</g>
+                 <w reconstructed="1">
+                    <g type='reconstructed'>:רבה</g>
+                </w>
+                 <w reconstructed="1">
+                    <g type='reconstructed'>כל</g>
+                </w>
                 <w reconstructed="0">דבר̇י̊</w>
                 <w reconstructed="0">ש̇מעו</w>
                 <w reconstructed="1">
@@ -25,8 +29,13 @@
                     <g type='reconstructed'>חיים׃</g>
                 </w>
                 <w reconstructed="1"><g type='reconstructed'></g>א<g type='reconstructed'>הבו</g></w>
-                     <g type='reconstructed'>יראת</g>
-                      <g type='reconstructed'>ייי</g>
+                <w reconstructed="1">
+                    <g type='reconstructed'>יראת</g>
+                </w>
+                <w reconstructed="1">
+                    <g type='reconstructed'>ייי</g>
+                </w>
+                      
                     <w reconstructed="1"><g type='reconstructed'>ותנ</g>ו̊</w>
                 <w reconstructed="0">בה</w>
                 <w reconstructed="0">לבבכם̇</w>
@@ -77,18 +86,23 @@
                     <g type='reconstructed'>תכחש</g>
                 </w>
                 <w reconstructed="1"><g type='reconstructed'></g>ביר̇א̊<g type='reconstructed'>ת</g></w>
-               <g type='reconstructed'>ייי</g>
+                <w reconstructed="1">
+                    <g type='reconstructed'>ייי</g>
+                </w>
                 <w reconstructed="1">
                  <g type='reconstructed'>וא‍ל</g>
+                </w>
                 <w reconstructed="1">
                 <w reconstructed="1"><g type='reconstructed'>תג</g>ֹע̊<g type='reconstructed'></g></w>
                 <w reconstructed="1">
                     <g type='reconstructed'>א‍ליה</g>
+                 </w>
                 <w reconstructed="1">
                     <g type='reconstructed'>בלב</g>
+                 </w>
                 <w reconstructed="1">
                     <g type='reconstructed'>ולב</g>
-                
+                 </w>
             </div>
         </div>
         <div type="chap" n="3">
@@ -1870,8 +1884,14 @@
                 <w reconstructed="0">והן̊</w>
                 <w reconstructed="0">מ̊שגה</w>
                 <w reconstructed="1">ל̇<g type='reconstructed'>בו</g>ת̊<g type='reconstructed'></g></w>
-                <w reconstructed="0">נד̊י̇בים׃</w>
+                <w reconstructed="1"><g type='reconstructed'></g>נ<g type='reconstructed'></g>ד̊י̇בים</w>
             </div>
+            <margin type="margin_car" line="9">
+                <w reconstructed="0">לוֹ</w>
+            </margin>
+            <margin type="margin_car" line="9">
+                <w reconstructed="0">ק</w>
+            </margin>
             <div type="verse" n="3">
                 <line n="11" folio="ena 2536–1 recto" />
                 <w reconstructed="0">א‍ל</w>
@@ -2543,6 +2563,7 @@
             <margin type="margin_car" line="2" folio="ena 2536–2 recto">
                 <w reconstructed="0">רע</w>
                 <w reconstructed="0">ויבא</w>
+            </margin>
             <div type="verse" n="14">
                 <line n="3" folio="ena 2536–2 recto" />
                 <w reconstructed="0">כסא</w>
@@ -3452,6 +3473,9 @@
                 <w reconstructed="0">ת</w>
                 <w reconstructed="0">שן׃</w>
             </div>
+              <margin type="margin_car" line="13">
+                <w reconstructed="0">עז</w>
+            </margin>
             <div type="verse" n="14">
                 <w reconstructed="0">כן</w>
                 <w reconstructed="0">חובר</w>
@@ -4370,6 +4394,18 @@
                 <w reconstructed="0">ילמדנה׃</w>
             </div>
             <div type="verse" n="9" />
+            <margin type="margin_supralinear" folio="t-s 12.863 recto" line="21">
+                <w reconstructed="0">לא</w>
+                <w reconstructed="0">נאתה</w>
+                 <w reconstructed="0">תהלה</w>
+                 <w reconstructed="0">בפי</w>
+                 <w reconstructed="0">רשע</w>
+                 <w reconstructed="0">כי</w>
+                 <w reconstructed="0">לא</w>
+                 <w reconstructed="0">מאל</w>
+                 <w reconstructed="0">נחלקה</w>
+                 <w reconstructed="0">:לו</w>
+            </margin>
             <div type="verse" n="11">
                 <line n="22" folio="t-s 12.863 recto" />
                 <w reconstructed="0">א‍ל</w>
