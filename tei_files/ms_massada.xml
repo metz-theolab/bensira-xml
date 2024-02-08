@@ -3,38 +3,46 @@
         <div type="chap" n="39">
             <div type="verse" n="27">
                 <line n="2" col="Col. I" />
+                 <stich />
                 <w reconstructed="0">לזרה</w>
                 <w reconstructed="1">נ̇<g type='reconstructed'>ה</g>פ̇כו</w>
             </div>
             <div type="verse" n="28ab">
                 <line n="3" col="Col. I" />
+                 <stich />
             <w reconstructed="1"><g type='reconstructed'>הר</g>ים</w>
                 <w reconstructed="0">יעת̊יקו</w>
             </div>
             <div type="verse" n="28cd">
                 <line n="4" col="Col. I" />
+                 <stich />
                 <w reconstructed="0">הם</w>
                 <w reconstructed="0">יניח̇ו</w>
             </div>
             <div type="verse" n="29">
                 <line n="5" col="Col. I" />
+                 <stich />
                 <w reconstructed="1"><g type='reconstructed'>נב</g>ראו</w>
             </div>
             <div type="verse" n="30ab">
                 <line n="6" col="Col. I" />
+                 <stich />
                 <w reconstructed="0">◦</w>
                 <w reconstructed="0">בם</w>
             </div>
             <div type="verse" n="30cd">
                 <line n="7" col="Col. I" />
+                 <stich />
                 <w reconstructed="0">ו</w>
             </div>
             <div type="verse" n="31">
                 <line n="8" col="Col. I" />
+                 <stich />
                 <w reconstructed="1"><g type='reconstructed'>פ</g>יו</w>
                 </div>
             <div type="verse" n="32">
                 <line n="9" col="Col. I" />
+                 <stich />
                 <w reconstructed="0">ת̊י</w>
                 <line n="10–22" col="Col. I" />
                 <w reconstructed="0">(.</w>
@@ -45,23 +53,27 @@
         <div type="chap" n="40">
             <div type="verse" n="8">
                 <line n="23" col="Col. I" />
+                 <stich />
                 <w reconstructed="0">◦ל◦◦</w>
             </div>
             <div type="verse" n="11">
                 <line n="1" col="Col. II" />
                 <w reconstructed="0">כל</w>
                 <w reconstructed="1">מ<g type='reconstructed'>ארץ</g></w>
+                 <stich />
             </div>
             <div type="verse" n="12">
                 <line n="2" col="Col. II" />
                 <w reconstructed="0">כל</w>
                 <w reconstructed="1">מ̇<g type='reconstructed'>ארץ</g></w>
                 <w reconstructed="1">מש̇<g type='reconstructed'>חד</g></w>
+                 <stich />
             </div>
             <div type="verse" n="13">
                 <line n="3" col="Col. II" />
                 <w reconstructed="0">חיל</w>
                 <w reconstructed="0">מעול̇</w>
+                 <stich />
                 <w reconstructed="0">ת</w>
             </div>
             <div type="verse" n="14">
@@ -69,6 +81,7 @@
                 <w reconstructed="0">עם</w>
                 <w reconstructed="0">שאתו</w>
                 <w reconstructed="1">כפ̇י̇<g type='reconstructed'>ם</g></w>
+                 <stich />
                 <w reconstructed="1"><g type='reconstructed'></g>ם̊</w>
             </div>
             <div type="verse" n="15">
@@ -78,6 +91,7 @@
                 <w reconstructed="0">לא</w>
                 <w reconstructed="0">יכ̇ה̊</w>
                 <w reconstructed="1">ב̊<g type='reconstructed'></g></w>
+                 <stich />
                 <w reconstructed="1"><g type='reconstructed'></g>ש̊ן</w>
                 <w reconstructed="0">צר</w>
             </div>
@@ -87,6 +101,7 @@
                 <w reconstructed="0">על</w>
                 <w reconstructed="0">גפות</w>
                 <w reconstructed="0">נחל̇</w>
+                 <stich />
                 <w reconstructed="1">
                     <g type='reconstructed'>לפני</g>
                 </w>
@@ -100,6 +115,7 @@
                 <w reconstructed="0">כע̇ד̇</w>
                 <w reconstructed="0">לא</w>
                 <w reconstructed="0">תכרת</w>
+                 <stich />
                 <w reconstructed="0">ו̇צ̇ד̇קה</w>
                 <w reconstructed="0">לע̇ד̇</w>
                 <w reconstructed="0">ת̊כ̇ן</w>
@@ -113,6 +129,7 @@
                 <w reconstructed="0">יתר</w>
                 <w reconstructed="0">ש̊כר</w>
                 <w reconstructed="0">ימתקו</w>
+                 <stich />
                 <w reconstructed="0">ומ̇ש̇ניהם</w>
                 <w reconstructed="1">מ̊צ̊א̊<g type='reconstructed'></g></w>
             </div>
@@ -122,6 +139,7 @@
                 <w reconstructed="1">ו<g type='reconstructed'>עיר</g></w>
                 <w reconstructed="1"><g type='reconstructed'>יעמ</g>ידו</w>
                 <w reconstructed="0">שם</w>
+                 <stich />
                 <w reconstructed="0">ומשניהם</w>
                 <w reconstructed="1">מ̊ו̊צ̊<g type='reconstructed'></g></w>
             </div>
@@ -129,6 +147,7 @@
                 <line n="10" col="Col. II" />
                 <w reconstructed="0">ו̇</w>
                 <w reconstructed="0">שאר</w>
+                 <stich />
                 <w reconstructed="1">ו̇מ̊ש̇נ̊י̊<g type='reconstructed'>הם</g></w>
                 <w reconstructed="1">
                     <g type='reconstructed'>אשה</g>
@@ -137,6 +156,7 @@
             </div>
             <div type="verse" n="20">
                 <line n="11" col="Col. II" />
+                 <stich />
                 <w reconstructed="1"><g type='reconstructed'>דו</g>ד̊י̊<g type='reconstructed'>ם</g></w>
             </div>
             <div type="verse" n="21">
@@ -156,10 +176,12 @@
             </div>
             <div type="verse" n="26ab">
                 <line n="17" col="Col. II" />
+                 <stich />
                 <w reconstructed="1"><g type='reconstructed'>ומ</g>ש̇נ̊י̊ה̇ם̇</w>
             </div>
             <div type="verse" n="26cd">
                 <line n="18" col="Col. II" />
+                 <stich />
                 <w reconstructed="0">א̊י̇ן̇</w>
                 <w reconstructed="0">ל̇ב̊קש</w>
                 <w reconstructed="0">עמה</w>
@@ -167,6 +189,7 @@
             </div>
             <div type="verse" n="27">
                 <line n="19" col="Col. II" />
+                 <stich />
                 <w reconstructed="0">ועל</w>
                 <w reconstructed="0">כל</w>
                 <w reconstructed="1">כ̊ב̊<g type='reconstructed'>ו</g>ד̊</w>
@@ -174,6 +197,7 @@
             </div>
             <div type="verse" n="28">
                 <line n="20" col="Col. II" />
+                 <stich />
                 <w reconstructed="0">טוב</w>
                 <w reconstructed="1"><g type='reconstructed'>נא</g>ש̇ף</w>
                 <w reconstructed="0">◦ממחצף</w>
@@ -181,6 +205,7 @@
             <div type="verse" n="29ab">
                 <line n="21" col="Col. II" />
                 <w reconstructed="1">
+                     <stich />
                     <g type='reconstructed'>אין</g>
                 </w>
                 <w reconstructed="1">
