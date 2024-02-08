@@ -3460,7 +3460,10 @@
                 <w reconstructed="0">תתאנח׃</w>
             </div>
             <div type="verse" n="13">
-                <w reconstructed="0">מִה</w>
+                <w reconstructed="0">
+                   <l><strike> ה </strike><a>י</a></l>
+                        מ
+                </w>
                 <w reconstructed="0">יוחן</w>
                 <w reconstructed="0">חובר</w>
                 <w reconstructed="0">נשוך</w>
@@ -3588,6 +3591,7 @@
                 <w reconstructed="0">כבד</w>
                 <w reconstructed="0">ממך</w>
                 <w reconstructed="0">תשא</w>
+                <w><l>ת<a>מה</a></l> שה</w>
                 <stich />
                 <w reconstructed="0">וא‍ל</w>
                 <w reconstructed="0">עשיר</w>
@@ -3596,8 +3600,7 @@
                 <w reconstructed="0">תתחבﬧ׃</w>
                 <line n="24" folio="t-s 12.864 recto" />
                 <w reconstructed="0">מה</w>
-                <w reconstructed="0">י</w>
-                <w reconstructed="0">חבר</w>
+                <w><l>י<a>ת</a></l>חבר</w>
                 <w reconstructed="0">פרור</w>
                 <w reconstructed="0">א‍ֶל</w>
                 <w reconstructed="0">סיר</w>
@@ -3734,8 +3737,7 @@
                 <w reconstructed="0">לרֹב</w>
                 <w reconstructed="0">שיחו׃</w>
                 <w reconstructed="0">כי</w>
-                <w reconstructed="0">מ</w>
-                <w reconstructed="0">רבות</w>
+                <w>מ<l>ר<a>ה</a></l> בות </w>
                 <w reconstructed="0">שיחו</w>
                 <line n="6" folio="t-s 12.864 verso" />
                 <w reconstructed="0">נסיון</w>
@@ -3870,8 +3872,7 @@
                 <stich />
                 <w reconstructed="0">ודבריו</w>
                 <w reconstructed="0">מכוערין</w>
-                <w reconstructed="0">מ</w>
-                <w reconstructed="0">ופין׃</w>
+                <w>מ<l>ו<a>ה</a></l> פין </w>
                 <w reconstructed="0">דל</w>
                 <w reconstructed="0">נמוט</w>
                 <w reconstructed="0">גע</w>
@@ -4157,7 +4158,7 @@
                 <w reconstructed="0">שיפה׃</w>
                 <w reconstructed="0">לעשות</w>
                 <stich />
-                <w reconstructed="0">א‍להים</w>
+                <w><l>א‍ל<a>לפני</a></l> הים </w>
                 <w reconstructed="0">עשה</w>
             </div>
             <margin type="margin_car" folio="t-s 12.863 recto" line="6">
