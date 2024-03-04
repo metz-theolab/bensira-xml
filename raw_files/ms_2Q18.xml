@@ -4,104 +4,48 @@
         <ms>Manuscript 2Q18</ms>
         <chap>2Q18 frag. 1</chap>
         <text>
-            <verse_nb></verse_nb>
-            <line>1</line>
-            <content>[                          ] ת[		]</content>
-        </text>
+            <verse_nb> </verse_nb><line>1</line>[ ] ת[ ]</text>
         <text>
-            <verse_nb></verse_nb>
-            <line>2</line>[                     ]ה̇ א◦◦[		]
-        </text>
-        <vacat_prg>
-            <vacat_car>Bottom margin</vacat_car>
-        </vacat_prg>
+            <verse_nb> </verse_nb><line>2</line>[ ]ה̇ א◦◦[ ]</text>
+        <vacat_car>Bottom margin</vacat_car>
         <chap>2Q18 frag. 1 – Reconstruction of Sir 6:14-15 according HA</chap>
         <text>
-            <verse_nb>6:14	</verse_nb>
-            <line>1</line>[            אוהב אמונה אוהב] ת[            קוף‏     ומוצאו מצא הון]
-        </text>
+            <verse_nb>6:14<parallel> AC</parallel>
+            </verse_nb><line>1</line>[אוהב אמונה אוהב] ת[קוף ומוצאו מצא הון]</text>
         <text>
-            <verse_nb>6:15	</verse_nb>
-            <line>2</line>[            לאוהב‏      אמונ]ה̇ אי֯ן֯[             מחיר‏    ואין משקל לטובתו]
-        </text>
-        <vacat_prg>
-            <vacat_car>Bottom margin</vacat_car>
-        </vacat_prg>
-        <chap>2Q18 frag. 1 – Reconstruction of Sir 6:14-15 according to HC<vacat_car></vacat_car>
-        </chap>
+            <verse_nb>6:15<parallel> AC</parallel>
+            </verse_nb><line>2</line>[לאוהב אמונ]ה̇ אי̊ן̊[ מחיר ואין משקל לטובתו]</text>
+        <vacat_car>Bottom margin</vacat_car>
+        <chap>2Q18 frag. 1 – Reconstruction of Sir 6:14-15 according to HC<vacat_car></vacat_car></chap>
+        <text><vacat_car> </vacat_car><verse_nb>6:14<parallel> AC</parallel>
+            </verse_nb><line>1</line>[אוהב אמונה מגן] ת[קיף ומוצאו מצא הוא הון]</text>
         <text>
-            <vacat_car></vacat_car>
-            <verse_nb>6:14	</verse_nb>
-            <line>1</line>[            אוהב אמונה מגן] ת[            קיף‏     ומוצאו מצא הוא הון]
-        </text>
-        <text>
-            <verse_nb>6:15	</verse_nb>
-            <line>2</line>[            אוהב     אמונ]ה̇ אי̊ן̊[            מחיר‏    ואין משקל לטובתו]
-        </text>
-        <vacat_prg>
-            <vacat_car>Bottom margin</vacat_car>
-        </vacat_prg>
+            <verse_nb>6:15<parallel> AC</parallel>
+            </verse_nb><line>2</line>[אוהב אמונ]ה̇ אי̊ן̊[ מחיר ואין משקל לטובתו]</text>
+        <vacat_car>Bottom margin</vacat_car>
         <chap>2Q18 frag. 1 – Reconstruction of Sir 1:19-20</chap>
         <text>
-            <verse_nb>1:19	</verse_nb>
-            <line>1</line>[            שכל ודעת תביע         וכבוד תומכיה ]ת[            רים]
-        </text>
+            <verse_nb>1:19 </verse_nb><line>1</line>[שכל ודעת תביע וכבוד תומכיה ]ת[רים]</text>
         <text>
-            <verse_nb>1:20	</verse_nb>
-            <line>2</line>[            שרש חכמה יראת יהוה       וענפי]ה̇ אר̊ך̊[            ימים]
-        </text>
+            <verse_nb>1:20 </verse_nb><line>2</line>[שרש חכמה יראת יהוה וענפי]ה̇ אר̊ך̊[ ימים]</text>
         <chap>2Q18 frag. 2</chap>
         <text>
-            <verse_nb>6:20	</verse_nb>
-            <line>1</line>[            עקובה היא לאויל‏                ולא יכלכלנה חסר ל]ב̇
-        </text>
+            <verse_nb>6:20<parallel> A</parallel>
+            </verse_nb><line>1</line>[עקובה היא לאויל ולא יכלכלנה חסר ל]ב̇</text>
         <text>
-            <verse_nb>6:21	</verse_nb>
-            <line>2</line>[            כאבן משא תהיה עליו‏      ולא יאחר להשליכה]
-        </text>
+            <verse_nb>6:21<parallel> A</parallel>
+            </verse_nb><line>2</line>[כאבן משא תהיה עליו ולא יאחר להשליכה]</text>
         <text>
-            <verse_nb>6:22	</verse_nb>
-            <line>3</line>[            כי המוסר כשמה כן הוא‏      ולא לרבים הוא נ]כ̊ח̇
-        </text>
+            <verse_nb>6:22<parallel> A</parallel>
+            </verse_nb><line>3</line>[כי המוסר כשמה כן הוא ולא לרבים הוא נ]כ̊ח̇</text>
         <text>
-            <verse_nb>6:23	</verse_nb>
-            <line>4</line>[	            ]
-        </text>
+            <verse_nb>6:23 </verse_nb><line>4</line>[ ]</text>
         <text>
-            <verse_nb>6:24	</verse_nb>
-            <line>5</line>[                                                          ]
-        </text>
+            <verse_nb>6:24 </verse_nb><line>5</line>[ ]</text>
         <text>
-            <verse_nb>6:25	</verse_nb>
-            <line>6</line>[            הט שכמך ושאה‏        ואל תקץ בתחבולתיה]
-        </text>
+            <verse_nb>6:25<parallel> A</parallel>
+            </verse_nb><line>6</line>[הט שכמך ושאה ואל תקץ בתחבולתיה]</text>
         <text>
-            <verse_nb>6:26	</verse_nb>
-            <line>7</line>[            בכל נפשך קרב אליה‏    ובכל מאדך שמר דר]כ̊[            י‏]ה
-        </text>
-        <text>
-            <verse_nb>6:27	</verse_nb>
-            <line>8</line>[            דרש וחקר בקש ומצא‏  והתחזקתה ואל תר]פ̊ה
-        </text>
-        <text>
-            <verse_nb>6:28	</verse_nb>
-            <line>9</line>[            כי לאחור תמצא מנוחתה‏     ותהפך לך לת]ע̊נג
-        </text>
-        <text>
-            <verse_nb>6:29	</verse_nb>
-            <line>10</line>[            והיתה לך רשתה מכון עז‏    וחבלתה‏ ]ב̊ג̇ד̇י כתם
-        </text>
-        <text>
-            <verse_nb>6:30	</verse_nb>
-            <line>11</line>[            עלי זהב עולה‏   ומוסרתיה פתיל תכ]לת
-        </text>
-        <text>
-            <verse_nb>6:31	</verse_nb>
-            <line>12</line>[            בגדי כבוד תלבשנה‏         ועטר]ת תפארת תעטרנה
-        </text>
-        <text>
-            <verse_nb>6:32	</verse_nb>
-            <line>13</line>[	        ]
-        </text>
+            <verse_nb>6:26 </verse_nb><line>7</line>[בכל נפשך קרב אליה ובכל מאדך שמר דר]כ̊[י]ה</text>
     </Article>
 </Root>

@@ -1,0 +1,123 @@
+<root>
+    <ms name="Manuscript 11QPsa">
+        <div type="chap" n="51">
+            <div type="verse" n="13">
+                <line n="11" col="11Q5 XXI" />
+                <w reconstructed="0">אני</w>
+                <w reconstructed="0">נער</w>
+                <w reconstructed="0">בטרם</w>
+                <w reconstructed="0">תעיתי</w>
+                <w reconstructed="0">ובקשתיה</w>
+            </div>
+            <div type="verse" n="14">
+                <w reconstructed="0">באה</w>
+                <w reconstructed="0">לי</w>
+                <w reconstructed="0">בתרה</w>
+                <w reconstructed="0">ועד</w>
+                <line n="12" col="11Q5 XXI" />
+                <w reconstructed="0">סופה</w>
+                <w reconstructed="0">אדורשנה</w>
+            </div>
+            <div type="verse" n="15">
+                <w reconstructed="0">גם</w>
+                <w reconstructed="0">גרע</w>
+                <w reconstructed="0">נץ</w>
+                <w reconstructed="0">בבשול</w>
+                <w reconstructed="0">ענבים</w>
+                <w reconstructed="0">ישמחו</w>
+                <w reconstructed="0">לב</w>
+                <line n="13" col="11Q5 XXI" />
+                <w reconstructed="0">דרכה</w>
+                <w reconstructed="0">רגלי</w>
+                <w reconstructed="0">במישור</w>
+                <w reconstructed="0">כי</w>
+                <w reconstructed="0">מנעורי</w>
+                <w reconstructed="0">ידעתיה</w>
+            </div>
+            <div type="verse" n="16">
+                <w reconstructed="0">הטיתי</w>
+                <w reconstructed="0">כמעט</w>
+                <line n="14" col="11Q5 XXI" />
+                <w reconstructed="0">אוזני</w>
+                <w reconstructed="0">והרבה</w>
+                <w reconstructed="0">מצאתי</w>
+                <w reconstructed="0">לקח</w>
+            </div>
+            <div type="verse" n="17">
+                <w reconstructed="0">ועלה</w>
+                <w reconstructed="0">היתה</w>
+                <w reconstructed="0">לי</w>
+                <w reconstructed="0">למלמדי</w>
+                <w reconstructed="0">אתן</w>
+                <line n="15" col="11Q5 XXI" />
+                <w reconstructed="0">הודו</w>
+            </div>
+            <div type="verse" n="18">
+                <w reconstructed="0">זמותי</w>
+                <w reconstructed="0">ואשחקה</w>
+                <w reconstructed="0">קנאתי</w>
+                <w reconstructed="0">בטוב</w>
+                <w reconstructed="0">ולוא</w>
+                <w reconstructed="0">אשוב</w>
+            </div>
+            <div type="verse" n="19ab">
+                <w reconstructed="0">חריתי</w>
+                <line n="16" col="11Q5 XXI" />
+                <w reconstructed="0">נפשי</w>
+                <w reconstructed="0">בה</w>
+                <w reconstructed="0">ופני</w>
+                <w reconstructed="0">לוא</w>
+                <w reconstructed="0">השי̇ב̇ותי̊</w>
+            </div>
+            <div type="verse" n="19cd">
+                <w reconstructed="0">טרתי</w>
+                <w reconstructed="0">נפשי</w>
+                <w reconstructed="0">בה</w>
+                <w reconstructed="0">וברומיה</w>
+                <w reconstructed="0">לוא</w>
+                <line n="17" col="11Q5 XXI" />
+                <w reconstructed="0">אשלה</w>
+            </div>
+            <div type="verse" n="19ef">
+                <w reconstructed="0">ידי</w>
+                <w reconstructed="1">פתח̊<g type='reconstructed'>ה</g></w>
+                <w reconstructed="1"><g type='reconstructed'>בי</g>א̇ת̊ה̊</w>
+                <w reconstructed="0">ו̊ב̇מערמיה</w>
+                <w reconstructed="0">אתבונן</w>
+            </div>
+            <div type="verse" n="20ab">
+                <w reconstructed="0">כפי</w>
+                <w reconstructed="0">הברותי</w>
+                <w reconstructed="0">אלי̇ה̇</w>
+                <line n="18" col="11Q5 XXI" />
+                <w reconstructed="1"><g type='reconstructed'>ובטהר</g>ה̊</w>
+                <w reconstructed="1">
+                    <g type='reconstructed'>מצאתיה</g>
+                </w>
+            </div>
+            <div type="verse" n="20cd">
+                <w reconstructed="1">
+                    <g type='reconstructed'>לב</g>
+                </w>
+                <w reconstructed="1">
+                    <g type='reconstructed'>קניתי</g>
+                </w>
+                <w reconstructed="1">
+                    <g type='reconstructed'>עמה</g>
+                </w>
+                <w reconstructed="1"><g type='reconstructed'>מר</g>א̊ש̊</w>
+                <w reconstructed="1">ל̇<g type='reconstructed'>כן</g></w>
+                <w reconstructed="1"><g type='reconstructed'>לו</g>א̊</w>
+                <w reconstructed="1">א̊ע̊<g type='reconstructed'>ז</g>ב̊נ̊ה̊</w>
+            </div>
+            <div type="verse" n="30">
+                <w reconstructed="1">
+                    <g type='reconstructed'>...</g>
+                </w>
+                <line n="1" col="11Q5 XXII" />
+                <w reconstructed="0">שכרכם</w>
+                <w reconstructed="0">בעתו</w>
+            </div>
+        </div>
+    </ms>
+</root>

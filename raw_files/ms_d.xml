@@ -1,98 +1,247 @@
-<?xml version="1.0" encoding="UTF-8" standalone="yes"?> 
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <Root>
     <Article>
         <ms>Manuscript D</ms>
-        <chap>Siracide 7</chap>
-        <folio>TS AS 118.78 recto</folio>
-        <text>	<verse_nb>18	</verse_nb><line>1</line>[אל תמיר אוה]ב במחיר	ואח תלוי בזהב אופיר׃	</text>
-        <text>	<verse_nb>19	</verse_nb>א̇ל ת̊מ̊א̇ס̊ א̇ש̇ה̊<line> 2</line>[משכ]ל̇ת̇	וטוב̊ת חן̇ מ̇פנינים׃ </text>
-        <text>	<verse_nb>20	</verse_nb>אל̇ ת̊ר̊ע̊ [ב]א̊מ̊[ת] עוב̊[ד <line>3</line>אמת]	[וכ]ן̇ ש̊ו̊כ̊ר̊ נו̊ת̇ן נפשו׃ </text>
-        <text>	<verse_nb>21	</verse_nb>עבד משכ̊י̊ל ח̊ב̇ב  <line>4</line>[כנ]פ̊ש̊	אל תמנע ממנו חפש׃ </text>
-        <text>	<verse_nb>22	</verse_nb>בהמה [ל]ך̊ ראה עיניך	<line>5</line>[ואם] א̇מ̇נה היא העמידה׃ </text>
-        <text>	<verse_nb>23	</verse_nb>בני̇ם̊ ל̇ך̇ [י]ס̊ר אותם	ושא̇ <line>6</line>[לה]ם נשים בנעוריהם׃ </text>
-        <text>	<verse_nb>24	</verse_nb>בנ̇ות̇ ל̇ך̇ [נ]צ̇ו̊ר שא[רם]	<line>7</line>[ואל ת]א̇י̇ר א̇ליהם פנים׃ </text>
-        <text>	<verse_nb>25	</verse_nb>ה[וצא בת ויצא עסק]	<line>8</line>[וא]ל̇ נבון גבר חברה׃ </text>
-        <text>	<verse_nb>26	</verse_nb>אשה ל̇ך̇ א̊ל̊ [תתעבה]	[ושנואה <line>9</line>א]ל̇ תאמן בה׃ </text>
-        <text>	<verse_nb>29	</verse_nb>בכל לבך פחד א̇ל	ואת כ̊ה̊נ̊[יו ]ה̊ק[דיש]</text>
-        <text>	<verse_nb>30	</verse_nb><line>10</line>[בכל] מ̇א̇ודך אהוב̇ עושך	וא̇ת̇ מ̇ש̇ר̇תיו לא̇ ת̊ע̊ז̊ב׃</text>
-        <text>	<verse_nb>31	</verse_nb><line>11</line>כ̊ב̊[ד אל והדר ]כ̊ה̊ן̊	ותן̇ ח̇לקם̇ כאשר צ̇ויתה׃</text>
-        <text>	<verse_nb>	</verse_nb><line>12</line>לחם אביר̇י̊ם̊ ו̊ת̇ר̊ומתה׃	ז̊ב̊[חי ]צ̊ד̊ק̇[ ותרו]מת [ק]דש׃</text>
-        <text>	<verse_nb>32	</verse_nb><line>13</line>וגם לאביו הושיטה יד	למען תשלם ברכתך׃</text>
-        <text>	<verse_nb>33	</verse_nb><line>14</line>תן מתן לפני כל חי	וגם ממת [א]ל תמנע חסד׃</text>
-        <text>	<verse_nb>34	</verse_nb><line>15</line>אל תתאחר מבוכים	ועם אבילים התאבל׃</text>
-        <text>	<verse_nb>35	</verse_nb><line>16</line>אל[ תשא לב מאוהב]	[כי ממנו תאהב׃] </text>
-        <text>	<verse_nb>36	</verse_nb>[בכ]ל <line>17</line>[מעשיך זכור אחרית]	[ולעו]ל̇ם̊ לא ת̊[שחת׃] </text>
-        <chap>Siracide 8</chap>
-        <text>	<verse_nb>1	</verse_nb>א̇ל <line>18</line>ת̇ר̊[יב עם̇ איש ג]ד̊ו̊ל̇	ל̇מ̇ה̊ ת̇ש̇ו̇ב̇ על י̇ד̇ו̊</text>
-        <folio>T-S AS 118.78 verso</folio>
-        <text>	<verse_nb>	</verse_nb>אל <line>1</line>ת̇ר̇יב ע̊[ם קש]ה̇ ממך	למה תפול בידו׃	</text>
-        <text>	<verse_nb>2	</verse_nb>אל תחרוש ע̊ל̇ <line>2</line>אי̊ש̊ לו ה̇ן	פ̇ן [יש]ק̊ל [מ]ח֯י̇ר̇ך̇ ואבדת׃</text>
-        <text>	<verse_nb>	</verse_nb>כ̇י̇ ר̇ב̊י̊ם הפח̊י̊[ז זהב]	<line>3</line>ו̇ה̇ן מ̇ש̇ג̇ה̇ לבות̇ נ̊דיבים׃ </text>
-        <text>	<verse_nb>3	</verse_nb>אל תינץ עם̇ אי̊ש̊ ל̇[ש]ו̊ן	ו̇א̇ל̇ [תתן] <line>4</line>על אש עצים׃ </text>
-        <text>	<verse_nb>4	</verse_nb>א̊ל̊ תרגיל עם איש אויל	פן יבוז לנ̊ד̊י̊ב̊י̊ם̊</text>
-        <text>	<verse_nb>5	</verse_nb><line>5</line>אל ת̇כלים אי̊[ש] ש̇ב̇ מפשע	זכר כי כלנו חייבים׃ </text>
-        <text>	<verse_nb>6	</verse_nb>א̊[ל <line>6</line>תבייש̇ אנוש י]ש̊[י]ש̊	כ̇י̊ נמנה מזקנים׃ </text>
-        <text>	<verse_nb>7	</verse_nb>אל תתהלל על̊ <line>7</line>[גוע]	[זכר כלנו נאספים׃] </text>
-        <text>	<verse_nb>8	</verse_nb>אל ת̇טש ש̇יח̇ת̊ ח̊כ̇מ̇י̊ם̇	<line>8</line>[ובחידתיהם התרטש׃]</text>
-        <text>	<verse_nb>	</verse_nb>כ̊י ממנו תלמוד לקח	ל̊ה̊ת̊[יצב <line>9</line>לפני שרים׃] </text>
-        <text>	<verse_nb>9	</verse_nb>[אל ת]מ̊א̊ס̊ ב̇שמיעות שב̊י̊ם̇	אשר ש̊מ̊ע̊[ו <line>10</line>מאבתם׃]</text>
-        <text>	<verse_nb>	</verse_nb>[כי] מ̊מ̊נ̊ו̊ ת̊ק̊ח̊ ש̇כ̇ל̇	בע̊ת̊ צ̇ורך להש̇י̊ב פ̇[תגם׃]</text>
-        <text>	<verse_nb>10	</verse_nb><line>11</line>א̇ל ת̇צ̊[לח] ב̇נ̊ח̇ל̇[ת רשע]	פ̊[ן] ת̊ב̇ע̇ר כ̇/ב̇ש̇ב̇י̊ב̊ אש̊[ו׃] </text>
-        <text>	<verse_nb>11	</verse_nb>[א]ל̊[ תזוח] <line>12</line>מ̊פ̊נ̊י̊ ל̇ץ̇	ל̇[הושיבו כאורב ל]פ̊נ̊י̊ך </text>
-        <text><margin_car>כמא̊בד̇</margin_car>	<verse_nb>12	</verse_nb>א̊[ל] ת̊[לוה] א̊י̊[ש] ח̊ז̊ק̊ מ̇מ̇ך̇	<line>13</line> <vacat_car>vacat</vacat_car> ו̇א̊ם̇ הלוית כמא◦ֿ◦</text>
-        <text>	<verse_nb>13	</verse_nb>אל תערב ית̊ר̊ מ̇מ̇ך	ואם <line>14</line>ערבת כמשלם׃ </text>
-        <text>	<verse_nb>14	</verse_nb>אל תשפוט עם שופט	כי כרצונו ישפט׃</text>
-        <text>	<verse_nb>15	</verse_nb><line>15</line>עם אכזרי אל תלך	פן תכביד את רעת̊ך׃</text>
-        <text>	<verse_nb>	</verse_nb>כי ה̊ו̊א̊ נ̇כח <line>16</line>פניו ילך̇	ובא̇ולתו תספה׃ </text>
-        <text>	<verse_nb>16	</verse_nb>עם בעל אף אל תעיז  <line>17</line>מ̇צ̊ח̊	ו̊א̊ל ת̊ר̊כ̊ב̊ ע̊מ̊ו̊ ב̊ד̊ר̊ך̊[׃]</text>
-        <text>	<verse_nb>	</verse_nb>[כי קל בעיניו דמי]ם̇	<line>18</line>ובאין מצ̇י̊ל ישחיתך </text>
-        <text>	<verse_nb>17	</verse_nb>ע̊ם̊ פ̊ו̊ת̊ה̊ א̊ל[ תסתייד]	[כי לא] <line>19</line>יוכל לכסות סודך׃ </text>
-        <text>	<verse_nb>18	</verse_nb>לפני זר אל ת̇ע̊ש̊ ר̊[ז]	[כי] לא̊ תדע</text>
-        <chap>Siracide 36</chap>
-        <folio>BAIU Paris DII recto</folio>
-        <text>	<verse_nb>29	</verse_nb><line>1</line>ק̊נ̊ה̊ א̊ש̊ה̊ ר̊אש̊י̊ת̊ ק̇נ̊י̊ן	עיר̇ מ̇בצר ועמ̊ו̊ד̊ מ̇ש̊ע̊ן̊׃	</text>
-        <text>	<verse_nb>30	</verse_nb><line>2</line>באין גדר יבע̊ר̇ כרם̊	ובאין אשה נע ונד׃</text>
-        <text>	<verse_nb>31	</verse_nb>מ̇י יאמין <line>3</line>בגדוד צבא	המדלג מ̊עיר אל עיר׃</text>
-        <text>	<verse_nb>	</verse_nb>כן איש אשר <line>4</line>אין לו קן	המרגיע באשר יערב׃</text>
-        <chap>Siracide 37</chap>
-        <text>	<verse_nb>1	</verse_nb>כל אוהב אומר <line>5</line>אהבתי	אך יש אהב שם אהב׃</text>
-        <text>	<verse_nb>2	</verse_nb>הלא דין מגיע <line>6</line>עד מות	ריע כנפש נהפך לצר׃</text>
-        <text>	<verse_nb>3	</verse_nb>הוֹי רַ֭ע יֹאמַ֥ר מדוע <line>7</line>נוצָ֑רתי	לְמַלֵּא֤ ׀ פְנֵי֭ תֵבֵֿל֥ תַּרְמִיֽת׃</text>
-        <text>	<verse_nb>4	</verse_nb>מרע אוהב <line>8</line>מביט על שחת	ובעת צוקה מנוב יעמוד׃</text>
-        <text>	<verse_nb>5	</verse_nb><line>9</line>אוהב טוב נלחם עם זר	ונגד ערים יחזיק צנה׃</text>
-        <text>	<verse_nb>6	</verse_nb><line>10</line>אל תשכח חבר בֶקֶרֶב	ואל תעזבהו בשללך׃</text>
-        <text>	<verse_nb>7	</verse_nb>כל <line>11</line>יועץ אומר חזה	אך יש יועץ דרך עליו׃</text>
-        <text>	<verse_nb>8	</verse_nb>מ̇י̇ו̇עץ <line>12</line>שמר נפ{ש}<supralinear>ש</supralinear>ך	ודע לפנים מה צרכו׃</text>
-        <text>	<verse_nb>	</verse_nb>כי גם הוא <line>13</line>נפשו יחשב	למה זה אליו יפול׃</text>
-        <text>	<verse_nb>9	</verse_nb>וי̇א̇מ̇ר לך להביט <line>14</line>דרכיך	וקם מנגד להביט ראשך׃</text>
-        <text>	<verse_nb>10	</verse_nb>אל תועץ עם <line>15</line>חמיך	וממקנא העלים סוד׃</text>
-        <text>	<verse_nb>11ab	</verse_nb>עם אשה אל צרתה	<line>16</line>ומלוכד על מלחמה׃</text>
-        <text>	<verse_nb>11cd	</verse_nb>עם סוחר אל תתגר	ומקונה <line>17</line>על ממכרו׃</text>
-        <text>	<verse_nb>11ef	</verse_nb>עם איש רע על גמילות חסד	<line>18</line>ואכזרי על טוב בשר׃</text>
-        <text>	<verse_nb>11gh	</verse_nb>פועל שכיר על מ̊לאכת[ו]	<line>19</line>שכיר שנה על מוצא זרע׃</text>
-        <folio>BAIU Paris DII verso</folio>
-        <text>	<verse_nb>12	</verse_nb><line>19</line>אך אם איש מפחד <line>20</line>תמיד	<line>1</line>א̊ש̊ר̊ תד̊ע שומר מצוה׃	</text>
-        <text>	<verse_nb>	</verse_nb>אשר̇ ע̇ם̇ ב̇לב̇בו̇ כלב̇ב̇ך̊	<line>2</line>ואם יכשל יעבד בך׃</text>
-        <text>	<verse_nb>13	</verse_nb>וגם עצת̇ לבבו̇ כך	כי אם <line>3</line>אמון ממנו׃</text>
-        <text>	<verse_nb>14	</verse_nb>לב אנוש מגיד שעיותיו	משבעה <line>4</line>צפים על שן׃</text>
-        <text>	<verse_nb>15	</verse_nb>ועִם כל אלה העתר אל אֵל	<line>5</line>אשר יכין באמת צעדך׃</text>
-        <text>	<verse_nb>16	</verse_nb>ראש כל מעשה מאמר	<line>6</line>לפני כל פעל היא מחשבת׃</text>
-        <text>	<verse_nb>17/18	</verse_nb>עקר תחבולות <line>7</line>לבב	ארבעה שרביטים̇ יפריח׃</text>
-        <text>	<verse_nb>	</verse_nb>טוב ורע מות <line>8</line>וחיים	ומשלח בם כליל לשון׃</text>
-        <text>	<verse_nb>19	</verse_nb>יש חכם לרביﬦ <line>9</line>נחכם	ולנפשו הוא נוא‍ל׃</text>
-        <text>	<verse_nb>20	</verse_nb>ויש חכם בדברו ימאס	<line>10</line>ומכל מאכל תענוג נבצר׃</text>
-        <text>	<verse_nb>22	</verse_nb>ויש חכם לנפשו י̊חכם	<line>11</line>פ̇ר̇י̇ דעתו על גוית̇ו׃</text>
-        <text>	<verse_nb>	</verse_nb>ויש חכם לעמו יכחם	פרי <line>12</line>דעתו בגויתם׃</text>
-        <text>	<verse_nb>25	</verse_nb>חיי אנוש ימים מספר	<Article><margin>גויתהן מספר יש̊ ימים וגוית שם י̊מ̊י̊ אין מספר</margin></Article>וחיי ישרון <line>13</line>ימי אין מספר̊׃</text>
-        <text>	<verse_nb>24	</verse_nb>חכם לנפשו ישבע תענוג	ויאשריהו <line>14</line>כל רואיהו׃</text>
-        <text>	<verse_nb>26	</verse_nb><line>14</line>חכם עם ינחל כבוד	ושמו עומד <line>15</line>בחיי עולם׃</text>
-        <text>	<verse_nb>27	</verse_nb><line>15</line>בני <supralinear>ב</supralinear>חמר נס נפשך	וראה:מה רע <line>16</line>לה ואל תתן לה׃</text>
-        <text>	<verse_nb>28	</verse_nb><line>16</line>כי לא לכל טוב תענוג	ולא לכל <line>17</line>נפש כל זן תבחר׃</text>
-        <text>	<verse_nb>29	</verse_nb><line>17</line>אל תזד אל תענוג	ואל /// <line>18</line>תתחנג על מטעמים׃</text>
-        <text>	<verse_nb>30	</verse_nb><line>18</line>כי ברב אוכל יקנון <line>19</line>חולי	והמזיע יגוע על זרא׃</text>
-        <text>	<verse_nb>31	</verse_nb><line>19</line>בלא מוסר רבים <line>20</line>גועו	והנשמר יוסיף חיים׃</text>
-        <chap>Chapitre 38</chap>
-        <text>	<verse_nb>1	</verse_nb><line>20</line>רעה רועה רופא לפי [</text>
-        
+        <chap>Chapter 7</chap>
+        <text>
+            <verse_nb>18 <parallel>A</parallel>
+            </verse_nb><folio>t-s as 118.78 recto</folio><line>1</line>[אל תמיר אוה]ב במחיר ואח תלוי בזהב אופיר׃ </text>
+        <text>
+            <verse_nb>19<parallel> A</parallel>
+            </verse_nb>א̇ל ת̊מ̊א̇ס̊ א̇ש̇ה̊<line> 2</line>[משכ]ל̇ת̇ וטוב̊ת חן̇ מ̇פנינים׃ </text>
+        <text>
+            <verse_nb>20<parallel> AC</parallel>
+            </verse_nb>אל̇ ת̊ר̊ע̊ [ב]א̊מ̊[ת] עוב̊[ד <line>3</line>אמת] [וכ]ן̇ ש̊ו̊כ̊ר̊ נו̊ת̇ן נפשו׃ </text>
+        <text>
+            <verse_nb>21<parallel> AC</parallel>
+            </verse_nb>עבד משכ̊י̊ל ח̊ב̇ב <line>4</line>[כנ]פ̊ש̊ אל תמנע ממנו חפש׃ </text>
+        <text>
+            <verse_nb>22<parallel> A</parallel>
+            </verse_nb>בהמה [ל]ך̊ ראה עיניך <line>5</line>[ואם] א̇מ̇נה היא העמידה׃ </text>
+        <text>
+            <verse_nb>23<parallel> AC</parallel>
+            </verse_nb>בני̇ם̊ ל̇ך̇ [י]ס̊ר אותם ושא̇ <line>6</line>[לה]ם נשים בנעוריהם׃ </text>
+        <text>
+            <verse_nb>24<parallel> AC</parallel>
+            </verse_nb>בנ̇ות̇ ל̇ך̇ [נ]צ̇ו̊ר שא[רם] <line>7</line>[ואל ת]א̇י̇ר א̇ליהם פנים׃ </text>
+        <text>
+            <verse_nb>25<parallel> AC</parallel>
+            </verse_nb>ה[וצא בת ויצא עסק] <line>8</line>[וא]ל̇ נבון גבר חברה׃ </text>
+        <text>
+            <verse_nb>26<parallel> A</parallel>
+            </verse_nb>אשה ל̇ך̇ א̊ל̊ [תתעבה] [ושנואה <line>9</line>א]ל̇ תאמן בה׃ </text>
+        <text>
+            <verse_nb>29<parallel> A</parallel>
+            </verse_nb>בכל לבך פחד א̇ל ואת כ̊ה̊נ̊[יו ]ה̊ק[דיש׃]</text>
+        <text>
+            <verse_nb>30<parallel> A</parallel>
+            </verse_nb><line>10</line>[בכל] מ̇א̇ודך אהוב̇ עושך וא̇ת̇ מ̇ש̇ר̇תיו לא̇ ת̊ע̊ז̊ב׃</text>
+        <text>
+            <verse_nb>31<parallel> A</parallel>
+            </verse_nb><line>11</line>כ̊ב̊[ד אל והדר ]כ̊ה̊ן̊ ותן̇ ח̇לקם̇ כאשר צ̇ויתה׃</text>
+        <text>
+            <verse_nb> </verse_nb><line>12</line>לחם אביר̇י̊ם̊ ו̊ת̇ר̊ומתה ז̊ב̊[חי ]צ̊ד̊ק̇[ ותרו]מת [ק]דש׃</text>
+        <text>
+            <verse_nb>32<parallel> A</parallel>
+            </verse_nb><line>13</line>וגם לאביו הושיטה יד למען תשלם ברכתך׃</text>
+        <text>
+            <verse_nb>33<parallel> A</parallel>
+            </verse_nb><line>14</line>תן מתן לפני כל חי וגם ממת [א]ל תמנע חסד׃</text>
+        <text>
+            <verse_nb>34<parallel> A</parallel>
+            </verse_nb><line>15</line>אל תתאחר מבוכים ועם אבילים התאבל׃</text>
+        <text>
+            <verse_nb>35<parallel> A</parallel>
+            </verse_nb><line>16</line>אל[ תשא לב מאוהב] [כי ממנו תאהב׃] </text>
+        <text>
+            <verse_nb>36<parallel> A</parallel>
+            </verse_nb>[בכ]ל <line>17</line>[מעשיך זכור אחרית] [ולעו]ל̇ם̊ לא ת̊[שחת׃] </text>
+        <chap>Chapter 8</chap>
+        <text>
+            <verse_nb>1<parallel> A</parallel>
+            </verse_nb>א̇ל <line>18</line>ת̇ר̊[יב עם̇ איש ג]ד̊ו̊ל̇ ל̇מ̇ה̊ ת̇ש̇ו̇ב̇ על י̇ד̇ו̊</text>
+        <text>
+            <verse_nb> </verse_nb>אל <folio>t-s as 118.78 verso</folio><line>1</line>ת̇ר̇יב ע̊[ם קש]ה̇ ממך למה תפול בידו׃ </text>
+        <text>
+            <verse_nb>2<parallel> A</parallel>
+            </verse_nb>אל תחרוש ע̊ל̇ <line>2</line>אי̊ש̊ לו ה̇ן פ̇ן [יש]ק̊ל [מ]ח̊י̇ר̇ך̇ ואבדת׃</text>
+        <text>
+            <verse_nb> </verse_nb>כ̇י̇ ר̇ב̊י̊ם הפח̊י̊[ז זהב] <line>3</line>ו̇ה̇ן מ̇ש̇ג̇ה̇ לבות̇ נ̊דיבים׃ </text>
+        <text>
+            <verse_nb>3<parallel> A</parallel>
+            </verse_nb>אל תינץ עם̇ אי̊ש̊ ל̇[ש]ו̊ן ו̇א̇ל̇ [תתן] <line>4</line>על אש עצים׃ </text>
+        <text>
+            <verse_nb>4<parallel> A</parallel>
+            </verse_nb>א̊ל̊ תרגיל עם איש אויל פן יבוז לנ̊ד̊י̊ב̊י̊ם̊</text>
+        <text>
+            <verse_nb>5<parallel> A</parallel>
+            </verse_nb><line>5</line>אל ת̇כלים אי̊[ש] ש̇ב̇ מפשע זכר כי כלנו חייבים׃ </text>
+        <text>
+            <verse_nb>6<parallel> A</parallel>
+            </verse_nb>א̊[ל <line>6</line>תבייש̇ אנוש י]ש̊[י]ש̊ כ̇י̊ נמנה מזקנים׃ </text>
+        <text>
+            <verse_nb>7<parallel> A</parallel>
+            </verse_nb>אל תתהלל על̊ <line>7</line>[גוע] [זכר כלנו נאספים׃] </text>
+        <text>
+            <verse_nb>8<parallel> A</parallel>
+            </verse_nb>אל ת̇טש ש̇יח̇ת̊ ח̊כ̇מ̇י̊ם̇ <line>8</line>[ובחידתיהם התרטש׃]</text>
+        <text>
+            <verse_nb> </verse_nb>כ̊י ממנו תלמוד לקח ל̊ה̊ת̊[יצב <line>9</line>לפני שרים׃] </text>
+        <text>
+            <verse_nb>9<parallel> A</parallel>
+            </verse_nb>[אל ת]מ̊א̊ס̊ ב̇שמיעות שב̊י̊ם̇ אשר ש̊מ̊ע̊[ו <line>10</line>מאבתם׃]</text>
+        <text>
+            <verse_nb> </verse_nb>[כי] מ̊מ̊נ̊ו̊ ת̊ק̊ח̊ ש̇כ̇ל̇ בע̊ת̊ צ̇ורך להש̇י̊ב פ̇[תגם׃]</text>
+        <text>
+            <verse_nb>10<parallel> A</parallel>
+            </verse_nb><line>11</line>א̇ל ת̇צ̊[לח] ב̇נ̊ח̇ל̇[ת רשע] פ̊[ן] ת̊ב̇ע̇ר כ̇/ב̇ש̇ב̇י̊ב̊ אש̊[ו׃] </text>
+        <text>
+            <verse_nb>11<parallel> A</parallel>
+            </verse_nb>[א]ל̊[ תזוח] <line>12</line>מ̊פ̊נ̊י̊ ל̇ץ̇ ל̇[הושיבו כאורב ל]פ̊נ̊י̊ך </text>
+        <text><margin_car>כמא̊בד̇</margin_car>	<verse_nb>12<parallel> A</parallel>
+            </verse_nb>א̊[ל] ת̊[לוה] א̊י̊[ש] ח̊ז̊ק̊ מ̇מ̇ך̇ <line>13</line> <vacat_car>vacat</vacat_car> ו̇א̊ם̇ הלוית כמא◦ֿ◦</text>
+        <text>
+            <verse_nb>13<parallel> A</parallel>
+            </verse_nb>אל תערב ית̊ר̊ מ̇מ̇ך ואם <line>14</line>ערבת כמשלם׃ </text>
+        <text>
+            <verse_nb>14<parallel> A</parallel>
+            </verse_nb>אל תשפוט עם שופט כי כרצונו ישפט׃</text>
+        <text>
+            <verse_nb>15<parallel> A</parallel>
+            </verse_nb><line>15</line>עם אכזרי אל תלך פן תכביד את רעת̊ך׃</text>
+        <text>
+            <verse_nb> </verse_nb>כי ה̊ו̊א̊ נ̇כח <line>16</line>פניו ילך̇ ובא̇ולתו תספה׃ </text>
+        <text>
+            <verse_nb>16<parallel> A</parallel>
+            </verse_nb>עם בעל אף אל תעיז <line>17</line>מ̇צ̊ח̊ ו̊א̊ל ת̊ר̊כ̊ב̊ ע̊מ̊ו̊ ב̊ד̊ר̊ך̊[׃]</text>
+        <text>
+            <verse_nb> </verse_nb>[כי קל בעיניו דמי]ם̇ <line>18</line>ובאין מצ̇י̊ל ישחיתך </text>
+        <text>
+            <verse_nb>17<parallel> A</parallel>
+            </verse_nb>ע̊ם̊ פ̊ו̊ת̊ה̊ א̊ל[ תסתייד] [כי לא] <line>19</line>יוכל לכסות סודך׃ </text>
+        <text>
+            <verse_nb>18<parallel> A</parallel>
+            </verse_nb>לפני זר אל ת̇ע̊ש̊ ר̊[ז] [כי] לא̊ תדע</text>
+        <chap>Chapter 36</chap>
+        <text>
+            <verse_nb>29 <parallel>BCP</parallel>
+            </verse_nb><folio>baiu id2 recto</folio><line>1</line>ק̊נ̊ה̊ א̊ש̊ה̊ ר̊אש̊י̊ת̊ ק̇נ̊י̊ן עיר̇ מ̇בצר ועמ̊ו̊ד̊ מ̇ש̊ע̊ן̊׃ </text>
+        <text>
+            <verse_nb>30<parallel> BCP</parallel>
+            </verse_nb><line>2</line>באין גדר יבע̊ר̇ כרם̊ ובאין אשה נע ונד׃</text>
+        <text>
+            <verse_nb>31<parallel> BC</parallel>
+            </verse_nb>מ̇י יאמין <line>3</line>בגדוד צבא המדלג מ̊עיר אל עיר׃</text>
+        <text>
+            <verse_nb> </verse_nb>כן איש אשר <line>4</line>אין לו קן המרגיע באשר יערב׃</text>
+        <chap>Chapter 37</chap>
+        <text>
+            <verse_nb>1<parallel> BC</parallel>
+            </verse_nb>כל אוהב אומר <line>5</line>אהבתי אך יש אהב שם אהב׃</text>
+        <text>
+            <verse_nb>2<parallel> BC</parallel>
+            </verse_nb>הלא דין מגיע <line>6</line>עד מות ריע כנפש נהפך לצר׃</text>
+        <text>
+            <verse_nb>3<parallel> B</parallel>
+            </verse_nb>הוֹי רַ֭ע יֹאמַ֥ר מדוע <line>7</line>נוצָ֑רתי לְמַלֵּא֤ ׀ פְנֵי֭ תֵבֵֿל֥ תַּרְמִיֽת׃</text>
+        <text>
+            <verse_nb>4<parallel> B</parallel>
+            </verse_nb>מרע אוהב <line>8</line>מביט על שחת ובעת צוקה מנוב יעמוד׃</text>
+        <text>
+            <verse_nb>5<parallel> B</parallel>
+            </verse_nb><line>9</line>אוהב טוב נלחם עם זר ונגד ערים יחזיק צנה׃</text>
+        <text>
+            <verse_nb>6<parallel> BP</parallel>
+            </verse_nb><line>10</line>אל תשכח חבר בֶקֶרֶב ואל תעזבהו בשללך׃</text>
+        <text>
+            <verse_nb>7<parallel> B</parallel>
+            </verse_nb>כל <line>11</line>יועץ אומר חזה אך יש יועץ דרך עליו׃</text>
+        <text>
+            <verse_nb>8<parallel> BP</parallel>
+            </verse_nb>מ̇י̇ו̇עץ <line>12</line>שמר נפ{ש}<superscript>ש</superscript>ך ודע לפנים מה צרכו׃</text>
+        <text>
+            <verse_nb> </verse_nb>כי גם הוא <line>13</line>נפשו יחשב למה זה אליו יפול׃</text>
+        <text>
+            <verse_nb>9<parallel> B</parallel>
+            </verse_nb>וי̇א̇מ̇ר לך להביט <line>14</line>דרכיך וקם מנגד להביט ראשך׃</text>
+        <text>
+            <verse_nb>10<parallel> B</parallel>
+            </verse_nb>אל תועץ עם <line>15</line>חמיך וממקנא העלים סוד׃</text>
+        <text>
+            <verse_nb>11ab<parallel> B</parallel>
+            </verse_nb>עם אשה אל צרתה <line>16</line>ומלוכד על מלחמה׃</text>
+        <text>
+            <verse_nb>11cd<parallel> B</parallel>
+            </verse_nb>עם סוחר אל תתגר ומקונה <line>17</line>על ממכרו׃</text>
+        <text>
+            <verse_nb>11ef<parallel> B</parallel>
+            </verse_nb>עם איש רע על גמילות חסד <line>18</line>ואכזרי על טוב בשר׃</text>
+        <text>
+            <verse_nb>11gh<parallel> B</parallel>
+            </verse_nb>פועל שכיר על מ̊לאכת[ו] <line>19</line>שכיר שנה על מוצא זרע׃</text>
+        <text>
+            <verse_nb>12 <parallel>B</parallel>
+            </verse_nb>אך אם איש מפחד <line>20</line>תמיד <folio>baiu id2 verso</folio><line>1</line>א̊ש̊ר̊ תד̊ע שומר מצוה׃ </text>
+        <text>
+            <verse_nb> </verse_nb>אשר̇ ע̇ם̇ ב̇לב̇בו̇ כלב̇ב̇ך̊ <line>2</line>ואם יכשל יעבד בך׃</text>
+        <text>
+            <verse_nb>13<parallel> B</parallel>
+            </verse_nb>וגם עצת̇ לבבו̇ כך כי אם <line>3</line>אמון ממנו׃</text>
+        <text>
+            <verse_nb>14<parallel> B</parallel>
+            </verse_nb>לב אנוש מגיד שעיותיו משבעה <line>4</line>צפים על שן׃</text>
+        <text>
+            <verse_nb>15<parallel> B</parallel>
+            </verse_nb>ועִם כל אלה העתר אל אֵל <line>5</line>אשר יכין באמת צעדך׃</text>
+        <text>
+            <verse_nb>16<parallel> B</parallel>
+            </verse_nb>ראש כל מעשה מאמר <line>6</line>לפני כל פעל היא מחשבת׃</text>
+        <text>
+            <verse_nb>17/18<parallel> B</parallel>
+            </verse_nb>עקר תחבולות <line>7</line>לבב ארבעה שרביטים̇ יפריח׃</text>
+        <text>
+            <verse_nb> </verse_nb>טוב ורע מות <line>8</line>וחיים ומשלח בם כליל לשון׃</text>
+        <text>
+            <verse_nb>19<parallel> BC</parallel>
+            </verse_nb>יש חכם לרביﬦ <line>9</line>נחכם ולנפשו הוא נוא‍ל׃</text>
+        <text>
+            <verse_nb>20<parallel> B</parallel>
+            </verse_nb>ויש חכם בדברו ימאס <line>10</line>ומכל מאכל תענוג נבצר׃</text>
+        <text>
+            <verse_nb>22<parallel> BC</parallel>
+            </verse_nb>ויש חכם לנפשו י̊חכם <line>11</line>פ̇ר̇י̇ דעתו על גוית̇ו׃</text>
+        <text>
+            <verse_nb>23<parallel> B</parallel>
+            </verse_nb>ויש חכם לעמו יכחם פרי <line>12</line>דעתו בגויתם׃</text>
+        <text>
+            <verse_nb>25<parallel> B</parallel>
+            </verse_nb>חיי אנוש ימים מספר <Article>
+                <margin>גויתהן מספר יש̊ ימים וגוית שם י̊מ̊י̊ אין מספר</margin>
+            </Article>וחיי ישרון <line>13</line>ימי אין מספר̊׃</text>
+        <text>
+            <verse_nb>24<parallel> BC</parallel>
+            </verse_nb>חכם לנפשו ישבע תענוג ויאשריהו <line>14</line>כל רואיהו׃</text>
+        <text>
+            <verse_nb>26<parallel> BC</parallel>
+            </verse_nb>חכם עם ינחל כבוד ושמו עומד <line>15</line>בחיי עולם׃</text>
+        <text>
+            <verse_nb>27<parallel> B</parallel>
+            </verse_nb>בני <superscript>ב</superscript>חמר נס נפשך וראה:מה רע <line>16</line>לה ואל תתן לה׃</text>
+        <text>
+            <verse_nb>28<parallel> B</parallel>
+            </verse_nb>כי לא לכל טוב תענוג ולא לכל <line>17</line>נפש כל זן תבחר׃</text>
+        <text>
+            <verse_nb>29<parallel> B</parallel>
+            </verse_nb>אל תזד אל תענוג ואל <line>18</line>תתחנג על מטעמים׃</text>
+        <text>
+            <verse_nb>30<parallel> B</parallel>
+            </verse_nb>כי ברב אוכל יקנון <line>19</line>חולי והמזיע יגוע על זרא׃</text>
+        <text>
+            <verse_nb>31<parallel> B</parallel>
+            </verse_nb>בלא מוסר רבים <line>20</line>גועו והנשמר יוסיף חיים׃</text>
+        <chap>Chapter 38</chap>
+        <text>
+            <verse_nb>1<parallel> B</parallel>
+            </verse_nb><line>20</line>רעה רועה רופא לפי [</text>
     </Article>
 </Root>

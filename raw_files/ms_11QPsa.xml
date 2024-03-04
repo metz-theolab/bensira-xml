@@ -1,22 +1,47 @@
-<?xml version="1.0" encoding="UTF-8" standalone="yes"?> 
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <Root>
     <Article>
-        <ms>Manuscript 11QPs</ms>
-        <chap>11Q5, col. XXI</chap>
-        <verse_nb>13    </verse_nb><line>11</line>אני נער בטרם תעיתי ובקשתיה</text>
-        <text>  <verse_nb>14    </verse_nb>באה לי בתרה  ועד </text>
-        <text> <line>12</line>סופה אדורשנה</text>
-        <text>  <verse_nb>15    </verse_nb>גם גרע נץ בבשול  ענבים ישמחו לב</text>
-        <text>  <verse_nb>  </verse_nb><line>13</line>דרכה רגלי במישור  כי מנעורי ידעתיה</text>
-        <text>  <verse_nb>16    </verse_nb>הטיתי כמעט <line>14</line>אוזני  והרבה מצאתי לקח</text>
-        <text>  <verse_nb>17    </verse_nb>ועלה היתה לי למלמדי אתן <line>15</line>הודו</text>
-        <text>  <verse_nb>18    </verse_nb>זמותי ואשחקה קנאתי בטוב ולוא אשוב</text>
-        <text>  <verse_nb>19    </verse_nb>חריתי <line>16</line>נפשי בה ופני לוא השי̇ב̇ותי֯ </text>
-        <text>  <verse_nb>  </verse_nb>טרתי נפשי בה וברומיה לוא <line>17</line>אשלה</text>
-        <text>  <verse_nb>  </verse_nb>ידי פתח֯[<reconstructed>ה בי</reconstructed>]א̇ת̊ה̊  ו̊ב̇מערמיה אתבונן </text>
-        <text>  <verse_nb>20    </verse_nb>כפי הברותי אלי̇ה̇    <line>18</line>[<reconstructed>ובטהר</reconstructed>]ה̊ [<reconstructed>מצאתיה</reconstructed>]</text>
-        <text>  <verse_nb>  </verse_nb>[<reconstructed>לב קניתי עמה מר</reconstructed>]א̊ש̊ ל̇[<reconstructed>כן לו</reconstructed>]א̊ א̊ע̊[<reconstructed>ז</reconstructed>]ב̊נ̊ה̊</text>
-        <chap>11Q5, col. XXII</chap>
-        <text>  <verse_nb>30    </verse_nb>[...] <line>1</line>שכרכם בעתו</text>
+        <ms>Manuscript 11QPsa</ms>
+        <chap>Chapter 51</chap>
+        <col>11Q5 XXI</col>
+        <text>
+            <verse_nb>13<parallel> BP</parallel>
+            </verse_nb><line>11</line>אני נער בטרם תעיתי ובקשתיה </text>
+        <text>
+            <verse_nb>14<parallel> B</parallel>
+            </verse_nb>באה לי בתרה ועד <line>12</line>סופה אדורשנה</text>
+        <text>
+            <verse_nb>15<parallel> B</parallel>
+            </verse_nb>גם גרע נץ בבשול ענבים ישמחו לב</text>
+        <text>
+            <verse_nb> </verse_nb><line>13</line>דרכה רגלי במישור כי מנעורי ידעתיה</text>
+        <text>
+            <verse_nb>16<parallel> B</parallel>
+            </verse_nb>הטיתי כמעט <line>14</line>אוזני והרבה מצאתי לקח</text>
+        <text>
+            <verse_nb>17<parallel> B</parallel>
+            </verse_nb>ועלה היתה לי למלמדי אתן <line>15</line>הודו</text>
+        <text>
+            <verse_nb>18<parallel> B</parallel>
+            </verse_nb>זמותי ואשחקה קנאתי בטוב ולוא אשוב</text>
+        <text>
+            <verse_nb>19ab<parallel> B</parallel>
+            </verse_nb>חריתי <line>16</line>נפשי בה ופני לוא השי̇ב̇ותי̊ </text>
+        <text>
+            <verse_nb>19cd<parallel> B</parallel>
+            </verse_nb>טרתי נפשי בה וברומיה לוא <line>17</line>אשלה</text>
+        <text>
+            <verse_nb>19ef<parallel> B</parallel>
+            </verse_nb>ידי פתח̊[ה בי]א̇ת̊ה̊ ו̊ב̇מערמיה אתבונן </text>
+        <text>
+            <verse_nb>20ab<parallel> BP</parallel>
+            </verse_nb>כפי הברותי אלי̇ה̇ <line>18</line>[ובטהר]ה̊ [מצאתיה]</text>
+        <text>
+            <verse_nb>20cd<parallel> B</parallel>
+            </verse_nb>[לב קניתי עמה מר]א̊ש̊ ל̇[כן לו]א̊ א̊ע̊[ז]ב̊נ̊ה̊</text>
+        <col>11Q5 XXII</col>
+        <text>
+            <verse_nb>30<parallel> B</parallel>
+            </verse_nb>[...] <line>1</line>שכרכם בעתו</text>
     </Article>
 </Root>
