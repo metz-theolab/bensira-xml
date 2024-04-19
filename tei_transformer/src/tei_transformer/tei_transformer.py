@@ -4,7 +4,6 @@ from xml.etree import ElementTree
 import re
 from typing import Tuple
 from xml.sax.saxutils import unescape
-from bidi.algorithm import get_display
 
 
 class TEITransformer:
