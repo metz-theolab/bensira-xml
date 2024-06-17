@@ -9,10 +9,12 @@
             </div>
             <div type="verse" n="25">
                 <line n="6" folio="t-s as 213.17 recto" />
-                <w reconstructed="1"><g type='reconstructed'>אל</g>
-            
-                  <w reconstructed="1"><g type='reconstructed'>תתג</g>בר</w>
-                    <stich />
+                <w reconstructed="1">
+                    <g type='reconstructed'>אל</g>
+                </w>
+
+                <w reconstructed="1"><g type='reconstructed'>תתג</g>בר</w>
+                <stich />
                 <w reconstructed="0">ר̊ב̇ים</w>
             </div>
             <div type="verse" n="26">
@@ -283,8 +285,10 @@
                     <g type='reconstructed'>דורש</g>
                 </w>
                 <w reconstructed="1"><g type='reconstructed'>ח</g>פצי̊<g type='reconstructed'></g></w>
-                  <w reconstructed="1"><g type='reconstructed'>אל</g></w>
-                <w reconstructed="1"><g type='reconstructed'>י</g>מצא<g type='reconstructed'></g></w>   
+                <w reconstructed="1">
+                    <g type='reconstructed'>אל</g>
+                </w>
+                <w reconstructed="1"><g type='reconstructed'>י</g>מצא<g type='reconstructed'></g></w>
                 <w reconstructed="0">לקח</w>
                 <stich />
                 <w reconstructed="0">ויענהו</w>

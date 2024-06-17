@@ -34,8 +34,10 @@
                 <w reconstructed="1"><g type='reconstructed'>ב</g>א̊מ̊<g type='reconstructed'>ת</g></w>
                 <w reconstructed="1">עוב̊<g type='reconstructed'>ד</g></w>
                 <line n="3" folio="t-s as 118.78 recto" />
-                 <w reconstructed="1">עוב̊<g type='reconstructed'>ד</g></w>
-                <w reconstructed="1"><g type='reconstructed'>אמת</g></w>
+                <w reconstructed="1">עוב̊<g type='reconstructed'>ד</g></w>
+                <w reconstructed="1">
+                    <g type='reconstructed'>אמת</g>
+                </w>
                 <stich />
                 <w reconstructed="1"><g type='reconstructed'>וכ</g>ן</w>
                 <w reconstructed="0">ש̊ו̊כ̊ר̊</w>
@@ -350,12 +352,14 @@
             <div type="verse" n="6">
                 <w reconstructed="1">א̊<g type='reconstructed'>ל</g></w>
                 <line n="6" folio="t-s as 118.78 verso" />
-                  <w reconstructed="1">
+                <w reconstructed="1">
                     <g type='reconstructed'>תבייש̇</g>
-                 <w reconstructed="1">
+                </w>
+                <w reconstructed="1">
                     <g type='reconstructed'>אנוש</g>
-                 <w reconstructed="1"><g type='reconstructed'>י</g>ש̊<g type='reconstructed'>י</g>ש̊</w>
-                     <stich />
+                </w>
+                <w reconstructed="1"><g type='reconstructed'>י</g>ש̊<g type='reconstructed'>י</g>ש̊</w>
+                <stich />
                 <w reconstructed="0">כ̇י̊</w>
                 <w reconstructed="0">נמנה</w>
                 <w reconstructed="0">מזקנים׃</w>
@@ -399,10 +403,12 @@
                 <stich />
                 <w reconstructed="1">ל̊ה̊ת̊<g type='reconstructed'>יצב</g></w>
                 <line n="9" folio="t-s as 118.78 verso" />
-                 <w reconstructed="1">
+                <w reconstructed="1">
                     <g type='reconstructed'>לפני</g>
+                </w>
                 <w reconstructed="1">
                     <g type='reconstructed'>שרים׃</g>
+                </w>
             </div>
             <div type="verse" n="9">
                 <w reconstructed="1">
