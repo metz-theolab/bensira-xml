@@ -1,6 +1,7 @@
 # Ben Sira XML Files
 
-XML files for the new transcription of the Ben Sira manuscripts by F. Rey.
+XML files from the new transcription of the Ben Sira manuscripts by Frédérique Michèle Rey and Eric D. Reymond, [A Critical Edition of the Hebrew Manuscripts of Ben Sira
+With Translations and Philological Notes, JSJSup 217 (Leiden: Brill), 2024](https://brill.com/display/title/68844).
 
 The repository is structured as follow:
 - `raw_files` contains the original file from the paper edition as exported from Adobe Indesign.
