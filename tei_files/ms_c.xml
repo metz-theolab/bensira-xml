@@ -1,5 +1,6 @@
 <root>
-    <ms>Manuscript C<div type="chap" n="3">
+    <ms name="Manuscript C">
+        <div type="chap" n="3">
             <div type="verse" n="14">
                 <line n="1" folio="TS 12.867 recto" />
                 <w reconstructed="0">צדקת</w>
