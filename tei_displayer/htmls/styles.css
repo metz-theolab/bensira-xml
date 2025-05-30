@@ -9,9 +9,37 @@ h1, h2, h3 {
 font-weight: bold;
 text-align: right;
 }
+.margin{
+    color: crimson;
+}
+
+.highlight {
+    background-color: yellow;
+}
+
+#supralinear {
+    vertical-align: super;
+}
+
+#margin_car::before {content:"margin_car :"}
+
+#margin_infralinear::before {content:"margin_infralinear :"}
+
+#margin::before {content:"margin :"}
+
+#margin_supralinear::before {content:"margin_supralinear :"}
+
+#margin_reconstructed::before {content:"margin_reconstructed :"}
+
+
+
+
+
+
+
 p {
 margin: 0 0 1em 0;
-
+}
 #line{
     color: blueviolet;
 }
@@ -19,3 +47,4 @@ margin: 0 0 1em 0;
 #verse{
     color: blue;
 }
+
