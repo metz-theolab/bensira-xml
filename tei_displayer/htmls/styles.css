@@ -1,0 +1,21 @@
+
+body {
+font-family: 'David Libre', sans-serif;
+direction: rtl; 
+text-align: right;
+line-height: 1.5;
+}
+h1, h2, h3 {
+font-weight: bold;
+text-align: right;
+}
+p {
+margin: 0 0 1em 0;
+
+#line{
+    color: blueviolet;
+}
+
+#verse{
+    color: blue;
+}
