@@ -3,7 +3,7 @@
     <ms name="Manuscript B">
         <div type="chap" n="10">
             <div type="verse" n="19cd">
-                <line n="1"/>
+                <line n="1" folio="t-s 12.871 recto"/>
                 <w reconstructed="0">זרע</w>
                 <w reconstructed="0">נקלה</w>
                 <w reconstructed="0">מ̇ה̇</w>
@@ -38,7 +38,6 @@
                 <w reconstructed="0">ירא֟ת</w>
                 <w reconstructed="0">ייי׃</w>
                 <stich/>
-                <w reconstructed="0">ב</w>
             </div>
             <margin type="margin_car" line="3">
                 <w reconstructed="0">ביר</w>
@@ -92,8 +91,7 @@
                 <w reconstructed="0">חורים</w>
                 <w reconstructed="0">יעבדוהו</w>
                 <stich/>
-                <w reconstructed="1">וגב̊̊<g type="reconstructed"/></w>
-
+                <w reconstructed="1">וגב̊̊<g type='reconstructed'>ר</g></w>
                 <line n="8" folio="t-s 12.871 recto"/>
                 <w reconstructed="0">עּבּדּ</w>
                 <w reconstructed="0">מּשּכּיּלּ</w>
@@ -125,7 +123,7 @@
                 <w reconstructed="0">חפ֟צך</w>
                 <stich/>
                 <w reconstructed="0">ואל</w>
-                <w reconstructed="1">תתכב̊̊<g type="reconstructed"/></w>
+                <w reconstructed="1">תתכב̊̊<g type='reconstructed'>ד</g></w>
             </div>
             <div type="verse" n="27">
                 <line n="10" folio="t-s 12.871 recto"/>
@@ -147,7 +145,10 @@
                 <w reconstructed="0">ותן</w>
                 <w reconstructed="0">לה</w>
                 <w reconstructed="0">טעם</w>
-                <w reconstructed="1">כי̊̊ו̊̊צ̊̊<g type="reconstructed"/></w>
+                <w reconstructed="1">כי̊̊ו̊̊צ̊̊<g type='reconstructed'>א</g></w>
+                <w reconstructed="1">
+                    <g type='reconstructed'>בה׃</g>
+                </w>
             </div>
             <div type="verse" n="29">
                 <line n="13" folio="t-s 12.871 recto"/>
@@ -159,7 +160,10 @@
                 <stich/>
                 <w reconstructed="0">ומי</w>
                 <w reconstructed="0">יכבד</w>
-                <w reconstructed="1">מ̊̊<g type="reconstructed"/></w>
+                <w reconstructed="1">מ̊̊<g type='reconstructed'>קלה</g></w>
+                <w reconstructed="1">
+                    <g type='reconstructed'>נפשו׃</g>
+                </w>
             </div>
             <margin type="margin_car" line="13"/>
             <margin type="margin_reconstructed" line="13">
@@ -177,9 +181,9 @@
                 <w reconstructed="0">איש</w>
                 <w reconstructed="0">עשיר</w>
                 <w reconstructed="0">נכבד</w>
-                <w reconstructed="0">ב̇ג̇ל̇ל̊̊</w>
+                <w reconstructed="1">ב̇ג̇ל̇ל̊̊<g type='reconstructed'></g></w>
                 <w reconstructed="1">
-                    <g type="reconstructed">עשרו׃</g>
+                    <g type='reconstructed'>עשרו׃</g>
                 </w>
             </div>
             <div type="verse" n="31">
@@ -214,10 +218,8 @@
                 <w reconstructed="0">תשא</w>
                 <w reconstructed="0">ר̊̊אשו</w>
                 <stich/>
-                <w reconstructed="0">ו̊̊ב̊̊י̊̊ן̊̊</w>
-                <w reconstructed="1">נ̇ד̊̊<g type="reconstructed"/></w>
-                <w reconstructed="1"><g type="reconstructed"/>ב̊̊<g type="reconstructed"/></w>
-                <w reconstructed="0">]ם̊̊</w>
+                <w reconstructed="0">ו̊̊ב̊̊י̊̊ן̊̊</w>  
+                <w reconstructed="1">נ̇ד̊̊<g type='reconstructed'>י</g>ב̊̊<g type='reconstructed'>י</g>ם̊̊</w>
                 <w reconstructed="0">ת̊̊ו̊̊שי̊̊בנו׃</w>
             </div>
             <margin type="margin_car" line="17">
@@ -7491,7 +7493,7 @@
                 <w reconstructed="0">מ</w>
             </div>
             <margin type="margin_car" folio="MS.Heb.e.62 XII recto" line="14">
-                <w reconstructed="0">מהעולם</w>
+                <w reconstructed="0">מהעולם<hi rend="supralinear">.</hi></w>
             </margin>
             <div type="verse" n="21cd">
                 <line n="15" folio="MS.Heb.e.62 XII recto"/>
