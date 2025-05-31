@@ -1,100 +1,41 @@
 <!DOCTYPE html>
 <html>
 <head>
-<link rel="stylesheet" href="styles.css">
-<title>Manuscript 2Q18</title>
+  <meta charset="UTF-8">
+  <title>Transformation XSLT</title>
 </head>
-<body><h1>Manuscript 2Q18</h1>
-<h2>Chapter 2Q18 frag. 1</h2><h2>Chapter 2Q18 frag. 1 – Reconstruction of Sir 6:14-15 according HA</h2><h2>Chapter 6</h2><p dir="rtl"><b id="verse">14</b>
-<sup id="line">&#x200F;1</sup>[
-                    אוהב 
-                    אמונה 
-                    אוהב תקוף 
-                    ומוצאו 
-                    מצא 
-                    הון] </p>
-<h2>Chapter 6</h2><p dir="rtl"><b id="verse">15</b>
-<sup id="line">&#x200F;2</sup>[
-                    לאוהב אמונ אי̊ן̊ 
-                    מחיר 
-                    ואין 
-                    משקל 
-                    לטובתו] </p>
-<h2>Chapter 2Q18 frag. 1 – Reconstruction of Sir 6:14-15 according to HC</h2><h2>Chapter 6</h2><p dir="rtl"><b id="verse">14</b>
-<sup id="line">&#x200F;1</sup>[
-                    אוהב 
-                    אמונה 
-                    מגן תקיף 
-                    ומוצאו 
-                    מצא 
-                    הוא 
-                    הון] </p>
-<h2>Chapter 6</h2><p dir="rtl"><b id="verse">15</b>
-<sup id="line">&#x200F;2</sup>[
-                    אוהב אמונ אי̊ן̊ 
-                    מחיר 
-                    ואין 
-                    משקל 
-                    לטובתו] </p>
-<h2>Chapter 2Q18 frag. 1 – Reconstruction of Sir 1:19-20</h2><h2>Chapter 1</h2><p dir="rtl"><b id="verse">19</b>
-<sup id="line">&#x200F;1</sup>[
-                    שכל 
-                    ודעת 
-                    תביע 
-                    וכבוד 
-                    תומכיה רים] </p>
-<h2>Chapter 1</h2><p dir="rtl"><b id="verse">20</b>
-<sup id="line">&#x200F;2</sup>[
-                    שרש 
-                    חכמה 
-                    יראת 
-                    יהוה וענפי אר̊ך̊ 
-                    ימים] </p>
-<h2>Chapter 2Q18 frag. 2</h2><h2>Chapter 6</h2><p dir="rtl"><b id="verse">20</b>
-<sup id="line">&#x200F;1</sup>[
-                    עקובה 
-                    היא 
-                    לאויל 
-                    ולא 
-                    יכלכלנה 
-                    חסר ל] </p>
-<h2>Chapter 6</h2><p dir="rtl"><b id="verse">21</b>
-<sup id="line">&#x200F;2</sup>[
-                    כאבן 
-                    משא 
-                    תהיה 
-                    עליו 
-                    ולא 
-                    יאחר 
-                    להשליכה] </p>
-<h2>Chapter 6</h2><p dir="rtl"><b id="verse">22</b>
-<sup id="line">&#x200F;3</sup>[
-                    כי 
-                    המוסר 
-                    כשמה 
-                    כן 
-                    הוא 
-                    ולא 
-                    לרבים 
-                    הוא נ] </p>
-<h2>Chapter 6</h2><p dir="rtl"><b id="verse">23</b>
-<sup id="line">&#x200F;4</sup></p>
-<h2>Chapter 6</h2><p dir="rtl"><b id="verse">24</b>
-<sup id="line">&#x200F;5</sup></p>
-<h2>Chapter 6</h2><p dir="rtl"><b id="verse">25</b>
-<sup id="line">&#x200F;6</sup>[
-                    הט 
-                    שכמך 
-                    ושאה 
-                    ואל 
-                    תקץ 
-                    בתחבולתיה] </p>
-<h2>Chapter 6</h2><p dir="rtl"><b id="verse">26</b>
-<sup id="line">&#x200F;7</sup>[
-                    בכל 
-                    נפשך 
-                    קרב 
-                    אליה 
-                    ובכל 
-                    מאדך 
-                    שמר דרי] </p>
+<body>
+  <div id="output">Transformation en cours...</div>
+  <script>
+    async function transformXML() {
+      try {
+        // Charge le XML et le XSLT
+        const xmlRes = await fetch('../../tei_files/ms_2Q18.xml');
+        const xslRes = await fetch('to_html.xslt');
+        if (!xmlRes.ok || !xslRes.ok) throw new Error('Fichier XML ou XSLT introuvable');
+        const xmlText = await xmlRes.text();
+        const xslText = await xslRes.text();
+
+        // Parse les fichiers
+        const parser = new DOMParser();
+        const xml = parser.parseFromString(xmlText, 'text/xml');
+        const xsl = parser.parseFromString(xslText, 'text/xml');
+
+        // Applique la transformation
+        const xsltProcessor = new XSLTProcessor();
+        xsltProcessor.importStylesheet(xsl);
+        const resultDocument = xsltProcessor.transformToFragment(xml, document);
+
+        // Affiche le résultat
+        const output = document.getElementById('output');
+        output.innerHTML = "";
+        output.appendChild(resultDocument);
+      } catch (e) {
+        document.getElementById('output').innerText = "Erreur : " + e;
+      }
+    }
+
+    transformXML();
+  </script>
+</body>
+</html>

@@ -5,41 +5,64 @@ direction: rtl;
 text-align: right;
 line-height: 1.5;
 }
+
 h1, h2, h3 {
 font-weight: bold;
 text-align: right;
 }
-.margin{
-    color: crimson;
+
+.ms {
+
 }
 
-.highlight {
+.margin{
+    color:darkred;
+}
+
+.hi {
     background-color: yellow;
+}
+
+.reconstructed {
+    color:lightgray;
+}
+
+/* .reconstructed::before {content:"["} */
+
+/* .reconstructed::after {content:"]"} */
+
+.stich {
+    display: inline-block;
+    width: 30px;
 }
 
 #supralinear {
     vertical-align: super;
 }
 
-#margin_car::before {content:"margin_car :"}
+#infralinear {
+    vertical-align:sub;
+}
 
-#margin_infralinear::before {content:"margin_infralinear :"}
+#margin_car::before {content:"\200Fmargin_car:"}
 
-#margin::before {content:"margin :"}
+#margin_infralinear::before {content:"\200Fmargin_infralinear:"}
 
-#margin_supralinear::before {content:"margin_supralinear :"}
+#margin::before {content:"\200Fmargin:"}
 
-#margin_reconstructed::before {content:"margin_reconstructed :"}
+#margin_supralinear::before {content:"\200Fmargin_supralinear:"}
 
-
-
-
-
-
+#margin_reconstructed::before {content:"\200Fmargin_reconstructed:"}
 
 p {
-margin: 0 0 1em 0;
+margin: 0 0 0.2em 0;
 }
+
+.line{
+    color: blueviolet;
+}
+
+
 #line{
     color: blueviolet;
 }
