@@ -15,7 +15,9 @@
       </head>
       <body>
         <h1 class="ms"><xsl:value-of select="//ms/@name"/></h1>
+
         <xsl:apply-templates/>
+
       </body>
     </html>
   </xsl:template>
@@ -33,10 +35,12 @@
 
   <!-- Verset -->
   <xsl:template match="div[@type='verse']">
+    <div class="verse_block">
     <p class="verse">
-      <b><xsl:value-of select="@n"/></b>
+      <span class="verse_nb"><xsl:value-of select="@n"/></span>
       <xsl:apply-templates/>
     </p>
+    </div>
   </xsl:template>
 
   <!-- Ligne -->
@@ -66,10 +70,25 @@
     </span>
   </xsl:template>
 
-  <!-- hi (mise en valeur) -->
+<!-- line break -->
+ <xsl:template match="lb">
+  <br/>
+</xsl:template>
 
+  <!-- hi (mise en valeur) -->
 <xsl:template match="hi">
   <span class="hi">
+    <xsl:if test="@rend">
+      <xsl:attribute name="id">
+        <xsl:value-of select="@rend"/>
+      </xsl:attribute>
+    </xsl:if>
+    <xsl:apply-templates/>
+  </span>
+</xsl:template>
+
+<xsl:template match="del">
+    <span class="del">
     <xsl:if test="@rend">
       <xsl:attribute name="id">
         <xsl:value-of select="@rend"/>
