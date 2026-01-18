@@ -13,11 +13,11 @@
         <link rel="stylesheet" href="styles.css"></link>
         <meta charset="UTF-8"/> 
       </head>
+      
       <body>
+        <!-- <script src="script.js"></script> -->
         <h1 class="ms"><xsl:value-of select="//ms/@name"/></h1>
-
         <xsl:apply-templates/>
-
       </body>
     </html>
   </xsl:template>
@@ -33,15 +33,72 @@
     <xsl:apply-templates/>
   </xsl:template>
 
+
   <!-- Verset -->
   <xsl:template match="div[@type='verse']">
-    <div class="verse_block">
-    <p class="verse">
-      <span class="verse_nb"><xsl:value-of select="@n"/></span>
-      <xsl:apply-templates/>
-    </p>
-    </div>
+      <p class="verse">
+        <span class="verse_nb"><xsl:value-of select="@n"/></span>
+        <xsl:apply-templates/>
+      </p>
   </xsl:template>
+
+
+
+
+
+
+<!-- margin -->
+<!-- Regroupe les marges par type et par ligne -->
+<!-- <xsl:template match="margin[not(preceding-sibling::margin[@type = current()/@type and @line = current()/@line])]">
+  <span class="margin" id="{@type}" data-line="{@line}">
+    <xsl:for-each select=".|following-sibling::margin[@type = current()/@type and @line = current()/@line]">
+      <xsl:if test="position() &gt; 1">
+        <xsl:text> | mg</xsl:text>
+        <xsl:value-of select="position()"/>
+        <xsl:text> :</xsl:text>
+      </xsl:if>
+      <xsl:apply-templates/>
+    </xsl:for-each>
+  </span>
+</xsl:template> -->
+<xsl:template match="margin[not(preceding-sibling::margin[@type = current()/@type and @line = current()/@line])]">
+  <div class="margin" id="{@type}" data-line="{@line}">
+    <xsl:variable name="count" select="count(. | following-sibling::margin[@type = current()/@type and @line = current()/@line])"/>
+    <xsl:for-each select=". | following-sibling::margin[@type = current()/@type and @line = current()/@line]">
+      <xsl:choose>
+        <xsl:when test="$count &gt; 1">
+          <xsl:choose>
+            <xsl:when test="position() = 1">
+              <!--uncomment if you want margin numerotated <xsl:text>mg1 :</xsl:text> -->
+            </xsl:when>
+                <xsl:otherwise>
+                  <xsl:variable name="prev" select="preceding-sibling::margin[@type = current()/@type and @line = current()/@line][1]"/>
+                  <xsl:if test="not($prev/div[@type='verse'])">
+                    <xsl:text> | </xsl:text>
+                    <!-- replace by <xsl:text> &#10; | mg</xsl:text> if you want margin to be numerotated -->
+                    <!-- <xsl:value-of select="position()"/>
+                    <xsl:text> :</xsl:text> -->
+                  </xsl:if>
+                </xsl:otherwise>
+          </xsl:choose>
+        </xsl:when>
+        <xsl:otherwise/>
+      </xsl:choose>
+      <xsl:apply-templates/>
+    </xsl:for-each>
+  </div>
+</xsl:template>
+
+<!-- <xsl:template match="margin">
+  <span class="margin" id="{@type}" data-line="{@line}">
+    <xsl:apply-templates/>
+  </span>
+</xsl:template> -->
+
+
+<!-- Ignore les marges déjà traitées dans un bloc -->
+<xsl:template match="margin[preceding-sibling::margin[@type = current()/@type and @line = current()/@line]]"/>
+
 
   <!-- Ligne -->
   <xsl:template match="line">
@@ -94,16 +151,6 @@
         <xsl:value-of select="@rend"/>
       </xsl:attribute>
     </xsl:if>
-    <xsl:apply-templates/>
-  </span>
-</xsl:template>
-
-<!-- margin -->
-<xsl:template match="margin">
-  <span class="margin">
-    <xsl:attribute name="id">
-      <xsl:value-of select="@type"/>
-    </xsl:attribute>
     <xsl:apply-templates/>
   </span>
 </xsl:template>

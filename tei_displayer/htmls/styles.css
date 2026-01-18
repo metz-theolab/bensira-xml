@@ -7,11 +7,10 @@ body {
   font-family: 'SBLHebrew';
   direction: rtl; 
   text-align: right;
-  width: 400px;
+  width: 450px;
   line-height: 1.5;
-  /* margin-left: 100px; */
-  margin-right: 120px;
-  /* position: relative; */
+  margin-right: 150px;
+  position: relative;
 }
 
 h1, h2, h3 {
@@ -23,31 +22,51 @@ text-align: right;
 
 }
 
-.margin{
-  color: darkred;
-  font-size: small;
+.verse {
+  position: relative;
+} 
+
+
+.margin, .margin_block {
   position: absolute;
-  right: 10px;
-  width: 105px;
+  right: -140px;
+  width: 130px;
+  color: darkred;
+  font-size:smaller;
+  line-height: 1;
+  vertical-align: top;
+  word-break: break-word;
+
+}
+
+div.margin p {
+  white-space: nowrap;
+}
+
+#margin_right.margin, #block_margin_right.margin {
+  position: absolute;
+  right: -140px;
+  width: 130px;
   word-break: break-word;
 }
 
-#margin_right.margin {
-  color: darkred;
-  font-size: small;
+#margin_left.margin, #block_margin_left.margin {
   position: absolute;
-  right: 10px;
-  width: 105px;
+  right: 460px;
+  width: 150px;
   word-break: break-word;
 }
 
-#margin_left.margin {
-  color: darkred;
-  font-size: small;
-  position: absolute;
-  right: 540px;
-  width: 105px;
-  word-break: break-word;
+#infralinear.margin, #block_infralinear.margin {
+  position: relative;
+  right: 0px;
+  width:fit-content;
+}
+
+#interlinear.margin, #block_interlinear.margin {
+  position: relative;
+  right: 0px;
+  width:fit-content;
 }
 
 .hi {
