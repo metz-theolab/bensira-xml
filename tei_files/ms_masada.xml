@@ -286,7 +286,7 @@
                 <w reconstructed="0">איש</w>
                 <w reconstructed="0">כשל</w>
                 <w reconstructed="0"></w>
-                <w>{מ̊של̊}<a>ונוקש</a></w>
+                <w reconstructed="0">{מ̊של̊}<hi rend="supralinear">ונוקש</hi></w>
                 <w reconstructed="1">בכ̊<g type='reconstructed'>ל</g></w>
                  <stich />
                 <w reconstructed="0">אפס</w>
@@ -587,8 +587,8 @@
             </div>
             <div type="verse" n="21b/20a">
                 <line n="25" col="Col. III" />
-                <w reconstructed="0">מ<add place="above">ח</add>ש{א}ות </w>
-                <w reconstructed="0">מחל<add place="above">ק</add>ש{א}ת </w>
+                <w reconstructed="0">מ<hi rend="supralinear">ח</hi>ש{א}ות </w>
+                <w reconstructed="0">מחל<hi rend="supralinear">ק</hi>ש{א}ת </w>
                 <w reconstructed="0">מנה</w>
                  <stich />
                 <w reconstructed="0">ומשאל</w>
@@ -808,7 +808,7 @@
                 <line n="17" col="Col. IV" />
                 <w reconstructed="0">בנעוריה</w>
                 <w reconstructed="0">פן</w>
-                <w reconstructed="0"><add place="above">ת</add>מאס </w>
+                <w reconstructed="0"><hi rend="supralinear">ת</hi>מאס </w>
                  <stich />
                 <w reconstructed="0">וב̇על̇יה</w>
                 <w reconstructed="0">פן</w>
@@ -1116,7 +1116,7 @@
                 <line n="18" col="Col. V" />
                 <w reconstructed="0">שמש</w>
                 <w reconstructed="0">מופיע</w>
-                <w reconstructed="0">בצאתו̊̊</w>
+                <w reconstructed="0">בצאתו̊</w>
                 <w reconstructed="0">נכסה</w>
                 <stich />
                 <w reconstructed="0">כלי</w>
@@ -1348,7 +1348,7 @@
                     <g type='reconstructed'>כל</g>
                 </w>
                 <w reconstructed="1"><g type='reconstructed'>מע</g>מד</w>
-                <w reconstructed="0"><add place="above">מימ</add> </w>
+                <w reconstructed="0"><hi rend="supralinear">מימ</hi> </w>
                 <w reconstructed="1">יקר̇<g type='reconstructed'>ים</g></w>
                 <stich />
             </div>
@@ -1358,7 +1358,7 @@
                     <g type='reconstructed'>יבול</g>
                 </w>
                 <w reconstructed="1"><g type='reconstructed'>הרי</g>ם</w>
-                <w reconstructed="0"><add place="above">חרב</add> </w>
+                <w reconstructed="0"><hi rend="supralinear">חרב</hi> </w>
                 <w reconstructed="1">י̇ש̇<g type='reconstructed'>יק</g></w>
                 <stich />
             </div>
@@ -1389,8 +1389,8 @@
                     <g type='reconstructed'>חי</g>
                 </w>
                 <w reconstructed="1"><g type='reconstructed'>ו</g>ג̊בו̇</w>
-                <w reconstructed="0">גבו<add place="above">ר</add>ת </w>
-                <w reconstructed="0"><add place="above">ם</add>רה̇ב </w>                
+                <w reconstructed="0">גבו<hi rend="supralinear">ר</hi>ת </w>
+                <w reconstructed="0"><hi rend="supralinear">ם</hi>רה̇ב </w>                
             </div>
             <div type="verse" n="26">
                 <line n="21" col="Col. VI" />
@@ -1503,7 +1503,7 @@
             <div type="verse" n="7">
                 <line n="13" col="Col. VII" />
                 <w reconstructed="0">כל</w>
-                <w reconstructed="0">א<add place="above">ל</add>ה</w>
+                <w reconstructed="0">א<hi rend="supralinear">ל</hi>ה</w>
                 <w reconstructed="0">בדרם</w>
                 <w reconstructed="0">נכבדו</w>
                 <stich />

@@ -1,0 +1,132 @@
+@font-face {
+  font-family: 'SBLHebrew';
+  src: url("fonts/SBL_Hbrw.ttf") format("truetype");
+}
+
+body {
+  font-family: 'SBLHebrew';
+  direction: rtl; 
+  text-align: right;
+  width: 450px;
+  line-height: 1.5;
+  margin-right: 150px;
+  position: relative;
+}
+
+h1, h2, h3 {
+font-weight: bold;
+text-align: right;
+}
+
+.ms {
+
+}
+
+.verse {
+  position: relative;
+} 
+
+
+.margin, .margin_block {
+  position: absolute;
+  right: -140px;
+  width: 130px;
+  color: darkred;
+  font-size:smaller;
+  line-height: 1;
+  vertical-align: top;
+  word-break: break-word;
+
+}
+
+div.margin p {
+  white-space: nowrap;
+}
+
+#margin_right.margin, #block_margin_right.margin {
+  position: absolute;
+  right: -140px;
+  width: 130px;
+  word-break: break-word;
+}
+
+#margin_left.margin, #block_margin_left.margin {
+  position: absolute;
+  right: 460px;
+  width: 150px;
+  word-break: break-word;
+}
+
+#infralinear.margin, #block_infralinear.margin {
+  position: relative;
+  right: 0px;
+  width:fit-content;
+}
+
+#interlinear.margin, #block_interlinear.margin {
+  position: relative;
+  right: 0px;
+  width:fit-content;
+}
+
+.hi {
+    background-color: yellow;
+}
+
+.reconstructed {
+    opacity: 0.25;
+}
+
+/* .reconstructed::before {content:"["} */
+
+/* .reconstructed::after {content:"]"} */
+
+.stich {
+    display: inline-block;
+    width: 30px;
+}
+
+
+.del{
+    color: blueviolet;
+}
+
+#strikethrough{
+    text-decoration: line-through;
+}
+
+#supralinear, #interlinear {
+    vertical-align: super;
+}
+
+#interlinear.margin {
+  font-size: small;
+  position: relative;
+  right: 0px;
+  width:fit-content;
+}
+
+#infralinear {
+    vertical-align:sub;
+}
+
+
+
+p {
+margin: 0 0 0.2em 0;
+}
+
+.line{
+    color: blueviolet;
+}
+
+
+#line{
+    color: blueviolet;
+}
+
+.verse_nb{
+    color:maroon;
+    font-weight: bold;
+}
+

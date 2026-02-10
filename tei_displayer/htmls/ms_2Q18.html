@@ -1,112 +1,41 @@
 <!DOCTYPE html>
 <html>
 <head>
-<title>Manuscript 2Q18</title>
+  <meta charset="UTF-8">
+  <title>Transformation XSLT</title>
 </head>
-<body><h1>Manuscript 2Q18</h1>
-<h2>Chapter 2Q18 frag. 1</h2>
-ת ה̇ ◦◦א <h2>Chapter 2Q18 frag. 1 – Reconstruction of Sir 6:14-15 according HA</h2>
-<h2>Chapter 6</h2>
-<h3>Verse 14</h3>
+<body>
+  <div id="output">Transformation en cours...</div>
+  <script>
+    async function transformXML() {
+      try {
+        // Charge le XML et le XSLT
+        const xmlRes = await fetch('../../tei_files/ms_2Q18.xml');
+        const xslRes = await fetch('to_html.xslt');
+        if (!xmlRes.ok || !xslRes.ok) throw new Error('Fichier XML ou XSLT introuvable');
+        const xmlText = await xmlRes.text();
+        const xslText = await xslRes.text();
 
-                     
-                     
-                     ת 
-                     
-                     
-                     <h2>Chapter 6</h2>
-<h3>Verse 15</h3>
+        // Parse les fichiers
+        const parser = new DOMParser();
+        const xml = parser.parseFromString(xmlText, 'text/xml');
+        const xsl = parser.parseFromString(xslText, 'text/xml');
 
-                     
-                 אי̊ן̊ 
-                     
-                     
-                     
-                     <h2>Chapter 2Q18 frag. 1 – Reconstruction of Sir 6:14-15 according to HC</h2>
-<h2>Chapter 6</h2>
-<h3>Verse 14</h3>
+        // Applique la transformation
+        const xsltProcessor = new XSLTProcessor();
+        xsltProcessor.importStylesheet(xsl);
+        const resultDocument = xsltProcessor.transformToFragment(xml, document);
 
-                     
-                     
-                     ת 
-                     
-                     
-                     
-                     <h2>Chapter 6</h2>
-<h3>Verse 15</h3>
+        // Affiche le résultat
+        const output = document.getElementById('output');
+        output.innerHTML = "";
+        output.appendChild(resultDocument);
+      } catch (e) {
+        document.getElementById('output').innerText = "Erreur : " + e;
+      }
+    }
 
-                     
-                 אי̊ן̊ 
-                     
-                     
-                     
-                     <h2>Chapter 2Q18 frag. 1 – Reconstruction of Sir 1:19-20</h2>
-<h2>Chapter 1</h2>
-<h3>Verse 19</h3>
-
-                     
-                     
-                     
-                     
-                     
-             <h2>Chapter 1</h2>
-<h3>Verse 20</h3>
-
-                     
-                     
-                     
-                     
-                 אר̊ך̊ 
-                     <h2>Chapter 2Q18 frag. 2</h2>
-<h2>Chapter 6</h2>
-<h3>Verse 20</h3>
-
-                     
-                     
-                     
-                     
-                     
-                     
-             <h2>Chapter 6</h2>
-<h3>Verse 21</h3>
-
-                     
-                     
-                     
-                     
-                     
-                     
-                     <h2>Chapter 6</h2>
-<h3>Verse 22</h3>
-
-                     
-                     
-                     
-                     
-                     
-                     
-                     
-                     
-             <h2>Chapter 6</h2>
-<h3>Verse 23</h3>
-<h2>Chapter 6</h2>
-<h3>Verse 24</h3>
-<h2>Chapter 6</h2>
-<h3>Verse 25</h3>
-
-                     
-                     
-                     
-                     
-                     
-                     <h2>Chapter 6</h2>
-<h3>Verse 26</h3>
-
-                     
-                     
-                     
-                     
-                     
-                     
-                     
-             
+    transformXML();
+  </script>
+</body>
+</html>

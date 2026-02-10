@@ -157,8 +157,7 @@
                 <w reconstructed="0">נפשו׃</w>
                 <stich />
                 <w reconstructed="0">ובוטח</w>
-                <w reconstructed="0">בי</w>
-                <w reconstructed="0">ָי</w>
+                <w reconstructed="0">בי<hi rend="supralinear">יָ</hi>י</w>
                 <w reconstructed="0">לא</w>
                 <w reconstructed="0">יבוש׃</w>
             </div>
@@ -249,7 +248,7 @@
                 </w>
                 <w reconstructed="1"><g type='reconstructed'>ב̶ח̶כ̶</g>מ̶ת̶</w>
                 <w reconstructed="0">בחכמת</w>
-                <w reconstructed="0">ייי</w>
+                <w reconstructed="0">י<hi rend="supralinear">יָ</hi>י</w>
                 <w reconstructed="0">נשפטו</w>
                 <stich />
                 <w reconstructed="0">ויש</w>
@@ -291,7 +290,7 @@
                     <g type='reconstructed'>אבל</g>
                 </w>
                 <w reconstructed="1"><g type='reconstructed'>חכמ</g>ת̊</w>
-                <w reconstructed="0">ייי</w>
+                <w reconstructed="0">י<hi rend="supralinear">יָ</hi>י</w>
                 <w reconstructed="0">תבדילם׃</w>
                 <stich />
                 <w reconstructed="0">וישם</w>
@@ -386,10 +385,10 @@
                 <w reconstructed="0">ה̊ב̊ט̊</w>
                 <w reconstructed="0">אל</w>
                 <w reconstructed="0">כל</w>
-                <w reconstructed="0">מע̊ש̊̊י̊</w>
+                <w reconstructed="0">מע̊ש̊י̊</w>
                 <w reconstructed="0">אל</w>
                 <w reconstructed="0">כלם</w>
-                <w reconstructed="0">שנים<add place="above">שנים</add></w>
+                <w reconstructed="0">שנים<hi rend="supralinear">שנים</hi></w>
                 <stich />
                 <w reconstructed="0">זה</w>
                 <w reconstructed="0">לעומת</w>
@@ -498,7 +497,7 @@
                 <w reconstructed="0">טוב</w>
                 <w reconstructed="0">לחלות̊</w>
                 <w reconstructed="0">ב̊ניך</w>
-                <w reconstructed="0">:ניך<add place="above">פ</add></w>
+                <w reconstructed="0">:ניך<hi rend="supralinear">פ</hi></w>
                 <stich />
                 <w reconstructed="0">מהביטך</w>
                 <w reconstructed="0">על</w>
@@ -524,7 +523,7 @@
                 <w reconstructed="0">בעת̇</w>
                 <w reconstructed="0">מספ̇ר̊</w>
                 <w reconstructed="0">מצער</w>
-                <w reconstructed="0">:יך<add place="above">ימ</add></w>
+                <w reconstructed="0">:יך<hi rend="supralinear">ימ</hi></w>
                 <stich />
                 <w reconstructed="0">וב̇יום</w>
                 <w reconstructed="0">המות</w>

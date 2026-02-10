@@ -727,7 +727,7 @@
                 <w reconstructed="0">מ̇י̇ו̇עץ</w>
                 <line n="12" folio="baiu id2 recto" />
                 <w reconstructed="0">שמר</w>
-                <w reconstructed="0">{ננפ{ש<add place="above">ש</add>ך</w>
+                <w reconstructed="0">{ננפ{ש<hi rend="supralinear">ש</hi>ך</w>
                 <stich />
                 <w reconstructed="0">ודע</w>
                 <w reconstructed="0">לפנים</w>
@@ -1007,7 +1007,7 @@
             </div>
             <div type="verse" n="27">
                 <w reconstructed="0">בני</w>
-                <w reconstructed="0"><add place="above">ב</add>חמר</w>
+                <w reconstructed="0"><hi rend="supralinear">ב</hi>חמר</w>
                 <w reconstructed="0">נס</w>
                 <w reconstructed="0">נפשך</w>
                 <stich />

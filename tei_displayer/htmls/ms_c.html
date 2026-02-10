@@ -10,7 +10,7 @@
   async function transformXML() {
     try {
       // Ajoute un timestamp pour éviter le cache
-      const xmlUrl = '../../tei_files/ms_a.xml?t=' + new Date().getTime();
+      const xmlUrl = '../../tei_files/ms_c.xml?t=' + new Date().getTime();
       const xslUrl = 'to_html.xslt'; // Le XSLT change rarement, donc pas besoin de forcer le reload
 
       const xmlRes = await fetch(xmlUrl, {cache: "no-store"});
