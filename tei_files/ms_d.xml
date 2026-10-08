@@ -461,7 +461,7 @@
                 </w>
                 <w reconstructed="1"><g type='reconstructed'>ל</g>פ̊נ̊י̊ך</w>
             </div>
-            <margin type="margin_car" folio="t-s as 118.78 verso" line="12">
+            <margin verse="12" type="margin_car" folio="t-s as 118.78 verso" line="12">
                 <w reconstructed="0">כמא̊בד̇</w>
             </margin>
             <div type="verse" n="12">
@@ -476,7 +476,7 @@
                 <w reconstructed="0">הלוית</w>
                 <w reconstructed="0">◦ֿ◦כמא</w>
             </div>
-            <margin type="margin_car" line="12">
+            <margin verse="12" type="margin_car" line="12">
                 <w reconstructed="0">כמא̊בד</w>
             </margin>
             <div type="verse" n="13">
@@ -971,7 +971,7 @@
                 <w reconstructed="0">אין</w>
                 <w reconstructed="0">מספר̊׃</w>
             </div>
-            <margin type="margin" folio="baiu id2 verso" line="12">
+            <margin verse="25" type="margin" folio="baiu id2 verso" line="12">
                 <w reconstructed="0">גויתהן</w>
                 <w reconstructed="0">מספר</w>
                 <w reconstructed="0">יש̊</w>
