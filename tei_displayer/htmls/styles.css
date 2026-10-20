@@ -57,6 +57,19 @@ div.margin p {
   word-break: break-word;
 }
 
+/* Neue Kategorie: margin_car-Glossen, die am LINKEN Rand stehen (z.B. Kapitel 37).
+   Gleiche Position wie margin_left, aber eigene Kategorie, damit margin_car
+   und margin_left/right anderswo unberührt bleiben. */
+#margin_car_left.margin, #block_margin_car_left.margin {
+  position: absolute;
+  right: 460px;
+  width: 150px;
+  color: darkred;
+  font-size: smaller;
+  line-height: 1;
+  word-break: break-word;
+}
+
 #infralinear.margin, #block_infralinear.margin {
   position: relative;
   right: 0px;
@@ -130,3 +143,24 @@ margin: 0 0 0.2em 0;
     font-weight: bold;
 }
 
+/* Verszahl-Kennzeichnung an den Randglossen: klein, gedaempft, damit sie die
+   Lesart nicht ueberdeckt, aber die Zuordnung zum Vers zeigt. */
+.margin_vn{
+    color: maroon;
+    font-weight: bold;
+    font-size: 0.72em;
+    unicode-bidi: isolate;
+    margin-inline-start: 0;
+    margin-inline-end: 4px;
+    display: inline-block;
+}
+.margin_vn::after{ content: "\00A0"; }
+
+
+/* Gezielter Zusatzabstand an wenigen Stellen mit langen Randlesarten,
+   damit diese nicht in den naechsten Vers ueberlaufen (Ueberlappung). */
+#v31_7  { min-height: 4em  !important; }
+#v32_3  { min-height: 5em  !important; }
+#v39_24 { min-height: 3.2em !important; }
+#v39_31 { min-height: 3.2em !important; }
+#v40_26cd { min-height: 9em !important; }

@@ -298,7 +298,7 @@
                 <w reconstructed="0">דרי</w>
                 <w reconstructed="0">:האר̊ץ̊</w>
             </div>
-            <margin type="margin" folio="ena 3597 recto" line="19">
+            <margin verse="11" type="margin_left" folio="ena 3597 recto" line="19">
                 <w reconstructed="1">וי̊ש̊נ̊<g type='reconstructed'>ה</g></w>
                 <w reconstructed="0">א̊ת̊</w>
                 <w reconstructed="0">ד̊רכיהם</w>
@@ -396,7 +396,7 @@
                     <g type='reconstructed'>זה׃</g>
                 </w>
             </div>
-            <margin type="margin_supralinear" folio="ena 3597 verso" line="2">
+            <margin verse="15" type="margin_supralinear" folio="ena 3597 verso" line="2">
                 <w reconstructed="0">שנים</w>
             </margin>
             <div type="verse" n="16">

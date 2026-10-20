@@ -968,8 +968,8 @@
                 <w reconstructed="0">ישפוך</w>
             </div>
         </div>
-        <div type="chap" n="41">
-            <div type="verse" n="14bc // ‏20">
+        <div type="chap" n="20">
+            <div type="verse" n="30 // 41:14bc">
                 <w reconstructed="0">חכמה</w>
                 <line n="1" folio="Frag. G. Combs recto" />
                 <w reconstructed="0">טמונה̇</w>
@@ -981,8 +981,8 @@
                 <w reconstructed="1">בש<g type="reconstructed">תיהם∙</g></w>
             </div>
         </div>
-        <div type="chap" n="41">
-            <div type="verse" n="15 // 20">
+        <div type="chap" n="20">
+            <div type="verse" n="31 // 41:15">
                 <line n="3" folio="Frag. G. Combs recto" />
                 <w reconstructed="0">טוב</w>
                 <w reconstructed="0">איש</w>
@@ -1352,7 +1352,7 @@
                 <line n="1" folio="TS 12.867 recto" />
                 <w reconstructed="1">ושנות̇<g type="reconstructed" /></w>
                 <w reconstructed="1">
-                    <g type="reconstructed">הייו</g>
+                    <g type="reconstructed">חייו</g>
                 </w>
                 <w reconstructed="0">
                     <space unit="char" extent="2" />
@@ -1549,8 +1549,8 @@
                 <w reconstructed="0">יסביב∙</w>
             </div>
         </div>
-        <div type="chap" n="?27">
-            <div type="verse" n="17">
+        <div type="chap" n="27">
+            <div type="verse" n="17?">
                 <w reconstructed="0">נסה</w>
                 <w reconstructed="0">
                     <space unit="char" extent="26" />
